@@ -1,0 +1,2530 @@
+[
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Fritten mit Bratensauce und Mozzarella nach kanadischem Original",
+            "name": "Classic Québec Poutine",
+            "price": "ca. 7,10 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit Champignon-Rahmsauce und Mozzarella",
+            "name": "Montreal Style Poutine",
+            "price": "ca. 7,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit Chili con Carne und Käsesauce, vegetarisch möglich",
+            "name": "Chili Cheese Fries",
+            "price": "ca. 8,10 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knoblauchfritten mit Guacamole, Sour Cream und Tomaten",
+            "name": "Tijuana Street Fries",
+            "price": "ca. 8,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit veganer Bolognese, Rucola und Paprika-Chili-Dip",
+            "name": "Bolofritten",
+            "price": "ca. 8,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit Currywurst, Röstzwiebeln und Currywurstsauce",
+            "name": "Currywurst Spezial",
+            "price": "ca. 8,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit Pulled Pork, Krautsalat und Baconnaise",
+            "name": "BBQ Pulled Pork Poutine",
+            "price": "ca. 9,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit mariniertem Hähnchen, Tomaten-Avocado-Salat und Zitronen-Aioli",
+            "name": "Chicken Shawarma Poutine",
+            "price": "ca. 9,70 €"
+          }
+        ],
+        "name": "Poutines"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Die klassische Portion knuspriger Fritten",
+            "name": "Hausfritten",
+            "price": "ca. 3,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fritten mit Knoblauch und Petersilie",
+            "name": "Knoblauchfritten",
+            "price": "ca. 3,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knusprige Fritten aus Süßkartoffeln",
+            "name": "Süßkartoffelfritten",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Extra würzige Fritten mit scharfem Topping",
+            "name": "Fire Fries",
+            "price": "ca. 5,50 €"
+          }
+        ],
+        "name": "Fritten"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Vegane Bowl mit Spinat, Avocado, Falafel, Hummus und Quinoa",
+            "name": "Rainbow Bowl",
+            "price": "ca. 8,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Bowl mit Hähnchenbruststreifen, Avocado, Gurke und Quinoa",
+            "name": "Avocado Chicken Bowl",
+            "price": "ca. 9,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frischer Salat mit Tomaten, Avocado und roten Zwiebeln",
+            "name": "Tomaten-Avocado-Salat",
+            "price": "ca. 3,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knackiger Krautsalat mit feiner Senfnote, vegan",
+            "name": "Coleslaw",
+            "price": "ca. 3,90 €"
+          }
+        ],
+        "name": "Salate & Bowls"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Knusprige Hähnchenstäbchen",
+            "name": "Crispy Chicken Sticks",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frittierte Hähnchenbällchen mit cremigem Avocadokern",
+            "name": "Avocado Chicken Bombs",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Grüne Falafelbällchen mit Zitronen-Aioli und Quinoa",
+            "name": "Falafel Love",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Metzgerwurst nach Hausrezept mit Currywurstsauce",
+            "name": "Currywurst",
+            "price": "ca. 4,60 €"
+          },
+          {
+            "approx": true,
+            "desc": "Süße Churros als Dessert, vegan",
+            "name": "Churros",
+            "price": "ca. 4,90 €"
+          }
+        ],
+        "name": "Snacks"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassische Dips, auch vegan erhältlich",
+            "name": "Mayo / Ketchup",
+            "price": "ca. 1,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frische Aioli mit Zitronennote",
+            "name": "Zitronen-Aioli",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzige Mayo mit Bacon-Geschmack",
+            "name": "Baconnaise",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Scharfer Dip mit Paprika und Chili",
+            "name": "Paprika-Chili",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassische Sauerrahm-Creme",
+            "name": "Sour Cream",
+            "price": "ca. 1,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frische Guacamole aus Avocados",
+            "name": "Guacamole",
+            "price": "ca. 2,20 €"
+          }
+        ],
+        "name": "Dips"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Poutines bei Frittenwerk kosten je nach Topping zwischen ca. 7,10 € und 9,70 €. Die Classic Québec Poutine ist mit rund 7,10 € die günstigste Variante, während Poutines mit Pulled Pork oder Chicken Shawarma bei etwa 9,70 € liegen. Die Preise können je nach Standort leicht abweichen.",
+        "q": "Was kostet eine Poutine bei Frittenwerk?"
+      },
+      {
+        "a": "Ja, Frittenwerk bietet eine große Auswahl an veganen Gerichten. Viele Poutines wie die Tijuana Street Fries oder die Bolofritten sind vegan oder lassen sich vegan zubereiten. Auch Bowls, Falafel und Dips gibt es in veganen Varianten.",
+        "q": "Gibt es bei Frittenwerk vegane Gerichte?"
+      },
+      {
+        "a": "Poutine ist ein kanadisches Gericht aus Pommes frites, Bratensauce und Käse. Frittenwerk hat das Konzept nach Deutschland gebracht und mit internationalen Toppings wie Pulled Pork, Shawarma oder Currywurst erweitert.",
+        "q": "Was ist eine Poutine?"
+      },
+      {
+        "a": "Frittenwerk wurde 2014 in Düsseldorf gegründet und betreibt inzwischen zahlreiche Filialen in ganz Deutschland, unter anderem in Köln, Essen, Heidelberg und vielen weiteren Städten.",
+        "q": "Wo gibt es Frittenwerk in Deutschland?"
+      },
+      {
+        "a": "Eine Portion Hausfritten kostet ca. 3,50 €. Knoblauchfritten liegen bei etwa 3,90 € und Süßkartoffelfritten bei rund 4,50 €. Die Preise können je nach Filiale leicht variieren.",
+        "q": "Wie viel kostet eine Portion Fritten bei Frittenwerk?"
+      }
+    ],
+    "h1": "Frittenwerk Speisekarte – Preise 2026",
+    "intro": "Frittenwerk hat sich seit der Gründung 2014 in Düsseldorf einen Namen als Deutschlands bekanntester Pommes-Spezialist gemacht. Das Konzept verbindet kanadische Poutine mit Streetfood aus aller Welt: knusprige Fritten treffen auf Toppings wie Pulled Pork, Chicken Shawarma oder vegane Bolognese. Die Karte ist bewusst breit aufgestellt – von klassischen Hausfritten über Bowls bis zu Currywurst-Spezialitäten ist für jeden Geschmack etwas dabei. Auch Vegetarier und Veganer kommen nicht zu kurz, denn ein großer Teil der Poutines ist pflanzlich oder vegetarisch erhältlich. Die Preise bewegen sich im typischen Fast-Casual-Bereich: Eine Portion Fritten gibt es schon ab wenigen Euro, während die großen Poutines mit Topping zwischen sieben und zehn Euro kosten. Da die Preise je nach Standort leicht variieren können, haben wir hier eine Übersicht der gängigsten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher Filialen aus dem Jahr 2026.",
+    "metaDescription": "Frittenwerk Speisekarte & Preise 2026: Poutine, Fritten, Bowls und Snacks im Überblick. Alle Kategorien mit aktuellen Preisen für Deutschland.",
+    "slug": "frittenwerk-speisekarte",
+    "title": "Frittenwerk Speisekarte 2026 – Preise in Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Zartes Steak vom Filet",
+            "name": "Filet Steak 300g",
+            "price": "ca. 31,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrilltes Rinderfilet nach Churrasco-Art",
+            "name": "Tenderloin Beef Churrasco",
+            "price": "ca. 23,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Rind mit Garnelen vom Grill",
+            "name": "Surf Turf Beef Churrasco",
+            "price": "ca. 19,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Rind mit rauchiger BBQ-Note vom Grill",
+            "name": "BBQ Beef Churrasco",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Hähnchen mit Rosmarin vom Grill",
+            "name": "Rosemary Chicken Churrasco",
+            "price": "ca. 15,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzig mariniertes Hähnchen vom Grill",
+            "name": "Cajun Chicken Churrasco",
+            "price": "ca. 15,00 €"
+          }
+        ],
+        "name": "Steaks & Churrasco"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Gegrilltes Rind oder Hähnchen mit Reis, Käse und Sour Cream",
+            "name": "Old School Fajita",
+            "price": "ca. 11,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fajita mit Avocado und Ranch-Dressing",
+            "name": "Avocado Ranch Fajita",
+            "price": "ca. 13,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fajita mit Käse nach Philly-Art",
+            "name": "Philly Cheese Fajita",
+            "price": "ca. 13,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fajita mit Rind oder Hähnchen und Garnelen",
+            "name": "Surf Turf Fajita",
+            "price": "ca. 15,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Vegane Fajita mit BBQ-Jackfruit",
+            "name": "BBQ-Jackfruit Fajita",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fajita mit würziger Cowboy-Marinade",
+            "name": "Soi Cowboy Fajita",
+            "price": "ca. 12,00 €"
+          }
+        ],
+        "name": "Fajitas"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassische Tacos mit Rind oder Hähnchen",
+            "name": "Old School Tacos",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Tacos mit würziger Cowboy-Füllung",
+            "name": "Soi Cowboy Tacos",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Tacos mit Käse nach Philly-Art",
+            "name": "Philly Cheese Tacos",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Tacos mit Avocado und Ranch-Dressing",
+            "name": "Avocado Ranch Tacos",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Tacos mit geröstetem Knoblauch",
+            "name": "Roasted Garlic Tacos",
+            "price": "ca. 12,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Tacos mit Rind oder Hähnchen und Garnelen",
+            "name": "Surf Turf Tacos",
+            "price": "ca. 13,00 €"
+          }
+        ],
+        "name": "Tacos"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassischer Burrito mit Rind oder Hähnchen, Reis und Käse",
+            "name": "Old School Burrito",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burrito mit würziger Cowboy-Füllung",
+            "name": "Soi Cowboy Burrito",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burrito mit Käse nach Philly-Art",
+            "name": "Philly Cheese Burrito",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burrito mit Signature-Chili",
+            "name": "Signature Chili Burrito",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burrito mit geröstetem Knoblauch",
+            "name": "Roasted Garlic Burrito",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burrito mit Avocado und Ranch-Dressing",
+            "name": "Avocado Ranch Burrito",
+            "price": "ca. 11,00 €"
+          }
+        ],
+        "name": "Burritos"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Feine Kartoffelsticks",
+            "name": "Julienne Fries",
+            "price": "ca. 3,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gebackene Kartoffelstreifen mit Signature-Sauce",
+            "name": "Baked Potato Strips",
+            "price": "ca. 5,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillte Hähnchenflügel mit 2 Saucen",
+            "name": "Chicken Wings (6 Stk.)",
+            "price": "ca. 5,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillte Hähnchenflügel mit 4 Saucen",
+            "name": "Chicken Wings (12 Stk.)",
+            "price": "ca. 11,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremige Suppe mit Brokkoli und Käse",
+            "name": "Käse-Brokkoli-Suppe",
+            "price": "ca. 4,00 €"
+          }
+        ],
+        "name": "Sides & Extras"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassische Softdrinks",
+            "name": "Softdrinks (Cola, Fanta, Sprite)",
+            "price": "ca. 3,80 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mexikanische Limonade in verschiedenen Sorten",
+            "name": "Jarritos Mexican Lemonade",
+            "price": "ca. 4,10 €"
+          },
+          {
+            "approx": true,
+            "desc": "Hausgemachter Eistee",
+            "name": "Handmade Iced Tea",
+            "price": "ca. 4,40 €"
+          },
+          {
+            "approx": true,
+            "desc": "Stilles oder sprudelndes Mineralwasser",
+            "name": "Mineralwasser",
+            "price": "ca. 3,80 €"
+          }
+        ],
+        "name": "Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Steaks bei Timberjacks kosten je nach Cut zwischen ca. 15 € und 31 €. Ein Filet Steak (300g) liegt bei etwa 31 €, während Churrasco-Varianten vom Hähnchen schon ab rund 15 € erhältlich sind. Die Preise können je nach Standort variieren.",
+        "q": "Was kostet ein Steak bei Timberjacks?"
+      },
+      {
+        "a": "Ja, Timberjacks bietet vegetarische und vegane Optionen. Dazu gehören zum Beispiel die BBQ-Jackfruit Fajita, verschiedene Salate und vegetarische Tacos. Auch viele Beilagen sind fleischlos.",
+        "q": "Gibt es bei Timberjacks vegetarische Gerichte?"
+      },
+      {
+        "a": "Bei Timberjacks werden Fajitas als Pfannengericht mit Tortillas zum Selberbelegen serviert. Tacos sind kleine, offene Tortillas mit Füllung, Burritos dagegen große, fest gerollte Tortillas mit Reis, Bohnen und Fleisch.",
+        "q": "Was ist der Unterschied zwischen Fajitas, Tacos und Burritos?"
+      },
+      {
+        "a": "Die Burritos bei Timberjacks kosten zwischen ca. 8 € und 11 €. Der Old School Burrito ist mit etwa 8 € die günstigste Variante, der Avocado Ranch Burrito liegt bei rund 11 €.",
+        "q": "Wie viel kostet ein Burrito bei Timberjacks?"
+      },
+      {
+        "a": "Timberjacks betreibt mehrere Standorte in Deutschland, unter anderem in Göttingen. Die Speisekarten und Preise können je nach Filiale leicht unterschiedlich sein.",
+        "q": "Wo gibt es Timberjacks in Deutschland?"
+      }
+    ],
+    "h1": "Timberjacks Speisekarte – Preise 2026",
+    "intro": "Timberjacks verbindet amerikanisches Steakhouse-Feeling mit texanisch-mexikanischer Küche. Die Speisekarte ist ungewöhnlich vielseitig: Neben saftigen Steaks und Churrasco vom Grill gibt es Fajitas, Tacos und Burritos in vielen Varianten – von klassisch über Avocado Ranch bis zu veganen Optionen mit BBQ-Jackfruit. Das Restaurant richtet sich an Gäste, die rustikales Ambiente und große Portionen schätzen. Preislich liegt Timberjacks im mittleren Segment: Tacos und Burritos starten bei etwa acht Euro, Fajitas bei rund zehn Euro, während Steaks je nach Cut zwischen 15 und 31 Euro kosten. Auch für Vegetarier gibt es eine eigene Auswahl. Da Timberjacks mehrere Standorte in Deutschland betreibt und die Preise je nach Filiale variieren können, haben wir hier eine Übersicht der beliebtesten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher Timberjacks-Filialen aus dem Jahr 2026.",
+    "metaDescription": "Timberjacks Speisekarte & Preise 2026: Steaks, Fajitas, Tacos und Burritos im Überblick. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "timberjacks-speisekarte",
+    "title": "Timberjacks Speisekarte 2026 – Preise in Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Döner im Fladenbrot mit Fleischsorte nach Wahl",
+            "name": "HDD Sandwich",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Döner-Sandwich mit Hirtenkäse",
+            "name": "HDD Sandwich mit Hirtenkäse",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Extra großes Döner-Sandwich mit mehr Fleisch",
+            "name": "Big HDD Sandwich",
+            "price": "ca. 9,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Sandwich mit Steakfleisch vom Grill",
+            "name": "HDD Steakfleisch Sandwich",
+            "price": "ca. 9,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Dönerteller mit Pommes frites und Salat",
+            "name": "HDD Dönerteller",
+            "price": "ca. 14,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Teller mit Steakfleisch, Pommes und Salat",
+            "name": "HDD Steakfleisch-Teller",
+            "price": "ca. 16,50 €"
+          }
+        ],
+        "name": "Döner Sandwich"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Döner im Yufka-Fladen gerollt",
+            "name": "HDD Döner Wrap",
+            "price": "ca. 9,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Großer Döner-Wrap mit extra Fleisch",
+            "name": "Big HDD Wrap",
+            "price": "ca. 10,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Döner-Wrap mit Hirtenkäse",
+            "name": "HDD Wrap mit Hirtenkäse",
+            "price": "ca. 10,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Dönerfleisch mit Pommes frites und Salat in der Box",
+            "name": "HDD Döner Box",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Steakfleisch mit Pommes und Salat in der Box",
+            "name": "HDD Steakfleisch Box",
+            "price": "ca. 9,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Türkische Pizza mit Hackfleisch",
+            "name": "Lahmacun",
+            "price": "ca. 6,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Lahmacun mit frischem Salat",
+            "name": "Lahmacun mit Salat",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Lahmacun mit Salat und Dönerfleisch",
+            "name": "Lahmacun Salat & Fleisch",
+            "price": "ca. 12,50 €"
+          }
+        ],
+        "name": "Wraps, Boxen & Lahmacun"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Falafel im Fladenbrot mit Salat und Sauce",
+            "name": "Falafel Sandwich",
+            "price": "ca. 7,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Falafel im Yufka-Fladen gerollt",
+            "name": "Falafel Wrap",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Falafel-Teller mit Beilagen",
+            "name": "Falafel-Teller",
+            "price": "ca. 12,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Falafel mit Pommes, Salat, Sauce und Getränk",
+            "name": "HDD Falafel Menü",
+            "price": "ca. 15,00 €"
+          }
+        ],
+        "name": "Falafel Spezialitäten"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Knusprige Pommes frites",
+            "name": "Pommes",
+            "price": "ca. 5,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "6 Hähnchen-Nuggets",
+            "name": "6er Nuggets",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "9 Hähnchen-Nuggets",
+            "name": "9er Nuggets",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frischer gemischter Salat",
+            "name": "Gemischter Salat",
+            "price": "ca. 6,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillter Halloumi im Fladenbrot",
+            "name": "Halloumi im Brot",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kindermenü mit Nuggets oder Fleisch, Pommes und Spielzeug",
+            "name": "Kids Box",
+            "price": "ca. 7,50 €"
+          }
+        ],
+        "name": "Beilagen & Snacks"
+      },
+      {
+        "name": "Saucen & Getränke",
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassische Saucen je Portion",
+            "name": "Ketchup / Mayonnaise / Curry",
+            "price": "ca. 1,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Niederländische Spezial-Sauce",
+            "name": "Joppie-Sauce",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Scharfe Sauce mit Paprika",
+            "name": "Samurai-Sauce",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frische Kräutersauce",
+            "name": "Kräutersauce",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremige Knoblauchsauce",
+            "name": "Knoblauchsauce",
+            "price": "ca. 1,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cola, Fanta, Sprite und weitere",
+            "name": "Softdrinks 0,33l",
+            "price": "ca. 3,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Türkisches Joghurtgetränk",
+            "name": "Ayran 0,25l",
+            "price": "ca. 2,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Türkische Limonade",
+            "name": "Uludağ Gazoz 0,33l",
+            "price": "ca. 3,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Stilles Mineralwasser",
+            "name": "Wasser 0,5l",
+            "price": "ca. 3,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Eistee Pfirsich oder Zitrone",
+            "name": "Eistee 0,33l",
+            "price": "ca. 3,90 €"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Ein klassisches HDD Sandwich kostet ca. 8,50 €. Die Big-Variante mit mehr Fleisch liegt bei etwa 9,50 €. Die Preise können je nach Filiale leicht abweichen.",
+        "q": "Was kostet ein Döner bei Haus des Döners?"
+      },
+      {
+        "a": "Ja, es gibt Falafel-Sandwiches, Falafel-Wraps und Falafel-Teller sowie vegetarische Taschen wie die Salattasche mit Hirtenkäse oder Halloumi im Brot.",
+        "q": "Gibt es bei Haus des Döners auch vegetarische Gerichte?"
+      },
+      {
+        "a": "Zur Auswahl stehen in der Regel Kalbfleisch und Hähnchenfleisch vom Drehspieß. In vielen Filialen gibt es zusätzlich Steakfleisch vom Grill.",
+        "q": "Welche Fleischsorten gibt es bei Haus des Döners?"
+      },
+      {
+        "a": "Die Kids Box enthält je nach Variante Nuggets oder Dönerfleisch mit Pommes, ein Spielzeug und ein Getränk. Sie kostet ca. 7,50 €.",
+        "q": "Was ist in der Kids Box enthalten?"
+      },
+      {
+        "a": "Viele Filialen von Haus des Döners werben mit halal-zertifiziertem Fleisch. Da dies je nach Standort unterschiedlich sein kann, lohnt sich ein Blick auf die Angaben der jeweiligen Filiale.",
+        "q": "Ist Haus des Döners halal?"
+      }
+    ],
+    "h1": "Haus des Döners Speisekarte – Preise 2026",
+    "intro": "Haus des Döners gehört zu den bekanntesten Döner-Ketten in Deutschland und steht für frisches Kalb- und Hähnchenfleisch vom Drehspieß. Das Sortiment geht weit über den klassischen Döner im Fladenbrot hinaus: Es gibt Wraps, Boxen mit Pommes oder Salat, Tellergerichte, Falafel-Spezialitäten für Vegetarier sowie Lahmacun und verschiedene Snacks. Besonders beliebt sind die großzügigen Portionen und die große Auswahl an Saucen – von Ketchup bis Samurai-Sauce. Preislich bleibt Haus des Döners erschwinglich: Ein Döner-Sandwich startet bei etwa 8,50 €, Boxen und Wraps liegen zwischen 9 und 11 Euro, und auch die Tellergerichte bleiben meist unter 17 Euro. Da die Kette viele Filialen in ganz Deutschland betreibt und die Preise je nach Standort etwas schwanken, haben wir hier eine Übersicht der gängigsten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher Filialen aus dem Jahr 2026.",
+    "metaDescription": "Haus des Döners Speisekarte & Preise 2026: Döner, Dürüm, Falafel und mehr. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "haus-des-doners-speisekarte",
+    "title": "Haus des Döners Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Reichhaltiges Buffet mit süßen und herzhaften Speisen",
+            "name": "Frühstücksbuffet",
+            "price": "15,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Erweitertes Buffet sonntags mit warmen Speisen",
+            "name": "Sonntags-Brunch-Buffet",
+            "price": "21,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Kleines Frühstück für den Start in den Tag",
+            "name": "Good Morning",
+            "price": "4,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Französisch inspiriertes Frühstück",
+            "name": "French Morning",
+            "price": "4,60 €"
+          },
+          {
+            "approx": false,
+            "desc": "Großes Frühstück mit vielen Komponenten",
+            "name": "Morning Glory",
+            "price": "12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Frisches Rührei, auch mit Extras erhältlich",
+            "name": "Rührei",
+            "price": "5,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Avocado auf geröstetem Brot",
+            "name": "Avocado-Schnitte",
+            "price": "11,30 €"
+          },
+          {
+            "approx": false,
+            "desc": "Flaumige Pancakes mit Pistaziencreme",
+            "name": "Pancakes Pistacchio",
+            "price": "11,30 €"
+          }
+        ],
+        "name": "Frühstück & Brunch"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Der Klassiker mit saftigem Rindfleisch-Patty",
+            "name": "Classic Beef Burger",
+            "price": "9,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit knusprigem Hähnchen",
+            "name": "Chicken Burger",
+            "price": "11,70 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit Chili und Käsesauce",
+            "name": "Chili Cheese Burger",
+            "price": "12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit Hähnchen und Caesar-Dressing",
+            "name": "Chicken Caesar Burger",
+            "price": "12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit BBQ-Sauce und Bacon",
+            "name": "BBQ Bacon Burger",
+            "price": "13,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit Feta und Rucola",
+            "name": "Feta Rucola Burger",
+            "price": "13,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Vegetarischer Burger mit Hummus",
+            "name": "Hummus Burger",
+            "price": "13,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Burger mit Hähnchen und Guacamole",
+            "name": "Chicken Guacamole Burger",
+            "price": "14,90 €"
+          }
+        ],
+        "name": "Burger"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Klassische Pinsa mit Tomate und Mozzarella",
+            "name": "Pinsa Originale",
+            "price": "9,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pinsa mit pikanter Salami",
+            "name": "Pinsa Salame Piccante",
+            "price": "14,20 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pinsa mit Tomate, Mozzarella und Basilikum",
+            "name": "Pinsa Caprese",
+            "price": "13,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pinsa mit Hähnchen und Caesar-Dressing",
+            "name": "Pinsa Chicken Caesar",
+            "price": "15,30 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pinsa mit würziger Sucuk",
+            "name": "Pinsa Sucuk",
+            "price": "14,20 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pinsa mit cremigem Burrata",
+            "name": "Pinsa Burrata",
+            "price": "16,30 €"
+          }
+        ],
+        "name": "Pinsa"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Paniertes Schweineschnitzel mit Beilage",
+            "name": "Schnitzel Wiener Art",
+            "price": "17,20 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schnitzel in der Café-del-Sol-Variante",
+            "name": "Schnitzel Del Sol",
+            "price": "19,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schnitzel mit Schinken, Ananas und Käse überbacken",
+            "name": "Schnitzel Hawaii",
+            "price": "20,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Zarte Spareribs mit BBQ-Sauce",
+            "name": "BBQ-Ribs",
+            "price": "20,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Der deutsche Klassiker mit Pommes",
+            "name": "Currywurst",
+            "price": "10,20 €"
+          },
+          {
+            "approx": false,
+            "desc": "Bowl mit Curry und frischem Wokgemüse",
+            "name": "Curry-Bowl mit Wokgemüse",
+            "price": "15,20 €"
+          }
+        ],
+        "name": "Hauptspeisen"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Knusprige Nachos mit Dip nach Wahl",
+            "name": "Nachos mit Dip",
+            "price": "3,80 €"
+          },
+          {
+            "approx": false,
+            "desc": "Nachos mit Chili und Käsesauce",
+            "name": "Chili Cheese Nachos",
+            "price": "7,20 €"
+          },
+          {
+            "approx": false,
+            "desc": "Frisches Hausbrot mit drei Dips zum Teilen",
+            "name": "Hausbrot mit drei Dips",
+            "price": "9,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Garnelen in Knoblauchöl mit Baguette",
+            "name": "Garnelen aglio e olio",
+            "price": "14,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pommes mit Trüffel und Käse",
+            "name": "Truffle & Cheese Fries",
+            "price": "8,30 €"
+          }
+        ],
+        "name": "Starters & Snacks"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Das Frühstücksbuffet kostet 15,90 € pro Person. Sonntags gibt es ein erweitertes Brunch-Buffet für 21,90 €. Die Buffets sind an den meisten Standorten täglich verfügbar.",
+        "q": "Was kostet das Frühstücksbuffet bei Café del Sol?"
+      },
+      {
+        "a": "Café del Sol ist für seine lange Frühstückszeit bekannt. An vielen Standorten gibt es das Frühstücksangebot bis in den Nachmittag. Die genauen Zeiten können je nach Filiale variieren.",
+        "q": "Bis wann gibt es Frühstück bei Café del Sol?"
+      },
+      {
+        "a": "Die Burger bei Café del Sol kosten zwischen 9,90 € und 14,90 €. Der Classic Beef Burger startet bei 9,90 €, aufwendigere Varianten wie der Chicken Guacamole Burger liegen bei 14,90 €.",
+        "q": "Was kostet ein Burger bei Café del Sol?"
+      },
+      {
+        "a": "Ja, die Karte bietet viele vegetarische Optionen: vom Hummus Burger über vegetarische Pinsa bis zu Bowls und Salaten. Auch vegane Gerichte sind gekennzeichnet.",
+        "q": "Gibt es bei Café del Sol auch vegetarische Gerichte?"
+      },
+      {
+        "a": "Pinsa ist eine ovale, besonders luftige Teigvariante aus Rom – eine Art Pizza mit lockerem, leichtem Teig. Bei Café del Sol gibt es sie in vielen Varianten ab 9,50 €.",
+        "q": "Was ist eine Pinsa?"
+      }
+    ],
+    "h1": "Café del Sol Speisekarte – Preise 2026",
+    "intro": "Café del Sol ist eine der bekanntesten deutschen Systemgastronomie-Ketten und verbindet Café-Atmosphäre mit einer großen Ganztageskarte. Das Besondere: Hier gibt es vom Frühstücksbuffet über Burger und Pinsa bis zu Schnitzel und Cocktails alles unter einem Dach – und das täglich bis spät in den Abend. Die Karte wechselt regelmäßig mit saisonalen Specials, bleibt aber in ihren Klassikern verlässlich. Besonders beliebt sind das Frühstücksbuffet, die Burger und die Pinsa-Varianten. Die Preise sind für die gebotene Auswahl fair: Burger starten bei 9,90 €, Pinsa gibt es ab 9,50 € und das Frühstücksbuffet kostet 15,90 €. Die folgenden Preise stammen von der offiziellen Website von Café del Sol und gelten für deutsche Standorte. Einzelne Filialen können leicht abweichen, zum Beispiel bei Aktionen oder regionalen Specials.",
+    "metaDescription": "Café del Sol Speisekarte & Preise 2026: Frühstück, Burger, Pinsa und mehr. Offizielle Preise der deutschen Restaurants im Überblick.",
+    "slug": "cafe-del-sol-speisekarte",
+    "title": "Café del Sol Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassisches Fischbrötchen mit Matjes",
+            "name": "Matjesbrötchen",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brötchen mit Räucherlachs",
+            "name": "Räucherlachsbrötchen",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brötchen mit Bismarckhering",
+            "name": "Bismarckbrötchen",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brötchen mit knusprigem Backfisch",
+            "name": "Backfischbrötchen",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brötchen mit gebratenem Hering",
+            "name": "Bratheringbrötchen",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brötchen mit zarten Nordseekrabben",
+            "name": "Nordseekrabbenbrötchen",
+            "price": "ca. 6,50 €"
+          }
+        ],
+        "name": "Fischbrötchen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Feine Fischsuppe nach Sylter Art",
+            "name": "Sylter Edelfischsuppe",
+            "price": "ca. 6,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Das Original vom Lister Hafen",
+            "name": "Lister Krabbensuppe",
+            "price": "ca. 8,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Herzhafte Kartoffelsuppe mit Räucherlachs",
+            "name": "Kartoffelsuppe mit Räucherlachs",
+            "price": "ca. 7,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzige asiatische Fischsuppe",
+            "name": "Asiatische Edelfischsuppe",
+            "price": "ca. 7,00 €"
+          }
+        ],
+        "name": "Suppen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Matjes, Lachs und Nordseekrabben mit Baguette",
+            "name": "Gosch Teller",
+            "price": "ca. 14,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Nordseekrabben mit Spiegelei auf Schwarzbrot",
+            "name": "Gosch Liebesteller",
+            "price": "ca. 13,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Ofenkartoffel mit Sauerrahm",
+            "name": "Ofenkartoffel",
+            "price": "ca. 5,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knuspriger Backfisch mit Remoulade und Kartoffelsalat",
+            "name": "Backfisch mit Remoulade",
+            "price": "ca. 12,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fischstäbchen mit Pommes für Kinder",
+            "name": "Captain Hook",
+            "price": "ca. 9,90 €"
+          }
+        ],
+        "name": "Gosch Klassiker"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Rotbarschfilet vom Grill mit Remoulade und Kartoffelsalat",
+            "name": "Rotbarschfilet vom Grill",
+            "price": "ca. 21,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Lachsfilet vom Grill mit Sauce Hollandaise und Ofenkartoffel",
+            "name": "Fjordlachs-Teller",
+            "price": "ca. 26,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Lachs-, Schollen- und Rotbarschfilet mit Bratkartoffeln",
+            "name": "Edelfisch-Teller",
+            "price": "ca. 25,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Steinbeißerfilet vom Grill mit Beilagen",
+            "name": "Steinbeißerfilet vom Grill",
+            "price": "ca. 22,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Schollenfilet mit Nordseekrabben und Bratkartoffeln",
+            "name": "Seeblick-Teller",
+            "price": "ca. 24,90 €"
+          }
+        ],
+        "name": "Fisch vom Grill"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Gegrillte Garnelen mit Salat und Knoblauchbaguette",
+            "name": "Black Tiger Garnelen",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frische Nordseekrabben, 100g",
+            "name": "Nordseekrabben",
+            "price": "ca. 7,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillte Jakobsmuscheln mit Knoblauchsauce",
+            "name": "Jakobsmuscheln",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillte King Prawns mit Salat und Baguette",
+            "name": "King Prawns",
+            "price": "ca. 16,00 €"
+          }
+        ],
+        "name": "Meeresfrüchte"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Pizza mit Räucherlachs, Rucola und Parmesan",
+            "name": "Salmone Deluxe",
+            "price": "ca. 15,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pizza mit Krebsfleisch und Asiasauce",
+            "name": "A'la Gosch",
+            "price": "ca. 15,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Lachs in Basilikumsauce mit Nudeln",
+            "name": "Lachs-Nudeln",
+            "price": "ca. 13,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Spaghetti mit Spinat-Sahnesauce",
+            "name": "Spinat Spaghetti",
+            "price": "ca. 7,00 €"
+          }
+        ],
+        "name": "Pizza & Pasta"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Fischbrötchen bei Gosch kosten ca. 4,50 €. Matjes-, Lachs-, Bismarck- und Backfischbrötchen liegen alle in diesem Bereich. Das Nordseekrabbenbrötchen ist mit rund 6,50 € etwas teurer.",
+        "q": "Was kostet ein Fischbrötchen bei Gosch?"
+      },
+      {
+        "a": "Die gegrillten Fischgerichte kosten zwischen ca. 21,90 € und 26,50 €. Der Fjordlachs-Teller liegt bei etwa 26,50 €, der Edelfisch-Teller bei rund 25,90 €. Die Preise können je nach Standort variieren.",
+        "q": "Was kostet ein Fischgericht bei Gosch?"
+      },
+      {
+        "a": "Gosch wurde auf Sylt gegründet und steht für norddeutsche Fischküche. Inzwischen gibt es zahlreiche Gosch-Filialen in ganz Deutschland, von der Küste bis in die Großstädte.",
+        "q": "Woher kommt Gosch?"
+      },
+      {
+        "a": "Ja, an vielen Standorten gibt es einen Gosch Fischmarkt mit frischem Fisch, Räucherfisch und Feinkost zum Mitnehmen. Das Angebot umfasst zum Beispiel Räucherlachs, Matjes und verschiedene Salate.",
+        "q": "Gibt es bei Gosch auch einen Fischmarkt?"
+      },
+      {
+        "a": "Die Lister Krabbensuppe ist eine der bekanntesten Suppen bei Gosch und kostet ca. 8,00 €. Sie gilt als das Original vom Lister Hafen auf Sylt.",
+        "q": "Was kostet die Krabbensuppe bei Gosch?"
+      }
+    ],
+    "h1": "Gosch Speisekarte – Preise 2026",
+    "intro": "Gosch ist die bekannteste Fischrestaurant-Kette Deutschlands und wurde auf Sylt gegründet. Was als kleiner Fischstand am Lister Hafen begann, ist heute eine Institution für norddeutsche Fischküche – mit Restaurants an der Küste und in vielen deutschen Großstädten. Die Karte dreht sich ganz um Fisch und Meeresfrüchte: vom klassischen Fischbrötchen für den kleinen Hunger über Suppen und Grillfisch bis zu Meeresfrüchte-Platten. Besonders beliebt sind die Fischbrötchen, der Gosch Teller und die Lister Krabbensuppe. Preislich bewegt sich Gosch im mittleren bis gehobenen Segment: Fischbrötchen gibt es ab ca. 4,50 €, während Grillfisch-Gerichte zwischen 20 und 27 Euro kosten. Da die einzelnen Standorte eigene Karten führen können, haben wir hier eine Übersicht der gängigsten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher Gosch-Filialen aus dem Jahr 2026.",
+    "metaDescription": "Gosch Speisekarte & Preise 2026: Fischbrötchen, Grillfisch, Suppen und Meeresfrüchte. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "gosch-speisekarte",
+    "title": "Gosch Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "All-you-can-eat-Buffet mit süßen und herzhaften Speisen, Mo–Fr",
+            "name": "Frühstücks-Buffet",
+            "price": "ca. 9,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Erweitertes Buffet sonntags mit warmen Speisen",
+            "name": "Sunday-Brunch-Buffet",
+            "price": "ca. 14,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei Croissants mit Butter, Konfitüre und Kaffee oder Tee",
+            "name": "Kleines französisches Frühstück",
+            "price": "ca. 5,10 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frühstück für Kinder von 6 bis 10 Jahren",
+            "name": "Kinder-Frühstück",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Brunch für Kinder von 6 bis 10 Jahren",
+            "name": "Kinder-Brunch",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "name": "Kinderfrühstück",
+            "price": "ca. 4,00 €",
+            "approx": true,
+            "desc": "Frühstück für Kinder von 6 bis 10 Jahren"
+          }
+        ],
+        "name": "Frühstück & Brunch"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Tomatensuppe mit Bärlauch und Kräuter-Knoblauchciabatta",
+            "name": "Fruchtige Tomatensuppe",
+            "price": "ca. 5,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Herzhafte Käse-Lauchsuppe mit Landbrot",
+            "name": "Käse-Lauchsuppe",
+            "price": "ca. 6,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Hausgemachte Pizzabrötchen mit Aioli und Kräuterbutter",
+            "name": "Hausgemachte Pizzabrötchen",
+            "price": "ca. 4,10 €"
+          },
+          {
+            "approx": true,
+            "desc": "Nachos überbacken mit Chili con Carne und Jalapeños",
+            "name": "Spicy Nachos",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Ciabatta mit Tomaten, Rucola und Grana Padano",
+            "name": "Bruschetta",
+            "price": "ca. 3,80 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzige Süßkartoffel-Pommes mit Aioli-Dip",
+            "name": "Süßkartoffel Pommes",
+            "price": "ca. 4,90 €"
+          }
+        ],
+        "name": "Suppen & Starter"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassischer Burger mit Rindfleisch-Patty",
+            "name": "ALEX Cheese Burger",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Saftiges Pulled Pork im Brioche-Brötchen mit Coleslaw",
+            "name": "Pulled Pork-Burger",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Paniertes Schweineschnitzel mit Beilage",
+            "name": "Schnitzel Wiener Art",
+            "price": "ca. 17,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knuspriges Hähnchenschnitzel",
+            "name": "Schnitzel Crispy Chicken",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Nudeln mit pikanter Chorizo in Kräuter-Tomatensoße",
+            "name": "Fusilli Giganti Chorizo",
+            "price": "ca. 10,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Flammkuchen mit Tomaten, Mozzarella und Basilikum",
+            "name": "Flammkuchen Caprese",
+            "price": "ca. 9,20 €"
+          },
+          {
+            "name": "Wienerle mit Pommes",
+            "price": "ca. 4,90 €",
+            "approx": true,
+            "desc": "Kleine Wiener Würstchen mit Pommes frites und Ketchup für Kinder"
+          }
+        ],
+        "name": "Burger & Hauptspeisen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Römersalat mit Croûtons und Grana Padano",
+            "name": "Caesar Salad",
+            "price": "ca. 9,30 €"
+          },
+          {
+            "approx": true,
+            "desc": "Bowl mit Superfoods auf Blattsalaten",
+            "name": "Superfood Salad",
+            "price": "ca. 8,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleiner gemischter Beilagensalat",
+            "name": "Kleiner Beilagensalat",
+            "price": "ca. 3,00 €"
+          },
+          {
+            "name": "Lachs-Ziegenkäse-Salat",
+            "price": "ca. 10,00 €",
+            "approx": true,
+            "desc": "Salat mit Lachs und Ziegenkäse"
+          }
+        ],
+        "name": "Salate"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Saftiger Schokobrownie mit Sahne und Vanilleeis",
+            "name": "Schokobrownie",
+            "price": "ca. 6,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremiger Shake in verschiedenen Sorten",
+            "name": "Premium Shake",
+            "price": "ca. 6,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Eisbecher mit drei Kugeln",
+            "name": "Eisbecher",
+            "price": "ca. 6,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassische Apfeltarte mit Sahne",
+            "name": "Apfeltarte",
+            "price": "ca. 3,50 €"
+          }
+        ],
+        "name": "Desserts"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Das Frühstücks-Buffet kostet an den meisten Standorten ca. 9,20 €, das Sunday-Brunch-Buffet rund 14,20 €. Kinder unter 6 Jahren frühstücken gratis, Kinder von 6 bis 10 Jahren zahlen ermäßigte Preise. Die Preise können je nach Standort variieren.",
+        "q": "Was kostet das Frühstück bei ALEX?"
+      },
+      {
+        "a": "An Sonn- und Feiertagen bietet ALEX ein erweitertes Brunch-Buffet mit warmen Speisen. Es kostet ca. 14,20 € pro Person und ist in der Regel von 9 bis 14:30 Uhr verfügbar.",
+        "q": "Gibt es bei ALEX einen Sonntagsbrunch?"
+      },
+      {
+        "a": "Die Burger bei ALEX kosten zwischen ca. 8,50 € und 12 €. Der Pulled Pork-Burger liegt bei etwa 8,50 €, der ALEX Cheese Burger bei rund 10 €.",
+        "q": "Was kostet ein Burger bei ALEX?"
+      },
+      {
+        "a": "ALEX betreibt über 45 Filialen in ganz Deutschland, unter anderem in Hamburg, Berlin, Düsseldorf, Wiesbaden, Bielefeld und vielen weiteren Städten.",
+        "q": "Wo gibt es ALEX Restaurants in Deutschland?"
+      },
+      {
+        "a": "Die Ganztageskarte bietet Schnitzel, Burger, Pasta, Flammkuchen, Salate und Desserts. Dazu kommen saisonale Specials und eine große Getränkekarte mit Cocktails.",
+        "q": "Was gibt es bei ALEX außer Frühstück?"
+      }
+    ],
+    "h1": "ALEX Speisekarte – Preise 2026",
+    "intro": "ALEX ist eine der größten deutschen Restaurantketten und seit vielen Jahren ein fester Bestandteil der Innenstädte. Mit über 45 Filialen in ganz Deutschland steht ALEX für Ganztagesgastronomie: vom Frühstücksbuffet am Morgen über Mittagstisch und Kaffee bis zu Cocktails am Abend. Die Karte ist bewusst breit gehalten – Schnitzel, Burger, Pasta, Flammkuchen, Salate und eine große Frühstücksauswahl finden sich ebenso wie saisonale Specials. Besonders bekannt ist ALEX für sein Preis-Leistungs-Verhältnis beim Frühstück: Das Buffet gibt es schon für rund 9,20 €, der Sonntagsbrunch für etwa 14,20 €. Da die Preise je nach Standort leicht variieren können, haben wir hier eine Übersicht der beliebtesten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher ALEX-Filialen aus dem Jahr 2026.",
+    "metaDescription": "ALEX Speisekarte & Preise 2026: Frühstück, Burger, Schnitzel und mehr. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "alex-speisekarte",
+    "title": "ALEX Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Rührei mit Sucuk, Kartoffel und pikanter Tomatensauce aus der Pfanne",
+            "name": "Sucuk HalliGalli",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pikante Shakshuka mit Eiern in Tomatensauce",
+            "name": "Shakshuka (pikant)",
+            "price": "ca. 11,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Rührei mit Babyspinat, Champignons und Fetakäse",
+            "name": "Popeye's Liebling",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremige Mac'n Cheese aus der Pfanne",
+            "name": "Mac'n Cheese",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Große Frühstücksplatte für zwei Personen",
+            "name": "Pascha Platte für 2 Personen",
+            "price": "ca. 26,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Einfaches Rührei in der Pfanne",
+            "name": "Die nackte Wahrheit",
+            "price": "ca. 7,90 €"
+          }
+        ],
+        "name": "Pfannen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassische Eggs Benedict mit Sauce Hollandaise",
+            "name": "Egg Benedict",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Eggs Benedict mit Räucherlachs",
+            "name": "Egg Benedict Royal",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Eggs Benedict mit Avocado",
+            "name": "Egg Benedict Avocado",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Eggs Benedict mit würziger Sucuk",
+            "name": "Egg Benedict Sucuk",
+            "price": "ca. 13,90 €"
+          }
+        ],
+        "name": "Eggs Benedict"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Geröstetes Brot mit Avocado-Minzcreme",
+            "name": "Avocado Toast",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Bagel mit Avocado-Minzcreme und Granatapfel",
+            "name": "Avocado Bagel (B1)",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Bagel mit Lachs, Cream Cheese und Spiegelei",
+            "name": "Salmon Bagel (B4)",
+            "price": "ca. 15,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Laugencroissant mit Crispy Chicken und Sauce Hollandaise",
+            "name": "Croissant Benedict Chicken",
+            "price": "ca. 19,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Sesam-Bagel mit Rührei und Avocado-Minzcreme",
+            "name": "Egg-Simit",
+            "price": "ca. 12,90 €"
+          }
+        ],
+        "name": "Bagels & Toasts"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Flaumige Pancakes mit tropischen Früchten",
+            "name": "Tropical Pancake",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "French Toast mit Pistaziencreme",
+            "name": "Pistacchio Frenchtoast",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Warmer Cookie-Teig als Dessert-Frühstück",
+            "name": "Cookie Dough",
+            "price": "ca. 14,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Opulente Pancake-Kreation",
+            "name": "FoodPorn",
+            "price": "ca. 11,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Getoastetes Bananenbrot, 2 Scheiben",
+            "name": "Bananenbrot (getoastet)",
+            "price": "ca. 6,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Beeren-Bowl mit Joghurt und Granola",
+            "name": "Verry Berry",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Exotische Bowl mit Pitaya",
+            "name": "Pitaya Bowl",
+            "price": "ca. 13,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frische Obst-Bowl",
+            "name": "Obst-Bowl",
+            "price": "ca. 8,50 €"
+          }
+        ],
+        "name": "Pancakes, Sweets & Bowls"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Cremiger Milchkaffee",
+            "name": "Milchkaffee",
+            "price": "ca. 4,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Milder Kaffee mit viel Milch",
+            "name": "Café Creme",
+            "price": "ca. 3,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frisch gepresster Orangensaft",
+            "name": "Frischer Orangensaft",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleines Mineralwasser",
+            "name": "Wasser 0,25l",
+            "price": "ca. 3,40 €"
+          }
+        ],
+        "name": "Kaffee & Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Pfannengerichte bei Café Buur kosten zwischen ca. 7,90 € und 12,90 €. Die beliebtesten Varianten wie Sucuk HalliGalli oder Popeye's Liebling liegen bei rund 12,90 €. Die Pascha Platte für zwei Personen kostet etwa 26,90 €.",
+        "q": "Was kostet das Frühstück bei Café Buur?"
+      },
+      {
+        "a": "Ja, Café Buur ist bekannt für seine kreativen veganen Optionen. Es gibt vegane Pfannen, vegane Cookie Dough und viele Gerichte lassen sich vegan abwandeln. Auch glutenfreie Alternativen sind verfügbar.",
+        "q": "Gibt es bei Café Buur vegane Optionen?"
+      },
+      {
+        "a": "Café Buur hat Filialen in mehreren deutschen Städten, unter anderem in Köln, Düsseldorf, Frankfurt und München. Die Karte kann je nach Standort leicht variieren.",
+        "q": "Wo gibt es Café Buur in Deutschland?"
+      },
+      {
+        "a": "Café Buur ist vor allem für sein ausgedehntes Frühstück bekannt. An vielen Standorten gibt es Frühstück bis in den späten Nachmittag – teilweise bis 18 Uhr.",
+        "q": "Bis wann gibt es Frühstück bei Café Buur?"
+      },
+      {
+        "a": "Die Eggs Benedict bei Café Buur kosten ca. 13,90 € in allen Varianten – ob klassisch, mit Lachs, Avocado oder Sucuk.",
+        "q": "Was kostet Eggs Benedict bei Café Buur?"
+      }
+    ],
+    "h1": "Café Buur Speisekarte – Preise 2026",
+    "intro": "Café Buur hat sich in den letzten Jahren zu einem der beliebtesten Frühstücks-Spots in Deutschland entwickelt. Das Konzept verbindet türkische und internationale Frühstückskultur mit modernen Café-Trends: In schmiedeeisernen Pfannen werden kreative Rührei-Variationen serviert, dazu gibt es Eggs Benedict, üppig belegte Bagels, Pancakes und Bowls. Die Karte ist bewusst instagrammable und vielseitig – von herzhaft über süß bis vegan ist alles dabei. Besonders beliebt sind die Pfannengerichte wie Sucuk HalliGalli oder Popeye's Liebling sowie die Eggs Benedict in allen Varianten. Preislich liegt Café Buur im mittleren Segment: Pfannen kosten rund 12,90 €, Bagels zwischen 12,90 € und 15,90 €, und auch die süßen Kreationen bleiben meist unter 15 Euro. Da die Preise je nach Standort leicht variieren können, haben wir hier eine Übersicht der beliebtesten Gerichte mit ca.-Preisen zusammengestellt. Alle Angaben basieren auf aktuellen Speisekarten deutscher Café-Buur-Filialen aus dem Jahr 2026.",
+    "metaDescription": "Café Buur Speisekarte & Preise 2026: Pfannen, Eggs Benedict, Bagels und Bowls. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "cafe-buur-speisekarte",
+    "title": "Café Buur Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Tagessuppe nach Angebot",
+            "name": "Tagessuppe",
+            "price": "4,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Brauhaus-Wurstsalat mit Zwiebeln, Käse und Gurken, dazu Treberbrot",
+            "name": "Brauhaus Wurstsalat",
+            "price": "9,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Roggenbrot mit Treber, serviert mit Griebenschmalz",
+            "name": "Treberbrot",
+            "price": "4,00 €"
+          },
+          {
+            "approx": false,
+            "desc": "Zwei Weißwürste mit süßem Senf und Brezel",
+            "name": "Weißwürste",
+            "price": "6,00 €"
+          }
+        ],
+        "name": "Vorspeisen"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Paniertes Schweineschnitzel mit Pommes und Beilagensalat",
+            "name": "Schweineschnitzel Wiener Art",
+            "price": "11,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schnitzel mit Jägersauce und Beilagen",
+            "name": "Jägerschnitzel",
+            "price": "ca. 12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schnitzel gefüllt mit Schinken und Käse",
+            "name": "Cordon Bleu",
+            "price": "ca. 15,00 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schnitzel mit Champignonrahmsauce",
+            "name": "Schnitzel mit Champignonrahmsauce",
+            "price": "ca. 16,50 €"
+          }
+        ],
+        "name": "Schnitzel"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Knusprige Schweinshaxe mit Krautsalat und Treberbrot",
+            "name": "Knusprige Schweinshaxe",
+            "price": "12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schweinebraten mit Biersauce, Rotkraut und Knödeln",
+            "name": "Deftiger Schweinebraten",
+            "price": "12,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Rindergulasch mit Biersauce und Butternudeln",
+            "name": "Kupferbiergulasch",
+            "price": "14,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Gebratenes Rind mit Zwiebeln in Sauce",
+            "name": "Zwiebelrostbraten",
+            "price": "18,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Putenstreifen in Champignonrahmsauce mit Nudeln",
+            "name": "Putengeschnetzeltes",
+            "price": "13,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Schwäbische Käsespätzle mit Röstzwiebeln und kleinem Salat",
+            "name": "Käsespätzle",
+            "price": "10,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Gebratene Maultaschen mit Zwiebeln und Rührei, dazu Salat",
+            "name": "Gebratene Maultaschen",
+            "price": "11,90 €"
+          }
+        ],
+        "name": "Deftige & schwäbische Hauptgerichte"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Großer Salat mit panierten Zanderstreifen",
+            "name": "Salat Fischerin",
+            "price": "13,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Ofenkartoffel mit Kräuter-Sour-Cream und Salat",
+            "name": "Ofenkartoffel",
+            "price": "8,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Ofenkartoffel mit gegrillten Putenstreifen und Salat",
+            "name": "Ofenkartoffel mit Putenstreifen",
+            "price": "11,90 €"
+          },
+          {
+            "name": "Beilagensalat",
+            "price": "ca. 4,50 €",
+            "approx": true,
+            "desc": "Frischer gemischter Salat als Beilage"
+          }
+        ],
+        "name": "Salate & Vegetarisch"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Zerrissener Kaiserschmarrn mit Apfelmus und Sahne",
+            "name": "Kaiserschmarrn",
+            "price": "5,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Warmer Apfelstrudel mit Vanilleeis und Sahne",
+            "name": "Warmer Apfelstrudel",
+            "price": "5,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frisch gezapftes Hausbier, 0,5l",
+            "name": "Hausbier 0,5l",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Helles Weizenbier, 0,5l",
+            "name": "Weißbier 0,5l",
+            "price": "ca. 4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Alkoholfreie Erfrischung",
+            "name": "Softdrinks 0,4l",
+            "price": "ca. 3,50 €"
+          }
+        ],
+        "name": "Desserts, Bier & Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Ein Schnitzel Wiener Art kostet im Brauhaus ca. 11,90 € bis 14,50 €. Varianten mit Saucen wie Jäger- oder Champignonrahmsauce liegen bei etwa 13 bis 17 Euro. Die Preise können je nach Brauhaus variieren.",
+        "q": "Was kostet ein Schnitzel im Brauhaus?"
+      },
+      {
+        "a": "Ja, die meisten Brauhäuser brauen ihr eigenes Bier direkt vor Ort. Dazu gibt es oft saisonale Biere und verschiedene Sorten vom Hellen bis zum Dunklen.",
+        "q": "Brauen Brauhäuser ihr eigenes Bier?"
+      },
+      {
+        "a": "Typische Brauhaus-Gerichte sind Schweinshaxe, Schweinebraten, Schnitzel, Wurstsalat, Käsespätzle und deftige Eintöpfe. Dazu passt das frisch gezapfte Hausbier.",
+        "q": "Was sind typische Brauhaus-Gerichte?"
+      },
+      {
+        "a": "Eine Schweinshaxe kostet ca. 12,90 €, ein Schweinebraten mit Knödeln ebenfalls rund 12,90 €. Deftige Hauptgerichte liegen meist zwischen 11 und 19 Euro.",
+        "q": "Wie viel kostet ein deftiges Hauptgericht im Brauhaus?"
+      },
+      {
+        "a": "Ja, die meisten Brauhäuser bieten vegetarische Gerichte wie Käsespätzle, Salate, Ofenkartoffel oder vegetarische Pfannen. Auch Beilagensalate und Suppen sind fleischlos erhältlich.",
+        "q": "Gibt es im Brauhaus auch vegetarische Gerichte?"
+      }
+    ],
+    "h1": "Brauhaus Speisekarte – Preise 2026",
+    "intro": "Das Brauhaus ist ein Stück deutsche Wirtshauskultur: Hier treffen deftige Küche und frisch gezapftes Bier aufeinander. Die Speisekarte eines typischen Brauhauses liest sich wie ein Best-of der deutschen Küche – von der knusprigen Schweinshaxe über Schnitzel in allen Varianten bis zu schwäbischen Klassikern wie Käsespätzle und Maultaschen. Dazu wird in vielen Häusern das eigene Bier direkt vor Ort gebraut. Preislich bleibt das Brauhaus bodenständig: Schnitzel gibt es ab etwa 12 Euro, deftige Hauptgerichte wie Haxe oder Braten kosten rund 13 Euro, und auch das Hausbier bleibt mit ca. 4,50 € für einen halben Liter erschwinglich. Die folgenden Preise basieren auf aktuellen Karten deutscher Brauhäuser und sind als ca.-Preise zu verstehen, da jedes Brauhaus seine eigene Karte führt. Alle Angaben beziehen sich auf den Stand 2026.",
+    "metaDescription": "Brauhaus Speisekarte & Preise 2026: Schnitzel, Haxe, Braten und Hausbier. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "brauhaus-speisekarte",
+    "title": "Brauhaus Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "name": "Tiefkühl-Boxen",
+        "items": [
+          {
+            "name": "Probierbox (8 Gerichte)",
+            "price": "59,99 €",
+            "approx": false,
+            "desc": "Acht komplette Gerichte zum Kennenlernen"
+          },
+          {
+            "name": "Fit & Free-Box",
+            "price": "64,99 €",
+            "approx": false,
+            "desc": "Acht Tiefkühlmenüs für die bewusste Ernährung"
+          },
+          {
+            "name": "Fit & Free-Box 2.0",
+            "price": "54,99 €",
+            "approx": false,
+            "desc": "Acht Menüs mit max. 23g Fett und mind. 30g Eiweiß pro Portion"
+          },
+          {
+            "name": "Einzelnes Tiefkühlmenü",
+            "price": "ca. 7,50 €",
+            "approx": true,
+            "desc": "Tiefkühlmenü in BIOPAP-Schale, je nach Gericht"
+          }
+        ]
+      },
+      {
+        "name": "Essen auf Rädern",
+        "items": [
+          {
+            "name": "Standardmenü",
+            "price": "ca. 6,00 € bis 10,00 €",
+            "approx": true,
+            "desc": "Vollkost-Menü, warm geliefert, mit Hauptgang und Beilage"
+          },
+          {
+            "name": "Spezialkost",
+            "price": "ca. 8,00 € bis 12,00 €",
+            "approx": true,
+            "desc": "Diät- oder Spezialkost, z.B. für Diabetiker"
+          },
+          {
+            "name": "Fahrbarer Mittagstisch",
+            "price": "ca. 6,00 € bis 9,00 €",
+            "approx": true,
+            "desc": "Täglicher heißer Menüservice für Senioren"
+          },
+          {
+            "name": "Wochenpauschale",
+            "price": "auf Anfrage",
+            "approx": true,
+            "desc": "Rabatte bei regelmäßiger wöchentlicher Bestellung"
+          }
+        ]
+      },
+      {
+        "name": "Schulen, Kitas & Einrichtungen",
+        "items": [
+          {
+            "name": "Schulmenü (Bio)",
+            "price": "ca. 3,50 €",
+            "approx": true,
+            "desc": "Bio-Menü für Schulen, ohne Zusatzstoffe"
+          },
+          {
+            "name": "Schulmenü vegetarisch (Bio)",
+            "price": "ca. 3,50 €",
+            "approx": true,
+            "desc": "Vegetarische Bio-Option für Schulen"
+          },
+          {
+            "name": "Essens-Chip",
+            "price": "ca. 5,00 €",
+            "approx": true,
+            "desc": "Einmalige Registrierung für das Bestellsystem"
+          },
+          {
+            "name": "Verpflegung für Senioreneinrichtungen",
+            "price": "auf Anfrage",
+            "approx": true,
+            "desc": "Zuverlässige Versorgungslösung für Einrichtungen"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Probierbox mit acht kompletten Gerichten kostet 59,99 € und ist der günstigste Einstieg. Die Fit & Free-Box mit acht fitnessorientierten Menüs liegt bei 64,99 €, die Fit & Free-Box 2.0 bei 54,99 €. Alle Preise inkl. MwSt., Versand wird beim Checkout berechnet.",
+        "q": "Was kosten die Hofmanns Boxen?"
+      },
+      {
+        "a": "HOFMANNs ist eine Menü-Manufaktur, die handwerklich zubereitete Tiefkühlgerichte herstellt. Über 100 Köche kochen die Menüs wie zu Hause – abwiegen, anbraten, abschmecken – und schonendes Tiefgefrieren bewahrt Vitamine, Geschmack und Textur.",
+        "q": "Was ist HOFMANNs?"
+      },
+      {
+        "a": "Essen auf Rädern von HOFMANNs kostet je nach Menü zwischen ca. 6 und 10 Euro pro Mahlzeit. Die Heißauslieferung ist aufwendiger als tiefgekühlt, Diät- oder Spezialkost kostet entsprechend mehr. Rabatte bei regelmäßiger Bestellung sind möglich.",
+        "q": "Was kostet Essen auf Rädern bei Hofmanns?"
+      },
+      {
+        "a": "Die Gerichte werden in der BIOPAP-Schale geliefert, die nach europäischer Norm in 90 Tagen kompostierbar ist. So entstehen keine unnötigen Abfälle. Viele Zutaten stammen von regionalen Landwirten und Produzenten.",
+        "q": "Wie werden die Gerichte verpackt?"
+      },
+      {
+        "a": "Die Tiefkühlmenüs werden im Backofen oder je nach Gericht auch in der Mikrowelle zubereitet. Bei -18 Grad sind sie mindestens 2 Monate haltbar, im Kühlschrank einen Tag.",
+        "q": "Wie werden die Hofmanns Menüs zubereitet?"
+      }
+    ],
+    "h1": "Hofmanns Menü – Preise 2026",
+    "intro": "HOFMANNs ist eine deutsche Menü-Manufaktur, die handwerklich zubereitete Tiefkühlgerichte direkt an Haushalte liefert. Das Prinzip: Über 100 Köche kochen wie zu Hause – mit Abwiegen, Anbraten und Abschmecken – und schonendes Tiefgefrieren bewahrt Vitamine, Geschmack und Textur. Das Sortiment reicht von der Probierbox für Neukunden über Fitness-Boxen mit proteinreichen Menüs bis zum klassischen Essen auf Rädern und Schul-Catering. Die Preise sind transparent: Die Probierbox mit acht Gerichten kostet 59,99 €, die Fit & Free-Box 64,99 € und die Fit & Free-Box 2.0 54,99 €. Beim Essen auf Rädern bewegen sich die Preise je nach Menü zwischen 6 und 10 Euro pro Mahlzeit. Die folgenden Preise stammen von den offiziellen HOFMANNs-Websites (hofmanns-shop.de und hofmanns.de) und gelten für Deutschland. Alle Angaben beziehen sich auf den Stand 2026.",
+    "metaDescription": "Hofmanns Menü Preise 2026: Probierbox, Fit & Free-Box, Essen auf Rädern. Alle Preise der Menü-Manufaktur für Deutschland im Überblick.",
+    "slug": "hofmanns-menu",
+    "title": "Hofmanns Menü 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Burrata mit Parmaschinken",
+            "name": "Burrata e prosciutto crudo",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Büffelmozzarella mit Parmaschinken",
+            "name": "Mozzarella di bufala e prosciutto crudo",
+            "price": "ca. 14,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassischer Parmaschinken",
+            "name": "Prosciutto crudo",
+            "price": "ca. 12,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kalbfleisch mit Thunfischsauce",
+            "name": "Vitello Tonnato",
+            "price": "ca. 18,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Italienische Wurst- und Käseplatte",
+            "name": "Tagliere di salumi",
+            "price": "ca. 22,00 €"
+          }
+        ],
+        "name": "Antipasti"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Pasta mit Guanciale, Pecorino und Tomate",
+            "name": "Amatriciana",
+            "price": "ca. 19,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pasta mit Guanciale, Pecorino und Ei",
+            "name": "Carbonara",
+            "price": "ca. 19,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pasta mit Pecorino und schwarzem Pfeffer",
+            "name": "Cacio e pepe",
+            "price": "ca. 19,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kartoffelgnocchi nach Hausart",
+            "name": "Gnocchi di patate",
+            "price": "ca. 21,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pasta mit scharfer Tomatensauce",
+            "name": "Arrabbiata",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pasta mit einfacher Tomatensauce",
+            "name": "Pasta al pomodoro",
+            "price": "ca. 14,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassische Pizza mit Tomate und Mozzarella",
+            "name": "Pizza Margherita",
+            "price": "ca. 16,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Scharfe Pizza mit pikanter Salami",
+            "name": "Pizza Diavolo",
+            "price": "ca. 20,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Pizza mit vier Käsesorten",
+            "name": "Pizza Quattro Formaggi",
+            "price": "ca. 21,00 €"
+          }
+        ],
+        "name": "Pasta & Pizza"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Gegrilltes Steak, ca. 250g",
+            "name": "Bistecca",
+            "price": "ca. 35,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Geschmorte Kalbshaxe mit Erbsen",
+            "name": "Ossobuco con piselli",
+            "price": "ca. 32,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frischer Fisch je nach Tagesangebot",
+            "name": "Fisch des Tages",
+            "price": "ca. 30,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mediterrane Garnelen in Knoblauchöl",
+            "name": "Garnelen in Knoblauchöl",
+            "price": "ca. 28,00 €"
+          }
+        ],
+        "name": "Secondi Piatti"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Klassisches italienisches Dessert mit Mascarpone und Kaffee",
+            "name": "Tiramisù",
+            "price": "ca. 10,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremige Sahnecreme mit Vanille",
+            "name": "Panna Cotta",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Vanilleeis mit heißem Espresso",
+            "name": "Affogato",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "name": "Dessert des Tages",
+            "price": "ca. 12,00 €",
+            "approx": true,
+            "desc": "Wechselnde Süßspeise je nach Saison und Angebot"
+          }
+        ],
+        "name": "Dolci"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Glas italienischer Wein",
+            "name": "Glas Wein",
+            "price": "ca. 12,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Flasche italienischer Hauswein",
+            "name": "Flasche Wein",
+            "price": "ca. 35,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassischer italienischer Aperitif",
+            "name": "Aperol Spritz",
+            "price": "ca. 12,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Italienischer Zitronenlikör",
+            "name": "Limoncello",
+            "price": "ca. 6,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Starker italienischer Kaffee",
+            "name": "Espresso",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mineralwasser, 0,75l",
+            "name": "Mineralwasser",
+            "price": "ca. 7,00 €"
+          }
+        ],
+        "name": "Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Edmondo liegt im gehobenen Preissegment. Für ein komplettes Abendessen mit Vorspeise, Hauptgericht und Getränken sollten Gäste ungefähr 50 bis 80 € pro Person einplanen. Pasta-Gerichte kosten ca. 16 bis 21 €, Secondi zwischen 28 und 35 €.",
+        "q": "Was kostet ein Abendessen bei Edmondo?"
+      },
+      {
+        "a": "Edmondo ist ein italienisches Restaurant in Hamburg (Hohe Bleichen). Es steht für gehobene italienische Küche mit römischen Einflüssen – von Antipasti über hausgemachte Pasta bis zu Secondi Piatti.",
+        "q": "Was ist Edmondo für ein Restaurant?"
+      },
+      {
+        "a": "Die Pasta-Gerichte bei Edmondo kosten ca. 14 bis 21 €. Klassiker wie Amatriciana, Carbonara oder Cacio e pepe liegen bei rund 19 €, Gnocchi bei etwa 21 €.",
+        "q": "Was kostet Pasta bei Edmondo?"
+      },
+      {
+        "a": "Ja, Edmondo bietet Mittags- und Abendservice. Die Öffnungszeiten sind in der Regel 12:00 bis 15:00 Uhr und 17:00 bis 22:45 Uhr, am Wochenende mit leicht abweichenden Zeiten.",
+        "q": "Hat Edmondo auch mittags geöffnet?"
+      },
+      {
+        "a": "Zu den beliebtesten Gerichten zählen die römischen Pasta-Klassiker wie Carbonara und Cacio e pepe, die Burrata als Antipasti sowie das Tiramisù als Dessert.",
+        "q": "Welche Gerichte sind bei Edmondo besonders beliebt?"
+      }
+    ],
+    "h1": "Edmondo Speisekarte – Preise 2026",
+    "intro": "Edmondo ist ein italienisches Restaurant in Hamburg und steht für gehobene italienische Küche mit römischen Einflüssen. Die Karte folgt der klassischen italienischen Menüfolge: Antipasti, Primi Piatti mit hausgemachter Pasta, Pizza, Secondi Piatti mit Fleisch und Fisch sowie Dolci zum Abschluss. Dazu gibt es eine ausgewählte Weinkarte mit italienischen Weinen und klassische Aperitifs. Preislich bewegt sich Edmondo im gehobenen Segment: Pasta-Gerichte kosten zwischen 14 und 21 Euro, Secondi zwischen 28 und 35 Euro, und für ein komplettes Abendessen mit Getränken sollten Gäste etwa 50 bis 80 Euro pro Person einplanen. Die folgenden Preise sind ca.-Preise auf Basis aktueller Restaurantdaten aus dem Jahr 2026. Da Restaurants ihre Karten saisonal anpassen können, empfiehlt sich vor dem Besuch ein Blick auf die aktuelle Speisekarte.",
+    "metaDescription": "Edmondo Speisekarte & Preise 2026: Antipasti, Pasta, Pizza und Secondi. Alle Kategorien mit aktuellen ca.-Preisen für Deutschland.",
+    "slug": "edmondo-speisekarte",
+    "title": "Edmondo Speisekarte 2026 – Preise Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Curry mit Gemüse und Basmatireis, vegan",
+            "name": "Gemüsecurry mit Basmatireis",
+            "price": "10,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Hähnchen-Alternative mit Teriyaki-Sauce und Basmatireis, vegan",
+            "name": "Planted Chicken Teriyaki mit Basmatireis",
+            "price": "11,90 €"
+          }
+        ],
+        "name": "Bordrestaurant – Warme Gerichte"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Warmes Hafer-Porridge mit Apfel und Zimt, vegan",
+            "name": "Veganes Porridge",
+            "price": "3,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Porridge mit mittlerem Cappuccino im Menü",
+            "name": "Porridge-Menü mit Cappuccino",
+            "price": "6,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Milchreis mit Haferdrink, Zimt und Zucker, vegan",
+            "name": "Veganer Milchreis mit Haferdrink",
+            "price": "4,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Butter-Croissant zum Frühstück",
+            "name": "Butter-Croissant",
+            "price": "ca. 1,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Croissant, Brötchen und Aufstrich",
+            "name": "Französisches Frühstück",
+            "price": "ca. 6,50 €"
+          }
+        ],
+        "name": "Frühstück"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Warme Tomatensuppe mit Brötchen",
+            "name": "Tomatensuppe mit Brötchen",
+            "price": "5,40 €"
+          },
+          {
+            "approx": false,
+            "desc": "Orientalischer Salat mit Linsen, vegan",
+            "name": "Orientalischer Linsensalat",
+            "price": "7,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Mediterraner Nudelsalat, vegan",
+            "name": "Gnocchi-Sardi-Salat",
+            "price": "7,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knusprige Pommes mit Ketchup",
+            "name": "Pommes frites",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Kesselchips mit Rosmarin",
+            "name": "Lisa's Kesselchips",
+            "price": "2,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Pikant gewürzte Erdnüsse",
+            "name": "ültje Erdnüsse",
+            "price": "2,00 €"
+          },
+          {
+            "approx": false,
+            "desc": "Kindermenü mit Getränk, Spielzeug und Milchreis",
+            "name": "Kindermenü",
+            "price": "8,90 €"
+          }
+        ],
+        "name": "Bordbistro – Snacks"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Frisch gebrühter Cappuccino",
+            "name": "Cappuccino",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Milder Kaffee mit viel Milch",
+            "name": "Café Crème",
+            "price": "ca. 4,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kaffee mit Milchschaum",
+            "name": "Latte Macchiato",
+            "price": "ca. 5,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleiner starker Kaffee",
+            "name": "Espresso",
+            "price": "ca. 3,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mineralwasser, 0,5l",
+            "name": "Mineralwasser",
+            "price": "ca. 3,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Apfelschorle",
+            "name": "Apfelschorle",
+            "price": "ca. 3,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Bier vom Fass oder Flasche",
+            "name": "Bier",
+            "price": "ca. 4,50 €"
+          }
+        ],
+        "name": "Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Im Bordrestaurant gibt es warme Gerichte wie Gemüsecurry mit Basmatireis für 10,90 € oder Planted Chicken Teriyaki für 11,90 €. Im Bordbistro gibt es Snacks wie Tomatensuppe für 5,40 € oder Salate für 7,90 €. Die Preise entsprechen dem offiziellen DB-Angebot.",
+        "q": "Was kostet Essen im DB Bordrestaurant?"
+      },
+      {
+        "a": "Ja, das Bordrestaurant ist für alle Fahrgäste geöffnet – nicht nur für die 1. Klasse. Auch Reisende der 2. Klasse können dort essen oder Speisen mit an den Platz nehmen.",
+        "q": "Darf man als 2.-Klasse-Fahrgast ins Bordrestaurant?"
+      },
+      {
+        "a": "In der 1. Klasse kann man über das ICE-Portal (WIFIonICE) direkt am Platz bestellen. Das Bordpersonal bringt das Essen an den Sitzplatz. In der 2. Klasse kann man die digitale Speisekarte einsehen und im Bordbistro abholen.",
+        "q": "Kann man im ICE am Platz bestellen?"
+      },
+      {
+        "a": "Ja, die DB bietet viele vegane Optionen: Gemüsecurry, Planted Chicken Teriyaki, veganes Porridge, veganen Milchreis, Tomatensuppe und verschiedene Salate. Auch Kaffee gibt es mit Hafermilch.",
+        "q": "Gibt es bei der Deutschen Bahn vegane Gerichte?"
+      },
+      {
+        "a": "Das Bordrestaurant mit Bedienung am Tisch gibt es in ICE- und IC-Zügen mit Speisewagen. Das Bordbistro mit Selbstbedienung findet man in den meisten Fernverkehrszügen. Nicht alle Züge haben ein gastronomisches Angebot.",
+        "q": "Gibt es in jedem Zug ein Bordrestaurant?"
+      }
+    ],
+    "h1": "DB Speisekarte – Preise Bordrestaurant 2026",
+    "intro": "Die Bordgastronomie der Deutschen Bahn versorgt Fahrgäste im Fernverkehr mit warmen Gerichten, Snacks und Getränken. Im Bordrestaurant mit Bedienung am Tisch gibt es warme Hauptgerichte wie Gemüsecurry mit Basmatireis für 10,90 € oder Planted Chicken Teriyaki für 11,90 €. Das Bordbistro mit Selbstbedienung bietet Snacks wie Tomatensuppe für 5,40 €, Salate für 7,90 € und ein Kindermenü für 8,90 €. Auch das Frühstück ist abgedeckt: Veganes Porridge gibt es für 3,90 €, im Menü mit Cappuccino für 6,50 €. Die DB legt Wert auf vegetarische und vegane Optionen sowie Kaffee mit Hafermilch. Bestellt werden kann in der 1. Klasse bequem am Platz über das ICE-Portal, in der 2. Klasse direkt im Bordbistro. Die folgenden Preise basieren auf der offiziellen digitalen Speisekarte der DB-Bordgastronomie. Alle Angaben beziehen sich auf den Stand 2026.",
+    "metaDescription": "DB Speisekarte & Preise 2026: Bordrestaurant und Bordbistro im Überblick. Warme Gerichte, Snacks und Getränke mit offiziellen Preisen.",
+    "slug": "db-speisekarte",
+    "title": "DB Speisekarte 2026 – Preise Bordrestaurant",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "2 Gerichte pro Woche für 2 Personen, ca. 5,10 € pro Portion",
+            "name": "2 Personen, 2 Gerichte",
+            "price": "ca. 40,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "3 Gerichte pro Woche für 2 Personen",
+            "name": "2 Personen, 3 Gerichte",
+            "price": "ca. 48,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "4 Gerichte pro Woche für 2 Personen",
+            "name": "2 Personen, 4 Gerichte",
+            "price": "ca. 61,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "5 Gerichte pro Woche für 2 Personen",
+            "name": "2 Personen, 5 Gerichte",
+            "price": "ca. 71,99 €"
+          }
+        ],
+        "name": "Box für 2 Personen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "2 Gerichte pro Woche für 3 Personen",
+            "name": "3 Personen, 2 Gerichte",
+            "price": "ca. 51,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "3 Gerichte pro Woche für 3 Personen",
+            "name": "3 Personen, 3 Gerichte",
+            "price": "ca. 61,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "4 Gerichte pro Woche für 3 Personen",
+            "name": "3 Personen, 4 Gerichte",
+            "price": "ca. 77,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "5 Gerichte pro Woche für 3 Personen",
+            "name": "3 Personen, 5 Gerichte",
+            "price": "ca. 92,99 €"
+          }
+        ],
+        "name": "Box für 3 Personen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "2 Gerichte pro Woche für 4 Personen",
+            "name": "4 Personen, 2 Gerichte",
+            "price": "ca. 61,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "3 Gerichte pro Woche für 4 Personen",
+            "name": "4 Personen, 3 Gerichte",
+            "price": "ca. 72,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "4 Gerichte pro Woche für 4 Personen",
+            "name": "4 Personen, 4 Gerichte",
+            "price": "ca. 92,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "5 Gerichte pro Woche für 4 Personen",
+            "name": "4 Personen, 5 Gerichte",
+            "price": "ca. 107,99 €"
+          }
+        ],
+        "name": "Box für 4 Personen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Je nach Boxgröße, ohne Versand",
+            "name": "Preis pro Portion",
+            "price": "ca. 5,10 € bis 8,75 €"
+          },
+          {
+            "approx": true,
+            "desc": "Versandkosten pro Lieferung",
+            "name": "Versand pro Box",
+            "price": "ca. 5,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Neukunden-Rabatt über die ersten Boxen",
+            "name": "Neukunden-Gutschein",
+            "price": "bis zu 120 € Rabatt"
+          }
+        ],
+        "name": "Portionspreise & Versand"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die Preise starten bei ca. 5,10 € pro Portion. Eine Box für 2 Personen mit 2 Gerichten pro Woche kostet ca. 40,99 €, die größte Box für 4 Personen mit 5 Gerichten liegt bei ca. 107,99 €. Hinzu kommen 5,99 € Versand pro Lieferung.",
+        "q": "Was kostet HelloFresh pro Woche?"
+      },
+      {
+        "a": "HelloFresh liefert portionierte Zutaten mit Rezeptkarten direkt nach Hause. Man wählt Personenanzahl und Gerichte pro Woche, HelloFresh stellt wöchentlich neue Rezepte zusammen und liefert alles in einer Box.",
+        "q": "Wie funktioniert HelloFresh?"
+      },
+      {
+        "a": "Ja, das Abo ist flexibel: Man kann wöchentlich pausieren, die Boxgröße ändern oder online kündigen. Es gibt keine Mindestlaufzeit.",
+        "q": "Kann man HelloFresh pausieren oder kündigen?"
+      },
+      {
+        "a": "Neukunden erhalten bis zu 120 € Rabatt, verteilt über die ersten Boxen, plus kostenlosen Versand für die erste Lieferung. Auch für Bestandskunden gibt es regelmäßig Aktionen und Freunde-werben-Programme.",
+        "q": "Gibt es Gutscheine für HelloFresh?"
+      },
+      {
+        "a": "HelloFresh bietet verschiedene Boxen: Classic, Veggie, Family, sowie kalorienarme und schnelle Varianten. Pro Woche stehen über 30 neue Rezepte zur Auswahl, darunter auch Thermomix-Rezepte.",
+        "q": "Welche Boxen gibt es bei HelloFresh?"
+      }
+    ],
+    "h1": "HelloFresh Preise – Kosten 2026",
+    "intro": "HelloFresh ist Deutschlands bekanntester Kochbox-Anbieter und liefert wöchentlich portionierte Zutaten mit Rezeptkarten direkt nach Hause. Das Prinzip ist einfach: Man wählt die Personenanzahl und die Gerichte pro Woche, HelloFresh stellt aus über 30 wöchentlichen Rezepten ein Menü zusammen und liefert alles in einer Box. Die Preise hängen von der Boxgröße ab: Sie starten bei ca. 5,10 € pro Portion, eine kleine Box für 2 Personen mit 2 Gerichten kostet ca. 40,99 € pro Woche, die größte Box für 4 Personen mit 5 Gerichten liegt bei ca. 107,99 €. Hinzu kommen 5,99 € Versand pro Lieferung. Neukunden profitieren von bis zu 120 € Rabatt auf die ersten Boxen. Das Abo ist flexibel – ohne Mindestlaufzeit, jederzeit pausierbar und online kündbar. Die folgenden Preise sind ca.-Preise auf Basis aktueller Preislisten aus dem Jahr 2026. HelloFresh passt Preise gelegentlich an, daher lohnt sich vor der Bestellung ein Blick auf die aktuelle Website.",
+    "metaDescription": "HelloFresh Preise 2026: Alle Boxen und Kosten im Überblick. Was kostet die Kochbox pro Woche? Aktuelle ca.-Preise für Deutschland.",
+    "slug": "hello-fresh-preise",
+    "title": "HelloFresh Preise 2026 – Kosten Deutschland",
+    "updated": "2026-10-09"
+  }
+]

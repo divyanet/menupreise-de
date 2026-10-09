@@ -1,0 +1,2383 @@
+[
+  {
+    "slug": "mc-donalds-preise",
+    "title": "McDonald's Preise 2026: Aktuelle Menü-Preise in Deutschland",
+    "metaDescription": "Was kostet 2026 ein Big Mac, McMenü oder Pommes? Ehrliche Preisübersicht für McDonald's Deutschland – mit ca.-Preisen und Spartipps.",
+    "h1": "McDonald's Preise in Deutschland 2026",
+    "intro": "Wer 2026 bei McDonald's in Deutschland isst, stellt schnell fest: Es gibt keine einzige, bundesweit gültige Preisliste. McDonald's Deutschland veröffentlicht bewusst keine nationalen Preise, denn jedes Restaurant legt seine Preise selbst fest – die meisten Betriebe werden von selbstständigen Franchise-Partnern geführt. Deshalb kann ein Big Mac in München ein paar Cent mehr kosten als in einer Kleinstadt, und Aktionen laufen regional unterschiedlich. Sicher ist: Die Preise sind 2026 im Vergleich zum Vorjahr leicht gestiegen, bewegen sich aber weiter im typischen Fast-Food-Rahmen. Ein einzelner Burger startet bei etwas über zwei Euro, ein komplettes McMenü mit Pommes und Getränk liegt je nach Burger meist zwischen sieben und elf Euro. Auf dieser Seite findest du eine ehrliche Übersicht über die aktuellen McDonald's Preise in Deutschland – von Big Mac, McChicken und Cheeseburger über Pommes und McNuggets bis zu McMenüs, Desserts und Snacks. Alle Preise sind sorgfältig recherchierte Richtwerte und als „ca.“ gekennzeichnet, weil sie je nach Restaurant abweichen können. So weißt du schon vor dem Besuch ungefähr, was dich erwartet – und mit den Spartipps in unseren FAQs zahlst du am Ende oft weniger als gedacht.",
+    "categories": [
+      {
+        "name": "Burger",
+        "items": [
+          {
+            "name": "Big Mac",
+            "price": "ca. 6,39 €",
+            "approx": true,
+            "desc": "Der Klassiker mit zwei Rindfleisch-Pattys, Big-Mac-Sauce, Salat, Käse, Gurken und Zwiebeln."
+          },
+          {
+            "name": "Cheeseburger",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Kleiner Burger mit Rindfleisch, geschmolzenem Käse, Gurken, Zwiebeln, Ketchup und Senf."
+          },
+          {
+            "name": "Hamburger",
+            "price": "ca. 2,19 €",
+            "approx": true,
+            "desc": "Der einfache Klassiker: Rindfleisch-Patty mit Gurken, Zwiebeln, Ketchup und Senf im Brötchen."
+          },
+          {
+            "name": "Hamburger Royal TS",
+            "price": "ca. 6,39 €",
+            "approx": true,
+            "desc": "Großer Rindfleisch-Burger mit Tomate, Salat, Käse und würziger Sauce."
+          },
+          {
+            "name": "McRib",
+            "price": "ca. 6,19 €",
+            "approx": true,
+            "desc": "Beliebter Aktions-Burger mit Schweinefleisch in Barbecue-Sauce, Gurken und Zwiebeln."
+          },
+          {
+            "name": "Filet-O-Fish",
+            "price": "ca. 5,19 €",
+            "approx": true,
+            "desc": "Knuspriges Fischfilet mit Käse und Remouladensauce im weichen Brötchen."
+          }
+        ]
+      },
+      {
+        "name": "Chicken & McNuggets",
+        "items": [
+          {
+            "name": "McChicken Classic",
+            "price": "ca. 5,89 €",
+            "approx": true,
+            "desc": "Knuspriges Hähnchen mit Salat und Mayonnaise im Brötchen."
+          },
+          {
+            "name": "Chickenburger",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Kleiner, günstiger Hähnchen-Burger – ideal für den kleinen Hunger."
+          },
+          {
+            "name": "Double Chickenburger",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Zwei knusprige Hähnchen-Pattys in einem Brötchen."
+          },
+          {
+            "name": "Chicken McNuggets (6 Stück)",
+            "price": "ca. 4,99 €",
+            "approx": true,
+            "desc": "Sechs knusprige Hähnchenstücke mit Dip nach Wahl."
+          },
+          {
+            "name": "Chicken McNuggets (9 Stück)",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Neun Hähnchenstücke mit zwei Dips – gut zum Teilen."
+          },
+          {
+            "name": "Chicken McNuggets (20 Stück)",
+            "price": "ca. 9,99 €",
+            "approx": true,
+            "desc": "Die große Box mit drei Dips für mehrere Personen."
+          }
+        ]
+      },
+      {
+        "name": "Pommes & Beilagen",
+        "items": [
+          {
+            "name": "Pommes Frites klein",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Die berühmten Pommes in der kleinen Portion."
+          },
+          {
+            "name": "Pommes Frites mittel",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Die Standard-Portion – liegt jedem McMenü bei."
+          },
+          {
+            "name": "Pommes Frites groß",
+            "price": "ca. 4,49 €",
+            "approx": true,
+            "desc": "Die große Portion für Pommes-Fans."
+          },
+          {
+            "name": "Snack Salad",
+            "price": "ca. 4,99 €",
+            "approx": true,
+            "desc": "Kleiner, frischer Salat als leichtere Beilage."
+          },
+          {
+            "name": "Dip nach Wahl",
+            "price": "ca. 0,90 €",
+            "approx": true,
+            "desc": "Zum Beispiel Süß-Sauer, Barbecue, Curry oder Ketchup als Extra-Dip."
+          }
+        ]
+      },
+      {
+        "name": "McMenü",
+        "items": [
+          {
+            "name": "Big Mac McMenü",
+            "price": "ca. 10,49 €",
+            "approx": true,
+            "desc": "Big Mac mit mittleren Pommes und mittlerem Softdrink."
+          },
+          {
+            "name": "Cheeseburger McMenü",
+            "price": "ca. 6,99 €",
+            "approx": true,
+            "desc": "Cheeseburger mit mittleren Pommes und mittlerem Softdrink."
+          },
+          {
+            "name": "McChicken McMenü",
+            "price": "ca. 9,99 €",
+            "approx": true,
+            "desc": "McChicken Classic mit mittleren Pommes und mittlerem Softdrink."
+          },
+          {
+            "name": "Hamburger Royal TS McMenü",
+            "price": "ca. 10,99 €",
+            "approx": true,
+            "desc": "Hamburger Royal TS mit mittleren Pommes und mittlerem Softdrink."
+          },
+          {
+            "name": "9er McNuggets McMenü",
+            "price": "ca. 9,99 €",
+            "approx": true,
+            "desc": "Neun Chicken McNuggets mit mittleren Pommes und mittlerem Softdrink."
+          },
+          {
+            "name": "McRib McMenü",
+            "price": "ca. 10,49 €",
+            "approx": true,
+            "desc": "McRib mit mittleren Pommes und mittlerem Softdrink."
+          }
+        ]
+      },
+      {
+        "name": "Desserts & Snacks",
+        "items": [
+          {
+            "name": "McFlurry",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Cremiges Softeis mit Topping, zum Beispiel Schoko-Linsen oder Karamell."
+          },
+          {
+            "name": "McSundae",
+            "price": "ca. 1,99 €",
+            "approx": true,
+            "desc": "Softeis-Becher mit warmer Schoko- oder Karamellsauce."
+          },
+          {
+            "name": "Milchshake 0,4 l",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Cremiger Shake in Vanille, Erdbeere oder Schokolade."
+          },
+          {
+            "name": "Heiße Apfeltasche",
+            "price": "ca. 2,29 €",
+            "approx": true,
+            "desc": "Knusprig frittierte Tasche mit heißer Apfelfüllung."
+          },
+          {
+            "name": "Cookie",
+            "price": "ca. 1,99 €",
+            "approx": true,
+            "desc": "Weicher Keks, zum Beispiel mit Schokostückchen."
+          },
+          {
+            "name": "Donut",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Süßer Donut mit Glasur – je nach Saison in wechselnden Sorten."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Warum gibt es keine einheitliche McDonald's Preisliste für Deutschland?",
+        "a": "Die meisten McDonald's Restaurants in Deutschland werden von selbstständigen Franchise-Partnern betrieben. Jeder Partner legt seine Preise selbst fest, abhängig von Miete, Lohnkosten und Region. Deshalb veröffentlicht McDonald's Deutschland keine bundesweit gültigen Preise – alle Angaben auf dieser Seite sind ehrliche ca.-Richtwerte."
+      },
+      {
+        "q": "Was kostet ein Big Mac McMenü 2026?",
+        "a": "Ein Big Mac McMenü mit mittleren Pommes und mittlerem Softdrink kostet 2026 je nach Restaurant rund 10,49 Euro. In Großstädten kann der Preis etwas höher liegen, in kleineren Städten etwas niedriger. Der genaue Preis steht am Bestellterminal oder in der App deines Restaurants."
+      },
+      {
+        "q": "Wie kann ich bei McDonald's sparen?",
+        "a": "Am meisten sparst du mit der kostenlosen McDonald's App: Dort gibt es regelmäßig Coupons, zum Beispiel 2-für-1-Angebote oder reduzierte Menüs. Auch Bonuspunkte für Gratisprodukte lohnen sich. Zusätzlich sind McMenüs fast immer günstiger, als Burger, Pommes und Getränk einzeln zu kaufen."
+      },
+      {
+        "q": "Sind die Preise bei McDonald's inklusive Mehrwertsteuer?",
+        "a": "Ja. Alle ausgeschriebenen Preise in den Restaurants, am Terminal und in der App sind Endpreise inklusive Mehrwertsteuer. Was auf dem Display steht, zahlst du auch an der Kasse – es kommen keine weiteren Gebühren dazu."
+      },
+      {
+        "q": "Ändern sich die McDonald's Preise 2026 noch?",
+        "a": "Preisanpassungen sind jederzeit möglich, da jedes Restaurant seine Preise selbst bestimmt. In der Regel ändern sich Preise eher schrittweise über das Jahr. Aktionsprodukte und Coupons in der App können den effektiven Preis zusätzlich senken."
+      }
+    ],
+    "updated": "2026-10-09"
+  },
+  {
+    "slug": "mc-donalds-fruhstuck",
+    "title": "McDonald's Frühstück 2026: Menü, Preise & Uhrzeiten",
+    "metaDescription": "McDonald's Frühstück 2026: McMuffin, Pancakes & Kaffee – alle Produkte, ca.-Preise und Uhrzeiten (i. d. R. bis 10:30 Uhr) im Überblick.",
+    "h1": "McDonald's Frühstück: Menü, Preise und Uhrzeiten 2026",
+    "intro": "Der Tag beginnt bei McDonald's in Deutschland mit dem Frühstück – und das gibt es in Restaurants mit Frühstücksangebot in der Regel bis 10:30 Uhr. Danach stellt die Küche auf das normale Tagesmenü um, deshalb lohnt es sich, früh dran zu sein. Das Frühstücksangebot ist kleiner als das Mittagsmenü, hat aber seine festen Fans: Der Egg McMuffin mit weichem englischem Muffin, Ei und Käse ist seit Jahren der Klassiker, dazu gibt es Varianten mit Bacon oder würziger Sausage. Wer es süß mag, greift zu Pancakes mit Ahornsirup oder einem Buttercroissant, wer es deftig mag, zum Big Breakfast mit Rösti-Ecken, Rührei und Würstchen. Dazu passt ein McCafé Kaffee – vom schnellen Filterkaffee bis zum Cappuccino. Die Preise bleiben 2026 moderat: Ein einzelnes Frühstücksprodukt kostet meist zwischen zwei und viereinhalb Euro, ein komplettes Frühstücksmenü mit Kaffee liegt oft unter sieben Euro. Auf dieser Seite findest du alle Frühstücksprodukte, aktuelle ca.-Preise und die wichtigsten Uhrzeiten im Überblick. Beachte: Nicht jedes Restaurant serviert Frühstück, und die Endzeit kann je nach Standort leicht abweichen – im Zweifel hilft ein Blick in die App.",
+    "categories": [
+      {
+        "name": "McMuffin Klassiker",
+        "items": [
+          {
+            "name": "Egg McMuffin",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Der Frühstücks-Klassiker: Spiegelei, Käse und Schinken im weichen englischen Muffin."
+          },
+          {
+            "name": "McMuffin Bacon & Egg",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "McMuffin mit knusprigem Bacon, Ei und geschmolzenem Käse."
+          },
+          {
+            "name": "McMuffin Sausage",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Deftiger McMuffin mit würzigem Sausage-Patty und Käse."
+          },
+          {
+            "name": "McMuffin Sausage & Egg",
+            "price": "ca. 3,79 €",
+            "approx": true,
+            "desc": "Sausage-Patty mit Ei und Käse – die sättigende Variante."
+          }
+        ]
+      },
+      {
+        "name": "Süßes & Beilagen",
+        "items": [
+          {
+            "name": "Pancakes mit Ahornsirup (3 Stück)",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Drei fluffige Pfannkuchen mit süßem Ahornsirup."
+          },
+          {
+            "name": "Buttercroissant",
+            "price": "ca. 1,99 €",
+            "approx": true,
+            "desc": "Buttriges, blättriges Croissant – passt perfekt zum Kaffee."
+          },
+          {
+            "name": "Franzbrötchen",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Zimtig-süßes Gebäckstück aus der McCafé Theke."
+          },
+          {
+            "name": "Schoko-Croissant",
+            "price": "ca. 2,29 €",
+            "approx": true,
+            "desc": "Croissant mit schokoladiger Füllung für Naschkatzen."
+          },
+          {
+            "name": "Rösti-Ecken (3 Stück)",
+            "price": "ca. 1,79 €",
+            "approx": true,
+            "desc": "Knusprig gebratene Kartoffelecken – außen kross, innen weich."
+          }
+        ]
+      },
+      {
+        "name": "Frühstücksmenüs",
+        "items": [
+          {
+            "name": "Egg McMuffin Menü",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Egg McMuffin mit Rösti-Ecken und Kaffee oder anderem Heißgetränk."
+          },
+          {
+            "name": "McMuffin Bacon & Egg Menü",
+            "price": "ca. 6,49 €",
+            "approx": true,
+            "desc": "McMuffin Bacon & Egg mit Rösti-Ecken und Heißgetränk."
+          },
+          {
+            "name": "McMuffin Sausage Menü",
+            "price": "ca. 5,79 €",
+            "approx": true,
+            "desc": "McMuffin Sausage mit Rösti-Ecken und Heißgetränk."
+          },
+          {
+            "name": "Big Breakfast Menü",
+            "price": "ca. 6,99 €",
+            "approx": true,
+            "desc": "Rührei, Würstchen, Rösti-Ecken und Brötchen mit Heißgetränk."
+          },
+          {
+            "name": "Pancakes Menü",
+            "price": "ca. 5,49 €",
+            "approx": true,
+            "desc": "Pancakes mit Ahornsirup plus Heißgetränk nach Wahl."
+          }
+        ]
+      },
+      {
+        "name": "Kaffee & Getränke",
+        "items": [
+          {
+            "name": "Filterkaffee",
+            "price": "ca. 2,29 €",
+            "approx": true,
+            "desc": "Einfacher, heißer Kaffee – der schnelle Wachmacher."
+          },
+          {
+            "name": "Cappuccino",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Espresso mit aufgeschäumter Milch und feiner Schaumkrone."
+          },
+          {
+            "name": "Latte Macchiato",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Viel warme Milch mit Espresso – mild und cremig."
+          },
+          {
+            "name": "Heiße Schokolade",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Warmes Kakaogetränk – beliebt bei Kindern und Schoko-Fans."
+          },
+          {
+            "name": "Orangensaft 0,25 l",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Fruchtiger Orangensaft als frische Ergänzung zum Frühstück."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Bis wann gibt es Frühstück bei McDonald's?",
+        "a": "In Restaurants mit Frühstücksangebot gibt es das Frühstück in der Regel bis 10:30 Uhr. Danach wechselt die Küche auf das normale Tagesmenü. Die genaue Endzeit kann je nach Restaurant leicht abweichen – in der App siehst du, was gerade verfügbar ist."
+      },
+      {
+        "q": "Gibt es das Frühstück auch am Wochenende länger?",
+        "a": "Das hängt vom einzelnen Restaurant ab. Manche Standorte servieren das Frühstück am Wochenende etwas länger, andere halten sich an die übliche Zeit bis 10:30 Uhr. Am sichersten ist ein kurzer Blick in die McDonald's App oder ein Anruf im Restaurant."
+      },
+      {
+        "q": "Was ist im Big Breakfast enthalten?",
+        "a": "Das Big Breakfast ist das deftigste Frühstück bei McDonald's: Es enthält Rührei, Würstchen, knusprige Rösti-Ecken und ein Brötchen. Im Menü kommt ein Heißgetränk nach Wahl dazu – zum Beispiel Kaffee oder heiße Schokolade."
+      },
+      {
+        "q": "Kann man Pancakes auch nach 10:30 Uhr bestellen?",
+        "a": "Nein, Pancakes und die anderen Frühstücksprodukte gibt es nur während der Frühstückszeit, in der Regel bis 10:30 Uhr. Danach bietet die Küche das normale Tagesmenü an. Wer Pancakes möchte, sollte also rechtzeitig kommen."
+      },
+      {
+        "q": "Serviert jedes McDonald's Restaurant Frühstück?",
+        "a": "Nein. Nicht alle Restaurants in Deutschland bieten Frühstück an – vor allem kleinere Standorte oder solche mit eingeschränkten Öffnungszeiten starten direkt mit dem Tagesmenü. In der App erkennst du an der angezeigten Speisekarte, ob dein Restaurant Frühstück serviert."
+      }
+    ],
+    "updated": "2026-10-09"
+  },
+  {
+    "slug": "mcdonalds-getranke-menu",
+    "title": "McDonald's Getränke 2026: McCafé, Shakes & Softdrinks",
+    "metaDescription": "Durst? Alle McDonald's Getränke 2026: McCafé Kaffee, Softdrinks, Milchshakes, Säfte & Wasser – mit ca.-Preisen in der Übersicht.",
+    "h1": "McDonald's Getränke: McCafé, Softdrinks, Shakes & mehr",
+    "intro": "Zu jedem Burger gehört das passende Getränk – und die Auswahl bei McDonald's in Deutschland ist 2026 größer denn je. Neben den Klassikern Coca-Cola, Fanta und Sprite gibt es die McCafé Welt mit Kaffeespezialitäten wie Cappuccino, Latte Macchiato und Espresso. Dazu kommen kalte Kreationen wie Iced Latte Caramel, fruchtige Neuheiten mit Matcha oder der spritzige Italo Spritz mit Sprite. Für alle, die es cremig mögen, stehen Milchshakes in Vanille, Erdbeere und Schokolade bereit, außerdem Säfte wie Orangensaft und Apfelschorle sowie Mineralwasser in still und medium. Die Getränkepreise bleiben 2026 überschaubar: Ein Softdrink in der 0,5-Liter-Flasche kostet je nach Restaurant rund drei Euro, ein McCafé Kaffee liegt je nach Sorte und Größe meist zwischen zweieinhalb und viereinhalb Euro. Auf dieser Seite findest du alle Getränkekategorien im Überblick – von heißem McCafé Kaffee über kalte Kaffeespezialitäten und Softdrinks bis zu Shakes, Säften und Wasser. Alle Preise sind als ca.-Werte gekennzeichnet, weil McDonald's Deutschland keine bundesweit einheitliche Preisliste veröffentlicht und jedes Restaurant seine Preise selbst festlegt.",
+    "categories": [
+      {
+        "name": "McCafé – Heiße Kaffeespezialitäten",
+        "items": [
+          {
+            "name": "Cappuccino",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Espresso mit samtig aufgeschäumter Milch – der beliebteste McCafé Kaffee."
+          },
+          {
+            "name": "Latte Macchiato",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Viel warme Milch mit Espresso im Glas – mild und cremig."
+          },
+          {
+            "name": "Espresso",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Klein, stark und aromatisch – der pure Kaffeegenuss."
+          },
+          {
+            "name": "Espresso Macchiato",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Espresso mit einem Häubchen Milchschaum."
+          },
+          {
+            "name": "Filterkaffee",
+            "price": "ca. 2,79 €",
+            "approx": true,
+            "desc": "Klassisch gebrühter Kaffee in der großen Tasse."
+          },
+          {
+            "name": "Heiße Schokolade",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Warmes Kakaogetränk mit Sahnehäubchen – auch ohne Kaffee ein Genuss."
+          }
+        ]
+      },
+      {
+        "name": "McCafé – Kalt & Eis",
+        "items": [
+          {
+            "name": "Iced Latte Caramel",
+            "price": "ca. 4,49 €",
+            "approx": true,
+            "desc": "Eisgekühlter Milchkaffee mit zartem Karamell – die Sommer-Erfrischung."
+          },
+          {
+            "name": "Iced Matcha Strawberry",
+            "price": "ca. 4,99 €",
+            "approx": true,
+            "desc": "Feinherber Matcha mit Erdbeer-Püree und kalter Milch – fruchtig und frisch."
+          },
+          {
+            "name": "Eiskaffee",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Kalter Kaffee mit Milch und Eiswürfeln – einfach und erfrischend."
+          },
+          {
+            "name": "Italo Spritz & Sprite",
+            "price": "ca. 4,49 €",
+            "approx": true,
+            "desc": "Prickelnde Sprite mit feinherbem Orangen-Geschmack auf Eis."
+          }
+        ]
+      },
+      {
+        "name": "Softdrinks",
+        "items": [
+          {
+            "name": "Coca-Cola 0,5 l",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Der Klassiker zum Burger – eisgekühlt serviert."
+          },
+          {
+            "name": "Coca-Cola Zero 0,5 l",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Volle Cola-Note ganz ohne Zucker."
+          },
+          {
+            "name": "Fanta 0,5 l",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Fruchtig-süße Orangenlimonade."
+          },
+          {
+            "name": "Sprite 0,5 l",
+            "price": "ca. 3,29 €",
+            "approx": true,
+            "desc": "Klare Zitronen-Limonade – spritzig und frisch."
+          },
+          {
+            "name": "Lipton Eistee Pfirsich 0,5 l",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Eistee mit Pfirsichgeschmack – die sanfte Alternative."
+          },
+          {
+            "name": "Red Bull 0,25 l",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Energydrink mit Koffein und Taurin – nicht für Kinder geeignet."
+          }
+        ]
+      },
+      {
+        "name": "Milchshakes",
+        "items": [
+          {
+            "name": "Milchshake Vanille 0,4 l",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Cremiger Shake mit feinem Vanillegeschmack."
+          },
+          {
+            "name": "Milchshake Erdbeere 0,4 l",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Fruchtig-süßer Shake mit Erdbeernote."
+          },
+          {
+            "name": "Milchshake Schokolade 0,4 l",
+            "price": "ca. 3,49 €",
+            "approx": true,
+            "desc": "Schokoladig-cremiger Shake – der Favorit vieler Kinder."
+          },
+          {
+            "name": "Milchshake Saison-Sorte 0,4 l",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Wechselnde Aktions-Sorte je nach Saison und Verfügbarkeit."
+          }
+        ]
+      },
+      {
+        "name": "Säfte & Wasser",
+        "items": [
+          {
+            "name": "Orangensaft 0,25 l",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Fruchtiger Orangensaft – passt gut zum Frühstück."
+          },
+          {
+            "name": "Apfelschorle 0,5 l",
+            "price": "ca. 2,99 €",
+            "approx": true,
+            "desc": "Erfrischende Apfelschorle in der Flasche."
+          },
+          {
+            "name": "Mineralwasser still 0,5 l",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Stilles Mineralwasser – die kalorienfreie Wahl."
+          },
+          {
+            "name": "Mineralwasser medium 0,5 l",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Leicht sprudelndes Mineralwasser in der Flasche."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Gibt es bei McDonald's kostenlose Getränke-Nachfüllungen?",
+        "a": "Nein. In Deutschland gibt es bei McDonald's keine Free Refills – jedes Getränk wird einzeln berechnet. Wer mehr trinken möchte, bestellt am besten gleich die größere Portion oder eine 0,5-Liter-Flasche."
+      },
+      {
+        "q": "Welche Größen gibt es bei Softdrinks und Shakes?",
+        "a": "Softdrinks gibt es meist in kleinen, mittleren und großen Bechern sowie in 0,5-Liter-Flaschen. Milchshakes werden in der Regel im 0,4-Liter-Becher serviert. In McMenüs ist standardmäßig ein mittleres Getränk enthalten, ein Upgrade auf groß kostet einen kleinen Aufpreis."
+      },
+      {
+        "q": "Welchen Kaffee verwendet McCafé?",
+        "a": "McDonald's Deutschland gibt an, für McCafé ausschließlich Kaffee aus zertifiziertem, verantwortungsvollem Anbau zu verwenden. Die Bohnen werden als Espresso oder Filterkaffee zubereitet – je nach Getränk mit Milch, Milchschaum oder Aromen wie Karamell verfeinert."
+      },
+      {
+        "q": "Gibt es zuckerfreie Getränke bei McDonald's?",
+        "a": "Ja. Neben Coca-Cola Zero und Sprite Zero gibt es Mineralwasser in still und medium sowie ungesüßte Kaffeespezialitäten. Für Kinder eignen sich Wasser, Milch oder Apfelschorle als zuckerarme Alternativen zum Softdrink."
+      },
+      {
+        "q": "Kann man Getränke auch ohne Eiswürfel bestellen?",
+        "a": "Ja, das ist in der Regel kein Problem. Am Bestellterminal oder an der Kasse lässt sich Eis meist abwählen, und auch Extrawünsche wie laktosefreie Milch sind in vielen Restaurants möglich – einfach beim Bestellen dazusagen."
+      }
+    ],
+    "updated": "2026-10-09"
+  },
+  {
+    "slug": "mc-donalds-happy-meal",
+    "title": "Happy Meal 2026: Preis, Inhalt & aktuelles Spielzeug",
+    "metaDescription": "Happy Meal 2026 bei McDonald's: Preis, Inhalt (Hauptgericht, Beilage, Getränk, Obst, Spielzeug) & aktuelle Themen wie FIFA Squishmallows.",
+    "h1": "Happy Meal bei McDonald's: Preis, Inhalt & Spielzeug 2026",
+    "intro": "Das Happy Meal ist seit Jahrzehnten das bekannteste Kindermenü der Welt – und auch 2026 gehört es in Deutschland zu den beliebtesten Bestellungen für Kinder. Das Prinzip ist einfach und seit Jahren gleich: Jedes Happy Meal enthält ein Hauptgericht zur Wahl, eine Beilage, ein Getränk, eine Portion Obst und als Höhepunkt ein Spielzeug oder ein Buch. Beim Hauptgericht stehen zum Beispiel Hamburger, Cheeseburger oder Chicken McNuggets zur Auswahl, dazu gibt es kleine Pommes oder eine leichtere Alternative. Der Preis liegt 2026 je nach Restaurant bei rund sechs Euro – regionale Unterschiede sind möglich, weil McDonald's Deutschland keine bundesweit einheitliche Preisliste veröffentlicht. Besonders spannend für kleine Sammler: Die Spielzeuge wechseln regelmäßig. Aktuell gibt es die FIFA x Squishmallows Kuschelfiguren – zwölf verschiedene Motive zum Sammeln – oder alternativ das Spendenbuch „Die geheime Drachenschule: Die Windbeißerin“, bei dem pro verkauftem Buch zehn Cent an die McDonald's Kinderhilfe Stiftung gehen. Auf dieser Seite findest du Preis, Inhalt und die aktuellen Spielzeug-Themen 2026 im Überblick.",
+    "categories": [
+      {
+        "name": "Happy Meal Varianten",
+        "items": [
+          {
+            "name": "Happy Meal mit Hamburger",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Das klassische Happy Meal mit Hamburger, Beilage, Getränk, Obst und Spielzeug."
+          },
+          {
+            "name": "Happy Meal mit Cheeseburger",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Happy Meal mit Cheeseburger statt Hamburger – der Rest bleibt gleich."
+          },
+          {
+            "name": "Happy Meal mit 4 Chicken McNuggets",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Vier knusprige Chicken McNuggets mit Dip als Hauptgericht."
+          },
+          {
+            "name": "Happy Meal mit Buch",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Gleiche Zusammenstellung, aber mit Spendenbuch statt Spielzeug."
+          },
+          {
+            "name": "Juniortüte",
+            "price": "ca. 3,99 €",
+            "approx": true,
+            "desc": "Die kleinere Alternative: Hauptgericht, Beilage, Getränk, Obst und Spielzeug oder Buch zum günstigeren Preis."
+          }
+        ]
+      },
+      {
+        "name": "Was steckt drin",
+        "items": [
+          {
+            "name": "1 Hauptgericht zur Wahl",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Hamburger, Cheeseburger oder 4 Chicken McNuggets – du entscheidest."
+          },
+          {
+            "name": "1 Beilage zur Wahl",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Kleine Pommes Frites oder eine leichtere Alternative."
+          },
+          {
+            "name": "1 Getränk zur Wahl",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Zum Beispiel Wasser, Milch, Apfelschorle, Saft oder ein kleiner Softdrink."
+          },
+          {
+            "name": "1 Portion Obst",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Bio-Apfeltüte oder Frucht-Quatsch – für die Extra-Portion Vitamine."
+          },
+          {
+            "name": "1 Spielzeug oder 1 Buch",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "In jedem Happy Meal steckt eine Überraschung zum Spielen oder Lesen."
+          }
+        ]
+      },
+      {
+        "name": "Spielzeug & Bücher 2026",
+        "items": [
+          {
+            "name": "FIFA x Squishmallows – 1 von 12 Kuschelfiguren",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Zwölf weiche Sammelfiguren: Benny, Boyle, Nya, Cam, Gordon, Lindsay, Debra, Barella, Olma, Maui, Dolan und Winnie."
+          },
+          {
+            "name": "Spendenbuch „Die geheime Drachenschule: Die Windbeißerin“",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Neues Abenteuer aus der Bestseller-Reihe – pro Buch gehen 10 Cent an die McDonald's Kinderhilfe Stiftung."
+          },
+          {
+            "name": "Sammelfiguren wechseln regelmäßig",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Die Spielzeug-Themen wechseln mehrmals im Jahr – solange der Vorrat reicht."
+          },
+          {
+            "name": "Buch statt Spielzeug wählbar",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Alternativ zum Spielzeug gibt es immer auch ein Buch als Beigabe."
+          }
+        ]
+      },
+      {
+        "name": "Obst & Getränke für Kinder",
+        "items": [
+          {
+            "name": "Bio-Apfeltüte (60 g)",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Frisch geschnittene Apfelstücke aus Bio-Anbau."
+          },
+          {
+            "name": "Frucht-Quatsch (80 g)",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Fruchtpüree zum Quetschen – ganz ohne Löffel."
+          },
+          {
+            "name": "Mineralwasser",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Die kalorienfreie Getränke-Wahl für Kinder."
+          },
+          {
+            "name": "Milch oder Apfelschorle",
+            "price": "inklusive",
+            "approx": true,
+            "desc": "Milde Alternativen zum Softdrink im Kindermenü."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Was kostet ein Happy Meal 2026 in Deutschland?",
+        "a": "Ein Happy Meal kostet 2026 je nach Restaurant rund 5,99 Euro. Da McDonald's Deutschland keine bundesweit einheitliche Preisliste veröffentlicht, kann der Preis regional leicht abweichen. Die kleinere Juniortüte liegt bei etwa 3,99 Euro."
+      },
+      {
+        "q": "Was ist alles in einem Happy Meal enthalten?",
+        "a": "Jedes Happy Meal enthält fünf Teile: ein Hauptgericht zur Wahl (zum Beispiel Hamburger, Cheeseburger oder 4 Chicken McNuggets), eine Beilage, ein Getränk, eine Portion Obst und ein Spielzeug oder ein Buch. Die Zusammenstellung lässt sich an der Kasse oder am Terminal frei wählen."
+      },
+      {
+        "q": "Welches Spielzeug gibt es aktuell im Happy Meal?",
+        "a": "Aktuell gibt es die FIFA x Squishmallows Kuschelfiguren – zwölf verschiedene Motive zum Sammeln. Alternativ liegt das Spendenbuch „Die geheime Drachenschule: Die Windbeißerin“ bei. Die aktuellen Themen stehen auf der offiziellen Happy-Meal-Seite von McDonald's Deutschland."
+      },
+      {
+        "q": "Was passiert mit den 10 Cent pro verkauftem Buch?",
+        "a": "Für jedes Happy Meal mit Buch-Beigabe spendet McDonald's 10 Cent an die McDonald's Kinderhilfe Stiftung. Die Stiftung unterstützt seit über 30 Jahren Familien mit schwer kranken Kindern, zum Beispiel mit Elternhäusern in Kliniknähe."
+      },
+      {
+        "q": "Ab wann gibt es das Spielzeug in Frühstücksrestaurants?",
+        "a": "In Restaurants mit Frühstücksangebot gibt es Spielzeug und Buch zum Happy Meal ab 10:30 Uhr – also nach Ende der Frühstückszeit. Vorher läuft die Küche noch im Frühstücksmodus. Solange der Vorrat reicht, ist in jedem Happy Meal eine Beigabe enthalten."
+      }
+    ],
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Der Klassiker: flammgegrilltes Beef-Patty, Tomate, Salat, Zwiebeln, Gurken, Ketchup und Mayo im Sesam-Bun.",
+            "name": "Whopper",
+            "price": "ca. 8,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei flammgegrillte Pattys für großen Hunger.",
+            "name": "Double Whopper",
+            "price": "ca. 11,39 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die kleinere Whopper-Variante zum kleineren Preis.",
+            "name": "Whopper Jr.",
+            "price": "ca. 5,99 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aktionspreis (UVP) im Oktober 2026: Whopper Jr. mit BBQ-Sauce, Käse und Röstzwiebeln. Gültig bis 02.11.2026 in teilnehmenden Restaurants.",
+            "name": "Whopper Jr. BBQ (King des Monats)",
+            "price": "2,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei kleine Pattys, Käse und die bekannte Big-King-Sauce.",
+            "name": "Big King",
+            "price": "ca. 7,89 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die große Version des Big King für richtig Hunger.",
+            "name": "Big King XXL",
+            "price": "ca. 11,69 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mit knusprigem Bacon und Käse — einer der größten Burger der Karte.",
+            "name": "Bacon King",
+            "price": "ca. 12,19 €"
+          },
+          {
+            "approx": true,
+            "desc": "Der einfache Einstieg: Beef-Patty, Gurke, Ketchup und Senf.",
+            "name": "Hamburger",
+            "price": "ca. 2,99 €"
+          }
+        ],
+        "name": "Flammgegrillte Burger"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Knuspriges Hähnchen im langen Bun mit Salat und Sauce.",
+            "name": "Long Chicken",
+            "price": "ca. 7,59 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knuspriges Chicken-Patty im runden Bun.",
+            "name": "Crispy Chicken",
+            "price": "ca. 7,59 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleiner Burger mit Chicken-Nugget-Patty — günstig und beliebt.",
+            "name": "Chicken Nugget Burger",
+            "price": "ca. 3,89 €"
+          },
+          {
+            "approx": true,
+            "desc": "Der Whopper mit pflanzlichem Patty statt Rindfleisch.",
+            "name": "Plant-based Whopper",
+            "price": "ca. 8,89 €"
+          },
+          {
+            "approx": true,
+            "desc": "Long Chicken mit pflanzlichem Patty.",
+            "name": "Plant-based Long Chicken",
+            "price": "ca. 8,29 €"
+          },
+          {
+            "approx": true,
+            "desc": "Big King in der fleischlosen Variante.",
+            "name": "Plant-based Big King",
+            "price": "ca. 8,39 €"
+          }
+        ],
+        "name": "Chicken & Plant-based"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Die klassischen Pommes frites von Burger King.",
+            "name": "King Pommes",
+            "price": "ca. 3,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knusprig panierte Zwiebelringe.",
+            "name": "King Onion Rings (6 Stück)",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Sechs knusprige Chicken Nuggets mit Dip nach Wahl.",
+            "name": "King Nuggets (6 Stück)",
+            "price": "ca. 5,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Nuggets mit würziger Chili-Käse-Füllung.",
+            "name": "Chili Cheese Nuggets (6 Stück)",
+            "price": "ca. 4,69 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gewürzte Spiral-Pommes — Angebot je nach Restaurant.",
+            "name": "Curly Fries",
+            "price": "ca. 5,39 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleiner Dip zum Snacken, zum Beispiel BBQ, Curry oder Sweet & Sour.",
+            "name": "Dip Pot",
+            "price": "ca. 0,40 €"
+          }
+        ],
+        "name": "Pommes & Snacks"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Whopper mit King Pommes und Softdrink.",
+            "name": "Whopper King Menü",
+            "price": "ca. 13,19 €"
+          },
+          {
+            "approx": true,
+            "desc": "Double Cheeseburger mit Pommes und Getränk — eines der günstigsten Menüs.",
+            "name": "Double Cheeseburger King Menü",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aktionspreis (UVP) im Oktober 2026: Whopper Jr. BBQ mit Pommes und Getränk. Gültig bis 02.11.2026 in teilnehmenden Restaurants.",
+            "name": "Whopper Jr. BBQ Menü (King des Monats)",
+            "price": "5,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Long Chicken mit Pommes und Softdrink.",
+            "name": "Long Chicken King Menü",
+            "price": "ca. 12,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Plant-based Whopper mit Pommes und Getränk.",
+            "name": "Plant-based Whopper King Menü",
+            "price": "ca. 13,09 €"
+          }
+        ],
+        "name": "King Menüs"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Süßer Donut mit Füllung — auch morgens beliebt.",
+            "name": "Donut mit Füllung",
+            "price": "ca. 1,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knusprige Churros mit Karamell.",
+            "name": "Caramel Churros",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Churros mit Zimt und Zucker.",
+            "name": "Churros Cinnamon Sugar",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Warmer Schoko-Brownie als Dessert.",
+            "name": "Hot Brownie",
+            "price": "ca. 2,69 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fruchtpüree für Kinder — auch im King Jr. Meal.",
+            "name": "Apfel-Bananen Quetschie",
+            "price": "ca. 1,79 €"
+          },
+          {
+            "approx": true,
+            "desc": "Softdrink im Einwegbecher — auch Zero und andere Sorten.",
+            "name": "Coca-Cola 0,5 l",
+            "price": "ca. 3,24 €"
+          }
+        ],
+        "name": "Desserts & Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Jedes Burger King Restaurant in Deutschland wird von einem eigenen Franchisenehmer betrieben. Dieser legt die Preise für sein Restaurant selbst fest. Darum veröffentlicht Burger King Deutschland keine bundesweite Preisliste — die Preise können von Stadt zu Stadt leicht abweichen.",
+        "q": "Warum hat Burger King in Deutschland keine festen Preise?"
+      },
+      {
+        "a": "In der offiziellen Burger King App. Wähle dort dein Restaurant aus — dann siehst du alle aktuellen Preise genau dieser Filiale. Das ist der einzige Weg zu verbindlichen Preisen.",
+        "q": "Wo sehe ich die genauen Preise meiner Filiale?"
+      },
+      {
+        "a": "Der Whopper Jr. BBQ ist im Oktober 2026 „King des Monats“ und kostet offiziell 2,99 € einzeln und 5,99 € als Menü. Das ist der unverbindliche Preisvorschlag (UVP) der Aktion, gültig bis 02.11.2026 in teilnehmenden Restaurants.",
+        "q": "Was kostet der Whopper Jr. BBQ im Oktober 2026?"
+      },
+      {
+        "a": "Meistens ja. Ein King Menü bündelt Burger, Pommes und Getränk und ist in der Regel günstiger, als alle drei Teile einzeln zu kaufen. Wie groß die Ersparnis ist, hängt vom Restaurant ab.",
+        "q": "Lohnt sich ein King Menü gegenüber dem Einzelkauf?"
+      },
+      {
+        "a": "Lieferdienste zeigen eigene Lieferpreise und rechnen Service- und Liefergebühren dazu. Direkt im Restaurant oder über die BK App zahlst du deshalb meist weniger als bei der Bestellung über einen Lieferdienst.",
+        "q": "Warum sind die Preise bei Lieferdiensten höher?"
+      }
+    ],
+    "h1": "Burger King Preise 2026: Das kostet das Menü in Deutschland",
+    "intro": "Was kostet ein Whopper bei Burger King in Deutschland? Eine einfache Antwort gibt es 2026 nicht — und das hat einen Grund: Burger King Deutschland veröffentlicht keine bundesweite Preisliste. Jedes Restaurant wird von einem eigenen Franchisenehmer betrieben, und dieser legt die Preise selbst fest. Darum kann ein Cheeseburger in Berlin anders kosten als in München. Die exakten Preise deines Restaurants siehst du nur in der offiziellen Burger King App, nachdem du eine Filiale gewählt hast. Die Übersicht unten zeigt typische Richtpreise aus deutschen Restaurants im Jahr 2026. Sie hilft dir, dein Budget zu planen — rechne vor Ort aber mit kleinen Unterschieden. Ein echter Fixpreis kommt von der aktuellen Aktion: Der Whopper Jr. BBQ ist im Oktober 2026 „King des Monats“ und kostet offiziell 2,99 € einzeln und 5,99 € als Menü (UVP, gültig bis 02.11.2026 in teilnehmenden Restaurants). Lieferdienste zeigen oft höhere Preise als das Restaurant, weil Gebühren dazukommen. In der App oder direkt in der Filiale zahlst du meist weniger.",
+    "metaDescription": "Burger King Preise 2026: Whopper, Cheeseburger, Pommes & King Menüs im Überblick. Richtpreise, App-Tipps und aktuelle Aktionen für Deutschland.",
+    "slug": "burger-king-preise",
+    "title": "Burger King Preise 2026: Menü & Burger Kosten",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Gibt es ab Öffnung — kein Warten auf Burger nötig.",
+            "name": "Hamburger",
+            "price": "ca. 2,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Der kleine Klassiker, auch schon morgens.",
+            "name": "Cheeseburger",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aktionspreis (UVP) bis 02.11.2026 in teilnehmenden Restaurants — auch morgens verfügbar.",
+            "name": "Whopper Jr. BBQ (King des Monats)",
+            "price": "2,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Für alle, die morgens schon richtig Hunger haben.",
+            "name": "Whopper",
+            "price": "ca. 8,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knuspriges Hähnchen im langen Bun — ab Öffnung bestellbar.",
+            "name": "Long Chicken",
+            "price": "ca. 7,59 €"
+          }
+        ],
+        "name": "Morgens verfügbar: Burger"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Der süßeste Start in den Tag bei Burger King.",
+            "name": "Donut mit Füllung",
+            "price": "ca. 1,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Knusprige Churros mit Karamell.",
+            "name": "Caramel Churros",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Churros mit Zimt und Zucker.",
+            "name": "Churros Cinnamon Sugar",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "desc": "Frisch gebrühter Kaffee — Preis je nach Restaurant, siehe BK App.",
+            "name": "Kaffee",
+            "price": "Preis in der BK App",
+            "approx": true
+          },
+          {
+            "desc": "Mit Milchschaum — Preis je nach Restaurant, siehe BK App.",
+            "name": "Cappuccino",
+            "price": "Preis in der BK App",
+            "approx": true
+          }
+        ],
+        "name": "Süßes & Kaffee am Morgen"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Aktionspreis (UVP) bis 02.11.2026 in teilnehmenden Restaurants.",
+            "name": "Whopper Jr. BBQ Menü (King des Monats)",
+            "price": "5,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Burger, Pommes und Getränk — auch morgens.",
+            "name": "Double Cheeseburger King Menü",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Das große Menü für den großen Morgenhunger.",
+            "name": "Whopper King Menü",
+            "price": "ca. 13,19 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die fleischlose Menü-Variante.",
+            "name": "Plant-based Whopper King Menü",
+            "price": "ca. 13,09 €"
+          }
+        ],
+        "name": "Menüs am Morgen"
+      },
+      {
+        "items": [
+          {
+            "desc": "Viele Restaurants öffnen zwischen 10 und 11 Uhr.",
+            "name": "Montag bis Freitag",
+            "price": "siehe App/Website",
+            "approx": true
+          },
+          {
+            "desc": "Am Wochenende oft erst zwischen 11 und 12 Uhr.",
+            "name": "Samstag und Sonntag",
+            "price": "siehe App/Website",
+            "approx": true
+          },
+          {
+            "desc": "Standorte an Bahnhöfen und Autobahnen öffnen teilweise früher.",
+            "name": "Bahnhof & Autobahn",
+            "price": "siehe App/Website",
+            "approx": true
+          },
+          {
+            "desc": "Die genauen Öffnungszeiten deiner Filiale zeigt die offizielle BK App.",
+            "name": "Exakte Zeiten prüfen",
+            "price": "siehe App/Website",
+            "approx": true
+          }
+        ],
+        "name": "Öffnungszeiten"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Nein. Burger King hat sein Frühstücksmenü in Deutschland um das Jahr 2020 eingestellt. Seitdem gibt es keine speziellen Frühstücksprodukte mehr — auch nicht an Bahnhöfen oder Flughäfen.",
+        "q": "Gibt es bei Burger King in Deutschland Frühstück?"
+      },
+      {
+        "a": "Zum alten Frühstücksmenü gehörten unter anderem der BK Breakfast Burger, der BK Toastie, Eggs & Bacon und Mini Pancakes. Alle diese Produkte sind seit der Einstellung nicht mehr erhältlich.",
+        "q": "Was gab es früher beim Burger King Frühstück?"
+      },
+      {
+        "a": "Ja. Bei Burger King gibt es ab Öffnung das komplette reguläre Menü. Du musst nicht auf eine bestimmte Uhrzeit warten — ein Whopper um zehn Uhr morgens ist kein Problem.",
+        "q": "Kann ich morgens einen normalen Burger bestellen?"
+      },
+      {
+        "a": "Donuts, Churros (zum Beispiel mit Karamell) und Kaffee stehen auf der regulären Karte und sind auch morgens verfügbar. Ein klassisches süßes Frühstücksmenü gibt es aber nicht.",
+        "q": "Was kann ich morgens Süßes bekommen?"
+      },
+      {
+        "a": "Das ist je nach Standort verschieden. Die meisten Filialen öffnen zwischen 10 und 12 Uhr, Standorte an Autobahnen oder Bahnhöfen oft früher. Die exakten Zeiten findest du in der offiziellen BK App.",
+        "q": "Wann öffnen Burger King Restaurants?"
+      }
+    ],
+    "h1": "Burger King Frühstück 2026: Gibt es das noch?",
+    "intro": "Gibt es bei Burger King in Deutschland noch Frühstück? Die kurze Antwort: Nein. Burger King hat sein Frühstücksmenü in Deutschland um das Jahr 2020 eingestellt — und es ist bis heute nicht zurückgekommen. Klassiker wie der BK Breakfast Burger, der BK Toastie oder Eggs & Bacon sind damit Geschichte. Auch an Bahnhöfen und Flughäfen gibt es kein spezielles Morgenmenü mehr. Die gute Nachricht: Anders als bei manchen Konkurrenten musst du bei Burger King nicht bis zu einer bestimmten Uhrzeit auf Burger warten. Hier gibt es das komplette reguläre Menü ab Öffnung — du kannst also morgens um zehn ganz normal einen Whopper oder einen Cheeseburger bestellen. Und wer es süß mag, findet mit Donuts, Churros und Kaffee trotzdem einen kleinen Start in den Tag. Die Öffnungszeiten sind je nach Restaurant verschieden: Die meisten Filialen öffnen zwischen 10 und 12 Uhr, Standorte an Autobahnen oder Bahnhöfen oft früher. Die genauen Zeiten deiner Filiale zeigt dir die offizielle BK App.",
+    "metaDescription": "Burger King Frühstück 2026: Das Frühstücksmenü ist seit 2020 eingestellt. Was du morgens stattdessen bekommst — Burger, Kaffee, Donuts & Öffnungszeiten.",
+    "slug": "burger-king-fruhstuck",
+    "title": "Burger King Frühstück 2026: Gibt es das noch?",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Der Klassiker: Beef-Patty, geschmolzene Käsescheibe, Gurken, Ketchup und Senf.",
+            "name": "Cheeseburger",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei Pattys und zwei Käsescheiben — deutlich sättigender als der einfache.",
+            "name": "Double Cheeseburger",
+            "price": "ca. 6,29 €"
+          },
+          {
+            "approx": true,
+            "desc": "Wie der Klassiker, aber mit pflanzlichem Patty statt Rindfleisch.",
+            "name": "Plant-based Cheeseburger",
+            "price": "ca. 3,89 €"
+          },
+          {
+            "approx": true,
+            "desc": "Doppelt pflanzlich: zwei Plant-based Pattys mit Käse.",
+            "name": "Plant-based Double Cheeseburger",
+            "price": "ca. 6,19 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die würzige Variante mit Chili-Cheese-Sauce.",
+            "name": "Chili Cheese Burger",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zum Vergleich: die Basis ohne Käse — etwas günstiger.",
+            "name": "Hamburger",
+            "price": "ca. 2,99 €"
+          }
+        ],
+        "name": "Die Cheeseburger Familie"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Double Cheeseburger mit King Pommes und Softdrink.",
+            "name": "Double Cheeseburger King Menü",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die fleischlose Menü-Variante mit Pommes und Getränk.",
+            "name": "Plant-based Double Cheeseburger King Menü",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzige Menü-Alternative mit Chili-Cheese.",
+            "name": "Double Chili Cheese Burger King Menü",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aktionspreis (UVP) im Oktober 2026, gültig bis 02.11.2026 in teilnehmenden Restaurants.",
+            "name": "Whopper Jr. BBQ Menü (King des Monats)",
+            "price": "5,99 €"
+          }
+        ],
+        "name": "Cheeseburger im Menü"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Der große Bacon-Burger mit viel Käse — für Cheeseburger-Fans mit mehr Hunger.",
+            "name": "Bacon King",
+            "price": "ca. 12,19 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei Pattys, Käse und Big-King-Sauce — die Mitte zwischen Cheeseburger und Whopper.",
+            "name": "Big King",
+            "price": "ca. 7,89 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die XXL-Version des Big King.",
+            "name": "Big King XXL",
+            "price": "ca. 11,69 €"
+          },
+          {
+            "approx": true,
+            "desc": "Langer Burger mit Chili-Cheese — würzig und groß.",
+            "name": "X-tra Long Chili Cheese",
+            "price": "ca. 9,99 €"
+          }
+        ],
+        "name": "Größere Käse-Burger zum Vergleich"
+      },
+      {
+        "items": [
+          {
+            "desc": "Kompakter Burger mit einem Patty und einer Käsescheibe — qualitativ deutlich weniger Kalorien als große Menü-Burger.",
+            "name": "Cheeseburger (Standard)",
+            "price": "keine offizielle Angabe",
+            "approx": true
+          },
+          {
+            "desc": "Durch zweites Patty und zweite Käsescheibe qualitativ fast doppelt so energiereich wie der einfache Cheeseburger.",
+            "name": "Double Cheeseburger",
+            "price": "keine offizielle Angabe",
+            "approx": true
+          },
+          {
+            "approx": true,
+            "desc": "Offizielle Angabe von Burger King Deutschland: 287 g und 613 kcal pro Burger.",
+            "name": "Whopper (zum Vergleich)",
+            "price": "ca. 6,99 €"
+          },
+          {
+            "desc": "Pflanzliches Patty statt Beef — qualitativ ähnliche Portionsgröße und Energie wie der klassische Cheeseburger.",
+            "name": "Plant-based Cheeseburger",
+            "price": "keine offizielle Angabe",
+            "approx": true
+          }
+        ],
+        "name": "Kalorien & Nährwerte"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Der Richtpreis liegt 2026 bei etwa 3,99 €. Da jeder Franchisenehmer seine Preise selbst festlegt, kann der Preis je nach Restaurant leicht abweichen. Den exakten Preis zeigt die offizielle BK App nach Auswahl deiner Filiale.",
+        "q": "Was kostet ein Cheeseburger bei Burger King 2026?"
+      },
+      {
+        "a": "Der Double Cheeseburger hat zwei Beef-Pattys und zwei Käsescheiben statt jeweils einem. Er kostet mit rund 6,29 € mehr, sättigt aber auch deutlich stärker — pro Patty gerechnet ist er oft das bessere Angebot.",
+        "q": "Was ist der Unterschied zwischen Cheeseburger und Double Cheeseburger?"
+      },
+      {
+        "a": "Ja. Der Plant-based Cheeseburger ersetzt das Rindfleisch-Patty durch ein pflanzliches Patty und kostet etwa 3,89 €. Auch als Double-Variante erhältlich.",
+        "q": "Gibt es den Cheeseburger auch ohne Fleisch?"
+      },
+      {
+        "a": "In Deutschland steht der große Bacon King auf der Karte. Die kleinere Jr.-Variante gibt es vor allem in anderen Ländern. Bacon-Fans finden hierzulande zusätzlich wechselnde Bacon-Aktionen, zum Beispiel als King des Monats.",
+        "q": "Gibt es einen Bacon King Jr. in Deutschland?"
+      },
+      {
+        "a": "Burger King Deutschland nennt für den Cheeseburger keine einzelne Kalorienzahl auf der Webseite. Als Orientierung: Der große Whopper liegt offiziell bei 613 kcal (287 g) — der kompakte Cheeseburger liegt qualitativ deutlich darunter. Genaue Nährwerte je Produkt stehen in der Nährwerttabelle der Restaurants und in der App.",
+        "q": "Wie viele Kalorien hat ein Cheeseburger?"
+      }
+    ],
+    "h1": "Burger King Cheeseburger Preis 2026",
+    "intro": "Der Cheeseburger ist der Klassiker unter den kleinen Burgern bei Burger King — und einer der günstigsten Wege, den Hunger zu stillen. 2026 liegt sein Richtpreis in deutschen Restaurants bei etwa 3,99 €, kann aber je nach Filiale leicht abweichen. Denn wie bei allen Produkten legt jeder Franchisenehmer seine Preise selbst fest; eine offizielle bundesweite Preisliste gibt es nicht. Die exakten Preise siehst du in der offiziellen BK App nach Auswahl deines Restaurants. Auf dieser Seite findest du die ganze Cheeseburger-Familie: vom einfachen Cheeseburger über den Double Cheeseburger mit zwei Pattys bis zur Plant-based Variante mit pflanzlichem Patty. Außerdem zeigen wir dir, wie sich der Preis im Menü verhält, welche größeren Käse-Burger es zum Vergleich gibt und was du über Kalorien wissen solltest. So erkennst du schnell, welche Variante am besten zu Hunger und Budget passt. Ein solider Orientierungswert aus offiziellen Angaben: Der große Whopper bringt es auf 287 g und 613 kcal — der kompakte Cheeseburger liegt deutlich darunter.",
+    "metaDescription": "Cheeseburger bei Burger King 2026: Richtpreis, Varianten wie Double & Plant-based, Kalorien-Infos und Preis-Leistung im Überblick.",
+    "slug": "burger-king-cheeseburger-preis",
+    "title": "Burger King Cheeseburger Preis 2026: Kosten & Info",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Aktuelle Serie seit September 2026: die dritte große Anime-Kooperation von Burger King Deutschland — nach One Piece und Naruto. Spielzeug liegt dem King Jr. Meal bei.",
+            "name": "Dragon Ball Super (2026)",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Anime-Figuren aus der Welt von Naruto als King Jr. Spielzeug. Spielzeug liegt dem King Jr. Meal bei.",
+            "name": "Naruto (2025)",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Der Auftakt der Anime-Strategie bei Burger King Deutschland. Spielzeug liegt dem King Jr. Meal bei.",
+            "name": "One Piece (2024)",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwölf Sammelfiguren zum Schlümpfe-Kinofilm (Juli 2025). Spielzeug liegt dem King Jr. Meal bei.",
+            "name": "Die Schlümpfe (2025)",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Laut Berichten die nächste Serie nach Dragon Ball: sechs Figuren — Hello Kitty, Kuromi, Cinnamoroll, My Melody, Keroppi plus eine seltene Gold-Variante.",
+            "name": "Hello Kitty & Friends (2026)",
+            "price": "ca. 4,99 €"
+          }
+        ],
+        "name": "Spielzeug-Themen 2025–2026"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Kleiner Burger oder 4 Nuggets, kleine Pommes, kleines Getränk (0,25 l) und das aktuelle Spielzeug.",
+            "name": "King Jr. Meal (komplett)",
+            "price": "ca. 4,99 €"
+          },
+          {
+            "desc": "Hamburger oder Cheeseburger — auch in Plant-based Varianten.",
+            "name": "Kleiner Burger nach Wahl",
+            "price": "im Menü enthalten",
+            "approx": true
+          },
+          {
+            "desc": "Alternative zum Burger: Chicken oder Plant-based Nuggets.",
+            "name": "King Nuggets (4 Stück)",
+            "price": "im Menü enthalten",
+            "approx": true
+          },
+          {
+            "desc": "Die kleine Portion der klassischen Pommes.",
+            "name": "Kleine King Pommes",
+            "price": "im Menü enthalten",
+            "approx": true
+          },
+          {
+            "desc": "Softdrink nach Wahl — oder Apfel-Bananen Quetschie bzw. Fruit Whoop.",
+            "name": "Kleines Getränk 0,25 l",
+            "price": "im Menü enthalten",
+            "approx": true
+          }
+        ],
+        "name": "King Jr. Meal Inhalt"
+      },
+      {
+        "name": "Verfügbarkeit & Hinweise",
+        "items": [
+          {
+            "name": "Wechselnde Themen",
+            "price": "nur für kurze Zeit",
+            "approx": true,
+            "desc": "Die Spielzeug-Themen wechseln regelmäßig – ein Thema ist meist nur wenige Wochen verfügbar."
+          },
+          {
+            "name": "Solange der Vorrat reicht",
+            "price": "nur für kurze Zeit",
+            "approx": true,
+            "desc": "Beliebte Serien sind schnell vergriffen; die Verfügbarkeit ist je Restaurant unterschiedlich."
+          },
+          {
+            "name": "Spielzeug im Menü enthalten",
+            "price": "im Menü enthalten",
+            "approx": true,
+            "desc": "Jedes King Jr. Meal enthält automatisch das aktuelle Spielzeug – ohne Aufpreis."
+          },
+          {
+            "name": "Ältere Serien",
+            "price": "nicht mehr verfügbar",
+            "approx": true,
+            "desc": "Abgelaufene Themen wie frühere Kooperationen gibt es nicht mehr – nur die aktuelle Serie."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Der Richtpreis liegt bei etwa 4,99 €, kann je nach Restaurant aber etwas höher oder niedriger sein. Den exakten Preis deiner Filiale zeigt die offizielle Burger King App.",
+        "q": "Was kostet ein King Jr. Meal 2026?"
+      },
+      {
+        "a": "Ein kleiner Burger (Hamburger oder Cheeseburger) oder vier King Nuggets, dazu kleine Pommes, ein kleines Getränk (0,25 l) und das Spielzeug der aktuellen Serie. Als Getränk gehen auch Apfel-Bananen Quetschie oder Fruit Whoop.",
+        "q": "Was ist alles in der King Jr. Box?"
+      },
+      {
+        "a": "Seit September 2026 läuft die Dragon Ball Super Serie — die dritte große Anime-Kooperation nach One Piece und Naruto. Danach folgt laut Berichten Hello Kitty & Friends mit sechs Sammelfiguren.",
+        "q": "Welches Spielzeug gibt es gerade bei Burger King?"
+      },
+      {
+        "a": "Nein. Das Spielzeug gibt es nur zusammen mit einem King Jr. Meal — und nur solange der Vorrat reicht. Einzelne Figuren werden nicht verkauft.",
+        "q": "Kann man das Spielzeug einzeln kaufen?"
+      },
+      {
+        "a": "Alle paar Wochen startet eine neue Serie, oft passend zu Filmen oder bekannten Marken. Wer sammelt, sollte also regelmäßig vorbeischauen — vergriffene Serien kommen meist nicht zurück.",
+        "q": "Wie oft wechseln die Spielzeug-Serien?"
+      }
+    ],
+    "h1": "Burger King Spielzeug 2026: King Jr. Meal Toys",
+    "intro": "Kinder lieben das King Jr. Meal — und viele Erwachsene sammeln heimlich mit. Das Kindermenü von Burger King Deutschland kommt in einer eigenen Box und enthält immer ein Spielzeug zur aktuellen Serie. Die Themen wechseln alle paar Wochen, und 2025/2026 setzt Burger King voll auf Anime und Kino: Nach One Piece als Auftakt und Naruto als Fortsetzung läuft seit September 2026 Dragon Ball Super — die dritte große Anime-Kooperation innerhalb von zwei Jahren. Danach folgt laut Berichten Hello Kitty & Friends mit sechs Sammelfiguren. 2025 gab es außerdem die Schlümpfe zum Kinofilm mit zwölf Figuren. In der Box steckt neben dem Spielzeug ein kleiner Burger (Hamburger oder Cheeseburger) oder vier King Nuggets, dazu kleine Pommes und ein kleines Getränk. Der Richtpreis für das komplette King Jr. Meal liegt 2026 bei etwa 4,99 € — je nach Restaurant etwas mehr oder weniger. Exakte Preise zeigt die offizielle BK App. Wichtig zu wissen: Das Spielzeug gibt es nur zusammen mit dem Menü und nur solange der Vorrat reicht.",
+    "metaDescription": "Burger King Spielzeug 2026: Dragon Ball Super, Naruto, Schlümpfe & bald Hello Kitty im King Jr. Meal. Preis, Box-Inhalt und Themen im Überblick.",
+    "slug": "burger-king-spielzeug",
+    "title": "Burger King Spielzeug 2026: King Jr. Meal Toys",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Acht Hähnchenteile im Original Rezept mit zwei Beilagen nach Wahl. Gut für zwei bis drei Personen.",
+            "name": "Original Bucket (8 Hähnchenteile, 2 Beilagen)",
+            "price": "ca. 17,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Große Mischung aus Hot Wings, Crispys und Bites mit zwei Beilagen. Ideal zum Teilen.",
+            "name": "Kentucky Bucket",
+            "price": "ca. 24,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zarte Filetstücke mit Beilagen und Dips für alle, die keine Knochen mögen.",
+            "name": "Filet Bucket (6 Filet Bites, 2 Beilagen, 2 Dips)",
+            "price": "ca. 15,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Viel Hähnchen in vielen Varianten plus Beilagen und Dips. Die größte Box für die ganze Runde.",
+            "name": "Family Friends Bucket",
+            "price": "ca. 29,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Aktionbox mit Hot Wings, Bites, Tenders, Pommes und Getränken für zwei Personen.",
+            "name": "Super Deal Bucket",
+            "price": "ca. 12,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Neun krosse Bites mit zwei Dips zum Snacken oder Teilen.",
+            "name": "Original Bites Bucket (9 Stk., 2 Dips)",
+            "price": "ca. 10,49 €"
+          }
+        ],
+        "name": "Buckets"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Würzig mariniertes Hähnchenfilet mit Salat und Mayo im Brötchen. Der Klassiker bei KFC.",
+            "name": "Zinger Burger",
+            "price": "ca. 5,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Hähnchenfilet nach Colonel Sanders Art mit Salat und Sauce.",
+            "name": "Colonel TS Burger",
+            "price": "ca. 6,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Doppeltes Hähnchenfilet mit Käse und Bacon für großen Hunger.",
+            "name": "Double Cheese & Bacon Burger",
+            "price": "ca. 9,29 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die vegetarische Variante des Colonel TS mit Gemüse-Patty.",
+            "name": "Veggie Colonel TS",
+            "price": "ca. 6,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Hähnchenstreifen mit Salat, Tomaten und Sauce in einer weichen Tortilla.",
+            "name": "Twister Wrap",
+            "price": "ca. 5,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würziges Hähnchen mit Tandoori-Sauce in fluffigem Naan-Brot.",
+            "name": "Zinger Tandoori Naan",
+            "price": "ca. 8,99 €"
+          }
+        ],
+        "name": "Burger & Wraps"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Drei Stücke Hähnchen mit elf Kräutern und Gewürzen, knusprig frittiert.",
+            "name": "Original Recipe Hähnchenteile (3 Stk.)",
+            "price": "ca. 8,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Würzige Hähnchenflügel mit extra scharfer Note.",
+            "name": "Hot Wings (6 Stk.)",
+            "price": "ca. 6,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleine, zarte Hähnchenstücke ohne Knochen mit einem Dip nach Wahl.",
+            "name": "Filet Bites (6 Stk., 1 Dip)",
+            "price": "ca. 6,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Extra knusprige Hähnchenstreifen aus der Fritteuse.",
+            "name": "Crispys (3 Stk., 1 Dip)",
+            "price": "ca. 6,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fleischlose Alternative zu den Filet Bites, ebenfalls kross frittiert.",
+            "name": "Veggie Tender (3 Stk., 1 Dip)",
+            "price": "ca. 6,49 €"
+          }
+        ],
+        "name": "Chicken Pieces & Tenders"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Goldgelbe, salzige Pommes aus der Fritteuse.",
+            "name": "Pommes frites (groß)",
+            "price": "ca. 3,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die kleine Portion für den schnellen Hunger zwischendurch.",
+            "name": "Pommes frites (klein)",
+            "price": "ca. 2,79 €"
+          },
+          {
+            "approx": true,
+            "desc": "Frischer Krautsalat, der gut zu den würzigen Hähnchenteilen passt.",
+            "name": "Coleslaw",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Cremiges Püree mit würziger Bratensauce.",
+            "name": "Kartoffelpüree mit Gravy",
+            "price": "ca. 3,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Süßer Maiskolben, auf Wunsch mit Butter.",
+            "name": "Halber Maiskolben",
+            "price": "ca. 3,49 €"
+          }
+        ],
+        "name": "Beilagen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Weicher Keks mit Schokoladenstückchen.",
+            "name": "Chocolate Cookie",
+            "price": "ca. 2,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Keks mit doppeltem Schoko-Geschmack für Schoko-Fans.",
+            "name": "Double Chocolate Cookie",
+            "price": "ca. 2,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassische Cola-Begleitung zum Hähnchen-Menü.",
+            "name": "Pepsi (0,5 l)",
+            "price": "ca. 3,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Heißes Kaffeegetränk mit Milchschaum.",
+            "name": "Cappuccino",
+            "price": "ca. 2,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fruchtiger Trinkgenuss, beliebt bei Kindern.",
+            "name": "Capri Sun Orange (0,2 l)",
+            "price": "ca. 1,99 €"
+          }
+        ],
+        "name": "Desserts & Getränke"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die meisten KFC Filialen in Deutschland werden von Franchise-Partnern geführt. Jeder Partner darf die Preise seiner Filiale selbst festlegen. Darum findest du auf kfc.de die Speisekarte, aber keine bundesweite Preisliste. Die Preise auf dieser Seite sind Richtwerte für 2026 und können je nach Stadt abweichen.",
+        "q": "Warum zeigt KFC Deutschland keine festen Preise auf kfc.de?"
+      },
+      {
+        "a": "Je nach Größe und Inhalt liegst du 2026 bei etwa 11 bis 30 Euro. Kleinere Boxen wie der Original Bites Bucket starten bei rund 10 Euro, große Familien-Buckets mit vielen Hähnchenteilen, Beilagen und Dips kosten um die 25 bis 30 Euro.",
+        "q": "Was kostet ein Bucket bei KFC in Deutschland?"
+      },
+      {
+        "a": "Ja. Es gibt zum Beispiel den Veggie Colonel TS, vegane Tenders und Beilagen wie Pommes, Coleslaw oder Maiskolben. Die Auswahl kann je nach Filiale etwas variieren, frage am besten in deiner Filiale nach.",
+        "q": "Gibt es bei KFC vegetarische Gerichte?"
+      },
+      {
+        "a": "Zu den Dauerbrennern gehören die Hot Wings, der Zinger Burger und die Original Recipe Hähnchenteile. Für Gruppen sind die Buckets und Sharing-Boxen am beliebtesten, weil sie viele Teile und Beilagen in einer Box vereinen.",
+        "q": "Was ist das beliebteste Gericht bei KFC Deutschland?"
+      },
+      {
+        "a": "Ja. Die KFC App bietet regelmäßig Coupons und Aktionen, und es gibt immer wieder 2-für-1-Deals oder Spar-Menüs. Schau auf unserer Seite zu den KFC Gutscheinen vorbei, um die aktuellen Angebote zu sehen.",
+        "q": "Kann man bei KFC auch sparen?"
+      }
+    ],
+    "h1": "KFC Speisekarte und Preise in Deutschland 2026",
+    "intro": "Kentucky Fried Chicken ist in Deutschland für seine knusprigen Hähnchenteile im Original Rezept bekannt. Auf kfc.de zeigt die Kette ihre Speisekarte, aber keine bundesweiten Preise. Der Grund ist einfach: Die meisten Filialen werden von Franchise-Partnern geführt, und jeder Partner legt die Preise für seine Filiale selbst fest. Darum können die Preise in Berlin, München oder Hamburg leicht voneinander abweichen. Die Preise auf dieser Seite sind Richtwerte aus dem Jahr 2026. Sie helfen dir dabei, dein Budget zu planen, sind aber keine verbindlichen Preise. Vor dem Bestellen lohnt sich immer ein Blick auf die Speisekarte in deiner Filiale oder in der KFC App. Besonders beliebt sind die Buckets zum Teilen, die würzigen Zinger Burger, die Hot Wings und die Filet Bites. Für Gruppen oder Familienabende sind die großen Sharing-Boxen oft günstiger als Einzelbestellungen.",
+    "metaDescription": "KFC Preise 2026 in Deutschland: Buckets, Burger, Tenders und Beilagen als Richtwerte. Einfach erklärt, aktuell und ehrlich.",
+    "slug": "kfc-speisekarte-preise",
+    "title": "KFC Speisekarte & Preise 2026: Deutschland Übersicht",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Einige Deals gibt es nur für registrierte Nutzer der KFC App. Oft mit persönlicher Auswahl passend zu deiner Bestellhistorie.",
+            "name": "Exklusive Special-Coupons nur in der App",
+            "price": "bis zu 60 % Rabatt"
+          },
+          {
+            "approx": true,
+            "desc": "Fertig zusammengestellte Menüs und Boxen zum Aktionspreis, einlösbar in der Filiale oder bei Abholung.",
+            "name": "Digitale Coupons für Menüs und Buckets",
+            "price": "bis zu 50 % Rabatt"
+          },
+          {
+            "approx": true,
+            "desc": "Rabattaktionen auf einzelne Gerichte wie Wings oder Burger, wechseln regelmäßig.",
+            "name": "App-Deal auf beliebte Gerichte",
+            "price": "etwa 40 % Rabatt"
+          },
+          {
+            "approx": true,
+            "desc": "Die App zeigt dir Deals, die zu dem passen, was du sonst bestellst.",
+            "name": "Personalisierte Angebote",
+            "price": "wechselt regelmäßig"
+          }
+        ],
+        "name": "App-Coupons"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Zwei Classic Burger, zum Beispiel Zinger oder Veggie, plus zwei Getränke. Ideal für Paare.",
+            "name": "Double Deal: 2 Classic Burger und 2 Softdrinks",
+            "price": "zum Sparpreis für zwei"
+          },
+          {
+            "approx": true,
+            "desc": "Kaufe einen Burger und erhalte den zweiten kostenlos. Gilt oft für ausgewählte Classic Burger.",
+            "name": "Zwei Burger zum Preis von einem",
+            "price": "2 für 1"
+          },
+          {
+            "approx": true,
+            "desc": "Zwei Twister Wraps mit großen Pommes zu einem Paketpreis.",
+            "name": "Twister Duo Deal",
+            "price": "Sparpreis für zwei Wraps"
+          },
+          {
+            "name": "2 Menüs zum Sparpreis",
+            "price": "2 für 1",
+            "approx": true,
+            "desc": "Zwei gleiche Menüs zum Aktionspreis, gültig auf ausgewählte Menüs in der App und in der Filiale."
+          }
+        ],
+        "name": "2-für-1 Aktionen"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Großer Eimer mit Hähnchenteilen, Pommes und Getränken zum Aktionspreis. Perfekt für Familienabende.",
+            "name": "Family Bucket Coupon",
+            "price": "bis zu 50 % Rabatt"
+          },
+          {
+            "approx": true,
+            "desc": "Hot Wings, Bites, Tenders, Pommes und Getränke als Box für zwei Personen.",
+            "name": "Super Deal Bucket für zwei",
+            "price": "zum Aktionspreis"
+          },
+          {
+            "approx": true,
+            "desc": "Spar-Boxen mit gemischten Hähnchenteilen zum Teilen mit Freunden.",
+            "name": "Friends-Special Boxen",
+            "price": "wechselt regelmäßig"
+          },
+          {
+            "name": "Menü für zwei zum Sparpreis",
+            "price": "zum Aktionspreis",
+            "approx": true,
+            "desc": "Zwei Menüs im Paket, oft mit Burger, Beilage und Getränk. Günstiger als einzeln bestellt."
+          }
+        ],
+        "name": "Spar-Boxen & Buckets"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Aktionspreise auf Hot Wings an einem festen Wochentag.",
+            "name": "Hot Wings Tag (Dienstag)",
+            "price": "Sonderpreis pro Portion"
+          },
+          {
+            "approx": true,
+            "desc": "Spezielles Menü zum Sparpreis für die Mittagspause an Wochentagen.",
+            "name": "Mittagsmenü (12:00 bis 14:00 Uhr)",
+            "price": "reduzierter Preis"
+          },
+          {
+            "approx": true,
+            "desc": "Mit gültigem Studentenausweis gibt es in vielen Filialen Nachlass auf das Menü.",
+            "name": "Studentenrabatt mit Ausweis",
+            "price": "10 % Rabatt"
+          },
+          {
+            "approx": true,
+            "desc": "Nachlass auf ausgewählte Produkte wie den Twister Wrap bei Online-Bestellung.",
+            "name": "Online-Bestell-Rabatt an Wochentagen",
+            "price": "etwa 20 % Rabatt"
+          }
+        ],
+        "name": "Wochenangebote"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Die sicherste Quelle ist die KFC App und der Gutschein-Bereich auf der KFC Website. Dort stehen die aktuell gültigen Coupons mit Bedingungen und Ablaufdatum. Daneben listen Gutschein-Portale im Netz die Aktionen, aber vergleiche immer mit der offiziellen Quelle.",
+        "q": "Wo finde ich aktuelle KFC Gutscheine in Deutschland?"
+      },
+      {
+        "a": "Das hängt vom Coupon ab. Viele digitale Gutscheine zeigst du einfach in der Filiale vor oder gibst sie bei der Online-Bestellung ein. PDF-Gutscheine kannst du ausdrucken und mitbringen. App-Coupons löst du direkt über die App bei Bestellung oder Abholung ein.",
+        "q": "Wie löse ich einen KFC Gutschein ein?"
+      },
+      {
+        "a": "Nein, aber manche Special-Coupons sind wirklich nur für registrierte App-Nutzer verfügbar und bringen die größten Ersparnisse. Allgemeinere Deals findest du auch auf der Website oder als PDF zum Ausdrucken.",
+        "q": "Gibt es KFC Gutscheine nur in der App?"
+      },
+      {
+        "a": "Prüfe zuerst das Ablaufdatum und die Bedingungen. Manche Coupons gelten nur für bestimmte Gerichte, haben einen Mindestbestellwert oder sind für eine bestimmte Bestellart gedacht, zum Beispiel nur für die App oder nur für den Verzehr vor Ort.",
+        "q": "Warum wird mein KFC Gutschein nicht akzeptiert?"
+      },
+      {
+        "a": "Je nach Angebot sind 36 bis 50 Prozent Ersparnis üblich, bei ausgewählten App-Deals sogar bis zu 60 Prozent. Die Coupons beziehen sich meist auf fertig zusammengestellte Menüs oder Boxen, die im Paket deutlich günstiger sind als einzeln bestellt.",
+        "q": "Wie viel kann man mit KFC Gutscheinen sparen?"
+      }
+    ],
+    "h1": "KFC Gutscheine und Angebote in Deutschland 2026",
+    "intro": "Bei KFC in Deutschland musst du nicht immer den vollen Preis zahlen. Die Kette bietet regelmäßig Gutscheine und Aktionen an, mit denen du bei Burgern, Buckets und Menüs sparen kannst. Es gibt Coupons auf der KFC Website, als PDF zum Ausdrucken und exklusive Special-Coupons nur für Nutzer der KFC App. Die Ersparnis liegt je nach Angebot oft bei 36 bis 50 Prozent, manche App-Deals gehen sogar bis zu 60 Prozent. Auf dieser Seite findest du die wichtigsten Gutschein-Arten für 2026. Beachte immer die Bedingungen: Viele Coupons haben ein Ablaufdatum, gelten nur für bestimmte Gerichte oder nur in ausgewählten Filialen. Aktiviere am besten die Push-Nachrichten in der KFC App, damit du keinen neuen Deal verpasst.",
+    "metaDescription": "KFC Gutscheine 2026 in Deutschland: App-Coupons, 2-für-1 Deals und Spar-Menüs. So sparst du bis zu 60 % bei KFC.",
+    "slug": "kfc-gutscheine",
+    "title": "KFC Gutscheine 2026: Coupons & Angebote Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Hähnchenstreifen in Teriyaki-Sauce mit frischem Gemüse nach Wahl.",
+            "name": "Chicken Teriyaki (15 cm)",
+            "price": "ca. 7,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Salami, Schinken und Peperoni mit Käse und Gemüse. Ein würziger Klassiker.",
+            "name": "Italian B.M.T. (15 cm)",
+            "price": "ca. 7,80 €"
+          },
+          {
+            "approx": true,
+            "desc": "Rindfleischstreifen mit geschmolzenem Käse und Paprika.",
+            "name": "Philly Beef & Cheese (15 cm)",
+            "price": "ca. 8,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Thunfisch-Creme mit Gemüse nach Wahl.",
+            "name": "Tuna (15 cm)",
+            "price": "ca. 7,80 €"
+          },
+          {
+            "approx": true,
+            "desc": "Gegrillte Hähnchenstreifen im Fajita-Stil mit Zwiebeln und Paprika.",
+            "name": "Chicken Fajita (15 cm)",
+            "price": "ca. 7,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Klassischer Salami-Sub für alle, die es deftig mögen.",
+            "name": "Salami (15 cm)",
+            "price": "ca. 6,40 €"
+          },
+          {
+            "approx": true,
+            "desc": "Milder Schinken mit Käse und frischem Gemüse.",
+            "name": "Ham (15 cm)",
+            "price": "ca. 6,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Nur Gemüse und Sauce nach Wahl. Die günstigste Option im Menü.",
+            "name": "Veggie Delite (15 cm)",
+            "price": "ca. 6,39 €"
+          }
+        ],
+        "name": "Klassische Subs 15 cm"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Die doppelte Portion des beliebtesten Chicken-Subs.",
+            "name": "Chicken Teriyaki (30 cm)",
+            "price": "ca. 15,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Doppelter Belag für großen Hunger.",
+            "name": "Italian B.M.T. (30 cm)",
+            "price": "ca. 14,90 €"
+          },
+          {
+            "approx": true,
+            "desc": "Viel Rindfleisch und Käse in der langen Variante.",
+            "name": "Philly Beef & Cheese (30 cm)",
+            "price": "ca. 14,20 €"
+          },
+          {
+            "approx": true,
+            "desc": "Thunfisch-Creme im 30-cm-Brot für zwei Mahlzeiten oder zum Teilen.",
+            "name": "Tuna (30 cm)",
+            "price": "ca. 12,60 €"
+          },
+          {
+            "approx": true,
+            "desc": "Fajita-Hähnchen in der langen Version.",
+            "name": "Chicken Fajita (30 cm)",
+            "price": "ca. 13,70 €"
+          },
+          {
+            "approx": true,
+            "desc": "Die günstigste 30-cm-Option mit reinem Gemüsebelag.",
+            "name": "Veggie Delite (30 cm)",
+            "price": "ca. 11,10 €"
+          }
+        ],
+        "name": "Klassische Subs 30 cm"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "15-cm-Sub mit Getränk und Snack, zum Beispiel Chips oder Cookie.",
+            "name": "Chicken Teriyaki Menü (15 cm)",
+            "price": "ca. 10,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Der Klassiker als Komplett-Menü mit Getränk und Snack.",
+            "name": "Italian B.M.T. Menü (15 cm)",
+            "price": "ca. 10,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Das günstigste Menü mit Gemüse-Sub.",
+            "name": "Veggie Delite Menü (15 cm)",
+            "price": "ca. 9,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Großes Menü mit 30-cm-Sub, Getränk und Snack.",
+            "name": "Chicken Teriyaki Menü (30 cm)",
+            "price": "ca. 17,99 €"
+          },
+          {
+            "approx": true,
+            "desc": "Menü-Angebot mit einem Classic-Sub, Getränk und Beilage.",
+            "name": "Sparmenü 15-cm-Sub Classic",
+            "price": "ca. 8,78 €"
+          }
+        ],
+        "name": "Menüs"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Weicher, warmer Keks. Auch in veganen Varianten erhältlich.",
+            "name": "Cookie (z. B. Double Chocolate)",
+            "price": "ca. 1,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Keks mit Zitronen-Buttermilch-Geschmack.",
+            "name": "Lemon Buttermilk Cookie",
+            "price": "ca. 1,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Kleine, knusprige Kartoffelhäppchen als Snack.",
+            "name": "Potato Bites (Medium)",
+            "price": "ca. 2,49 €"
+          },
+          {
+            "approx": true,
+            "desc": "Sechs Hähnchen-Häppchen mit Nacho-Gewürz.",
+            "name": "Nacho Chicken Bites (6 Stk.)",
+            "price": "ca. 4,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zusätzlicher Dip für deinen Sub oder deine Bites.",
+            "name": "Extra Soßen-Dip (40 ml)",
+            "price": "ca. 0,40 €"
+          }
+        ],
+        "name": "Extras & Cookies"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Subway Filialen in Deutschland werden fast alle von selbstständigen Franchise-Partnern betrieben. Jeder Partner legt seine Preise selbst fest, daher veröffentlicht subway.com/de-de die Speisekarte, aber keine Preise. Die Werte auf dieser Seite sind Richtwerte für 2026.",
+        "q": "Warum gibt es bei Subway Deutschland keine feste Preisliste?"
+      },
+      {
+        "a": "Je nach Sorte liegst du bei etwa 6,40 bis 8,70 Euro. Einfache Sorten wie Veggie Delite oder Salami sind am günstigsten, Sorten mit viel Fleisch wie Philly Beef & Cheese kosten etwas mehr.",
+        "q": "Was kostet ein 15-cm-Sub bei Subway 2026?"
+      },
+      {
+        "a": "Ein 30-cm-Sub kostet ungefähr so viel wie zwei 15-cm-Subs, also sparst du kaum. Wenn du ein Getränk und einen Snack möchtest, ist das Menü meist die günstigere Wahl als alles einzeln zu bestellen.",
+        "q": "Lohnt sich ein 30-cm-Sub oder ist das Menü besser?"
+      },
+      {
+        "a": "Ja. Der Veggie Delite Sub ist vegetarisch, und es gibt vegane Pattys sowie vegane Cookies. Beim Belegen kannst du Käse weglassen und vegane Sauce wählen. Das Angebot kann je nach Filiale leicht variieren.",
+        "q": "Gibt es bei Subway auch vegetarische und vegane Optionen?"
+      },
+      {
+        "a": "Die Menüs sind meist günstiger als Einzelbestellungen. Außerdem gibt es oft Sparmenüs und Aktionen in der App oder in einzelnen Filialen. Ein Blick auf die Angebotstafel in deiner Filiale lohnt sich.",
+        "q": "Kann man bei Subway Geld sparen?"
+      }
+    ],
+    "h1": "Subway Preise in Deutschland 2026",
+    "intro": "Subway ist in Deutschland bekannt für frisch belegte Subs, die du dir ganz nach Geschmack zusammenstellst. Auf subway.com/de-de findest du die Speisekarte und die Zutaten, aber keine festen Preise. Der Grund: Fast alle Subway Restaurants in Deutschland sind Franchise-Filialen, und jede Filiale setzt ihre eigenen Preise. Darum kostet ein Sub in München nicht immer gleich viel wie in Leipzig. Die Preise auf dieser Seite sind Richtwerte für 2026, die dir eine ehrliche Orientierung geben. Vor dem Bestellen schaust du am besten auf die Tafel in deiner Filiale. Beliebt sind Klassiker wie Chicken Teriyaki, Italian B.M.T. und Veggie Delite. Die Subs gibt es in 15 cm und 30 cm, als Menü mit Getränk und Snack oder auch als Wrap und Salat.",
+    "metaDescription": "Subway Preise 2026 in Deutschland: 15 cm und 30 cm Subs, Menüs und Cookies als Richtwerte. Aktuell, klar und ehrlich erklärt.",
+    "slug": "subway-preise",
+    "title": "Subway Preise 2026: Speisekarte Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "categories": [
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Klassischer Donut-Ring, zum Beispiel glasiert oder mit Streuseln.",
+            "name": "Donut (ungefüllt)",
+            "price": "3,70 €"
+          },
+          {
+            "approx": false,
+            "desc": "Gefüllt mit Creme oder Frucht, zum Beispiel Boston Creme oder Apfel.",
+            "name": "Donut (gefüllt)",
+            "price": "3,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aufgerollte Donut-Variante mit süßer Füllung.",
+            "name": "Donut Roll",
+            "price": "3,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Aufwendig dekorierter Donut mit Toppings wie Keks, Schokolade oder Caramel.",
+            "name": "Deluxe Donut",
+            "price": "4,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Mischung aus Croissant und Donut mit edler Deko in der Deluxe-Version.",
+            "name": "Deluxe Cronut",
+            "price": "5,40 €"
+          }
+        ],
+        "name": "Donuts"
+      },
+      {
+        "items": [
+          {
+            "approx": false,
+            "desc": "Kleiner, starker Kaffee für zwischendurch.",
+            "name": "Espresso",
+            "price": "2,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Kräftig gerösteter Filterkaffee, der Klassiker von Dunkin'.",
+            "name": "Dark Roast",
+            "price": "ab 3,50 €"
+          },
+          {
+            "approx": false,
+            "desc": "Espresso mit heißem Wasser, mild und aromatisch.",
+            "name": "Americano",
+            "price": "ab 3,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Espresso mit Milch und cremigem Milchschaum.",
+            "name": "Cappuccino",
+            "price": "ab 3,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Viel Milch mit Espresso, sanft im Geschmack.",
+            "name": "Latte Macchiato",
+            "price": "ab 3,90 €"
+          }
+        ],
+        "name": "Kaffee & Heißgetränke"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Sechs Donuts deiner Wahl in einer Box. Beliebt für kleine Runden.",
+            "name": "6er Box Donuts",
+            "price": "ca. 16,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Zwölf Donuts für größere Gruppen oder das Büro.",
+            "name": "12er Box Donuts",
+            "price": "ca. 29,50 €"
+          },
+          {
+            "approx": true,
+            "desc": "Drei Donuts zum Probieren oder Verschenken.",
+            "name": "3er Box Donuts",
+            "price": "ca. 9,00 €"
+          },
+          {
+            "approx": true,
+            "desc": "Große Box mit vielen Donuts für Feiern und Events.",
+            "name": "Partybox",
+            "price": "ca. 44,95 €"
+          }
+        ],
+        "name": "Boxen & Mehr"
+      },
+      {
+        "items": [
+          {
+            "approx": true,
+            "desc": "Saftiger Muffin, zum Beispiel mit Schokolade oder Früchten.",
+            "name": "Muffin (z. B. Schoko)",
+            "price": "ca. 2,75 €"
+          },
+          {
+            "approx": true,
+            "desc": "Keks in Sorten wie Choco Chunk oder White Chocolate Macadamia.",
+            "name": "Cookie",
+            "price": "ca. 2,45 €"
+          },
+          {
+            "approx": true,
+            "desc": "Saftiger Schoko-Brownie als süßer Snack.",
+            "name": "Brownie",
+            "price": "ca. 2,45 €"
+          },
+          {
+            "approx": true,
+            "desc": "Mischung aus Croissant und Donut mit Glasur nach Wahl.",
+            "name": "Cronudd (klassisch)",
+            "price": "ca. 3,45 €"
+          }
+        ],
+        "name": "Snacks"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Im offiziellen Liefer-Menü kostet ein ungefüllter Donut 3,70 Euro, ein gefüllter Donut oder Donut Roll 3,90 Euro. Deluxe Donuts liegen bei 4,90 Euro, der Deluxe Cronut bei 5,40 Euro. In der Filiale vor Ort sind die Preise oft etwas niedriger.",
+        "q": "Was kostet ein Donut bei Dunkin' Donuts 2026?"
+      },
+      {
+        "a": "Ja, die Preise für einzelne Donuts und Kaffee stammen aus dem offiziellen Dunkin' Liefer-Menü in Deutschland und sind verifiziert. Die Boxpreise und Snacks sind Richtwerte, weil sie je nach Filiale und Lieferdienst leicht abweichen können.",
+        "q": "Sind die Dunkin' Preise auf dieser Seite offiziell?"
+      },
+      {
+        "a": "In der Lieferung sind Verpackung und Lieferdienst-Gebühren eingerechnet. In der Filiale zahlst du für einen einfachen Donut oft zwischen 2,20 und 2,80 Euro, in der Lieferung startet der Preis bei 3,70 Euro.",
+        "q": "Warum sind die Liefer-Preise höher als in der Filiale?"
+      },
+      {
+        "a": "Richtwerte 2026: Die 6er Box kostet etwa 16,50 Euro, die 12er Box etwa 29,50 Euro in der Lieferung. In der Filiale sind die Boxen günstiger, etwa 13 bis 17 Euro für die 6er und 25 bis 30 Euro für die 12er Box.",
+        "q": "Was kostet eine 6er oder 12er Box bei Dunkin'?"
+      },
+      {
+        "a": "Ja, es gibt vegane Donuts und Muffins. Die Auswahl wechselt saisonal und ist nicht in jeder Filiale verfügbar. Preislich liegen vegane Donuts etwa auf dem gleichen Niveau wie die klassischen Sorten.",
+        "q": "Gibt es bei Dunkin' Donuts auch vegane Optionen?"
+      }
+    ],
+    "h1": "Dunkin' Donuts Preise in Deutschland 2026",
+    "intro": "Dunkin' Donuts ist in Deutschland die bekannteste Marke für Donuts und Kaffee zum Mitnehmen. Anders als bei anderen Fast-Food-Ketten veröffentlicht Dunkin' seine Preise direkt im eigenen Liefer-Menü, sodass die Preise hier offiziell verifizierbar sind. Die Liefer-Preise liegen etwas über den Preisen in der Filiale, weil Lieferdienst-Gebühren und Verpackung eingerechnet sind. In der Filiale zahlst du für einen einfachen Donut oft zwischen 2,20 und 2,80 Euro, in der Lieferung liegt der Einstiegspreis bei 3,70 Euro. Die Auswahl ist groß: gefüllte und ungefüllte Donuts, Deluxe-Sorten mit aufwendiger Deko, Cronudds als Mischung aus Croissant und Donut sowie Kaffee in vielen Varianten. Für Gruppen oder Büros sind die Boxen mit 6 oder 12 Donuts die beliebteste Wahl.",
+    "metaDescription": "Dunkin' Donuts Preise 2026 in Deutschland: Donuts, Kaffee und Boxen. Offizielle Liefer-Preise, aktuell und ehrlich.",
+    "slug": "dunkin-donuts-preise",
+    "title": "Dunkin' Donuts Preise 2026: Deutschland",
+    "updated": "2026-10-09"
+  },
+  {
+    "slug": "fast-food-preise",
+    "title": "Fast Food Preise 2026 - Ketten im Vergleich",
+    "metaDescription": "Wie viel kosten Big Mac, Whopper & Co.? Fast-Food-Preisvergleich 2026 mit Richtwerten von McDonald's, Burger King, KFC, Subway, Dunkin' & Nordsee.",
+    "h1": "Fast Food Preise 2026 - Der große Vergleich",
+    "intro": "Fast Food ist aus Deutschland nicht mehr wegzudenken: Ob Big Mac, Whopper oder Zinger Burger - Millionen Menschen essen regelmäßig bei den großen Ketten. Doch wie viel kostet Fast Food in Deutschland eigentlich im Jahr 2026? Die Antwort ist nicht so einfach, wie sie aussieht. Die meisten Ketten arbeiten mit Franchise-Systemen: Jedes Restaurant legt seine Preise selbst fest. Deshalb gibt es in Deutschland keine offiziellen, landesweiten Preislisten - weder bei McDonald's und Burger King noch bei KFC oder Subway. Auf dieser Seite vergleichen wir die Signature-Produkte der größten Ketten anhand aktueller Richtwerte (Stand: Oktober 2026). Alle Preise sind als ca.-Werte markiert, weil sie je nach Stadt und Restaurant abweichen können. Unser Tipp vorab: Wer wirklich sparen will, nutzt die Apps der Ketten - dort gibt es regelmäßig Gutscheine, 2-für-1-Aktionen und exklusive Spar-Menüs, die im Restaurant deutlich günstiger sind als die Normalpreise.",
+    "categories": [
+      {
+        "name": "McDonald's",
+        "items": [
+          {
+            "name": "Big Mac",
+            "price": "ca. 6,39 €",
+            "approx": true,
+            "desc": "Der Klassiker: zwei Rindfleisch-Patties, Big-Mac-Sauce, Salat, Käse und Gurke im Sesambrötchen."
+          },
+          {
+            "name": "Hamburger Royal TS",
+            "price": "ca. 6,39 €",
+            "approx": true,
+            "desc": "Großer Rindfleisch-Burger mit Tomate, Salat und würziger Sauce."
+          },
+          {
+            "name": "McChicken Classic",
+            "price": "ca. 5,89 €",
+            "approx": true,
+            "desc": "Knuspriges Hähnchenfilet mit Salat und Sauce im Brötchen."
+          },
+          {
+            "name": "Cheeseburger",
+            "price": "ca. 2,49 €",
+            "approx": true,
+            "desc": "Der günstigste Burger der Karte: Rindfleisch, Käse, Gurke und Zwiebeln."
+          }
+        ]
+      },
+      {
+        "name": "Burger King",
+        "items": [
+          {
+            "name": "Whopper",
+            "price": "ca. 8,49 €",
+            "approx": true,
+            "desc": "Der BK-Klassiker: flammgegrilltes Rindfleisch, Salat, Tomate, Zwiebeln und Mayonnaise."
+          },
+          {
+            "name": "Whopper Jr. BBQ (King des Monats)",
+            "price": "2,99 €",
+            "approx": false,
+            "desc": "Offizieller Aktionspreis: einzeln 2,99 €, als Menü 5,99 €, gültig bis 02.11.2026 in teilnehmenden Restaurants."
+          },
+          {
+            "name": "Crispy Chicken",
+            "price": "ca. 7,59 €",
+            "approx": true,
+            "desc": "Knuspriges Hähnchenfilet im Sesambrötchen mit Salat und Sauce."
+          },
+          {
+            "name": "Plant-based Whopper",
+            "price": "ca. 8,89 €",
+            "approx": true,
+            "desc": "Die fleischlose Variante des Whoppers mit pflanzlichem Patty."
+          }
+        ]
+      },
+      {
+        "name": "KFC",
+        "items": [
+          {
+            "name": "Zinger Burger",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Scharf gewürztes Hähnchenfilet mit Salat und Pfeffer-Mayonnaise."
+          },
+          {
+            "name": "Colonel TS Burger",
+            "price": "ca. 6,99 €",
+            "approx": true,
+            "desc": "Hähnchenfilet nach Original-Rezept des Colonels mit Salat und Sauce."
+          },
+          {
+            "name": "Original Bucket (8 Hähnchenteile)",
+            "price": "ca. 17,99 €",
+            "approx": true,
+            "desc": "Eimer mit acht Hähnchenteilen nach Geheimrezept - ideal zum Teilen."
+          },
+          {
+            "name": "Kentucky Bucket",
+            "price": "ca. 24,99 €",
+            "approx": true,
+            "desc": "Familien-Bucket mit Hähnchenteilen, ideal für mehrere Personen."
+          }
+        ]
+      },
+      {
+        "name": "Subway",
+        "items": [
+          {
+            "name": "Chicken Teriyaki (15 cm)",
+            "price": "ca. 7,90 €",
+            "approx": true,
+            "desc": "Hähnchenstreifen in Teriyaki-Sauce mit frischem Gemüse nach Wahl."
+          },
+          {
+            "name": "Italian B.M.T. (15 cm)",
+            "price": "ca. 7,80 €",
+            "approx": true,
+            "desc": "Salami, Peperoniwurst und Schinken mit Käse und Gemüse."
+          },
+          {
+            "name": "Tuna (15 cm)",
+            "price": "ca. 7,80 €",
+            "approx": true,
+            "desc": "Thunfisch-Creme mit frischem Gemüse - einer der beliebtesten Subs."
+          },
+          {
+            "name": "Philly Beef & Cheese (15 cm)",
+            "price": "ca. 8,70 €",
+            "approx": true,
+            "desc": "Rindfleischstreifen mit geschmolzenem Käse und Paprika."
+          }
+        ]
+      },
+      {
+        "name": "Dunkin' Donuts",
+        "items": [
+          {
+            "name": "Donut (ungefüllt)",
+            "price": "3,70 €",
+            "approx": false,
+            "desc": "Klassischer Donut mit Glasur oder Zuckerguss."
+          },
+          {
+            "name": "Donut (gefüllt)",
+            "price": "3,90 €",
+            "approx": false,
+            "desc": "Donut mit Creme- oder Fruchtfüllung."
+          },
+          {
+            "name": "Deluxe Donut",
+            "price": "4,90 €",
+            "approx": false,
+            "desc": "Aufwendig dekorierter Donut mit Topping."
+          },
+          {
+            "name": "Cappuccino",
+            "price": "ab 3,90 €",
+            "approx": false,
+            "desc": "Frisch gebrühter Cappuccino aus 100 % Arabica-Bohnen."
+          }
+        ]
+      },
+      {
+        "name": "Nordsee",
+        "items": [
+          {
+            "name": "Backfisch-Baguette",
+            "price": "ca. 5,99 €",
+            "approx": true,
+            "desc": "Knusprig gebackener Fisch im Baguette mit Remoulade und Salat."
+          },
+          {
+            "name": "Fischbrötchen Matjes",
+            "price": "ca. 4,99 €",
+            "approx": true,
+            "desc": "Klassisches Fischbrötchen mit Matjes, Zwiebeln und Gurke."
+          },
+          {
+            "name": "Backfisch-Menü mit Pommes",
+            "price": "ca. 10,99 €",
+            "approx": true,
+            "desc": "Backfisch mit Pommes frites und Getränk - das beliebte Mittagsmenü."
+          },
+          {
+            "name": "Alaska-Seelachs-Menü",
+            "price": "ca. 11,99 €",
+            "approx": true,
+            "desc": "Alaska-Seelachsfilet mit Beilage nach Wahl und Getränk."
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Welche Fast-Food-Kette ist in Deutschland am günstigsten?",
+        "a": "Bei den Einzel-Burgern liegen McDonald's und Burger King meist vorn: Ein Cheeseburger kostet oft unter 3 Euro. Für ein komplettes Menü sind die Unterschiede klein - die meisten Menüs liegen zwischen 9 und 13 Euro. Am besten vergleicht man die App-Angebote, denn dort gibt es die größten Preisunterschiede."
+      },
+      {
+        "q": "Warum gibt es keine offiziellen Preislisten von McDonald's und Burger King?",
+        "a": "Die meisten Restaurants in Deutschland werden von Franchise-Partnern betrieben. Diese Partner legen ihre Preise selbst fest - je nach Stadt, Miete und Wettbewerb. Deshalb veröffentlicht keine der großen Ketten eine landesweite Preisliste. Alle Preise auf dieser Seite sind aktuelle Richtwerte und können abweichen."
+      },
+      {
+        "q": "Wie kann man bei Fast Food in Deutschland sparen?",
+        "a": "Der einfachste Weg sind die offiziellen Apps: McDonald's, Burger King und KFC bieten dort regelmäßig Gutscheine, 2-für-1-Aktionen und exklusive Spar-Menüs an. Auch Mittagsangebote und King-des-Monats-Aktionen senken den Preis deutlich."
+      },
+      {
+        "q": "Sind die Fast-Food-Preise 2026 gestiegen?",
+        "a": "Ja, in den letzten Jahren sind die Preise bei fast allen Ketten schrittweise gestiegen. Gründe sind höhere Kosten für Zutaten, Energie und Personal. Aktionen wie der King des Monats oder App-Coupons gleichen den Anstieg für Schnäppchenjäger teilweise aus."
+      },
+      {
+        "q": "Was kostet ein Fast-Food-Menü im Durchschnitt 2026?",
+        "a": "Ein klassisches Menü mit Burger, Pommes und Getränk kostet 2026 in Deutschland meist zwischen 9 und 13 Euro. Einfache Burger ohne Menü gibt es ab etwa 3 Euro, große Familien-Buckets bei KFC ab etwa 20 Euro."
+      }
+    ],
+    "updated": "2026-10-09"
+  }
+]
