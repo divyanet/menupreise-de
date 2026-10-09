@@ -75,10 +75,9 @@ export default function RootLayout({
               </div>
             </div>
             <p className="disclaimer">
-              Hinweis: Alle Preise sind unverbindliche Angaben in Euro, Stand
-              Oktober 2026. Preise mit „ca.“ sind Schätzungen auf Basis
-              typischer Preise in Deutschland. Die tatsächlichen Preise können
-              je nach Standort abweichen. Alle Angaben ohne Gewähr.
+              Hinweis: Alle Preise sind unverbindliche Richtwerte in Euro,
+              Stand Oktober 2026. Die tatsächlichen Preise können je nach
+              Standort und Filiale abweichen. Alle Angaben ohne Gewähr.
             </p>
           </div>
         </footer>
