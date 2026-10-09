@@ -282,6 +282,28 @@ export function getMenusByCategory(): { category: string; menus: MenuPage[] }[] 
   })).filter((g) => g.menus.length > 0);
 }
 
+/** Reading time in minutes, computed from the page's full text. */
+export function getReadingTime(slug: string): number {
+  const menu = menus.find((m) => m.slug === slug);
+  if (!menu) return 1;
+  const detailed = detailedContents.find((d) => d.slug === slug);
+  const text = [
+    menu.intro,
+    menu.h1,
+    menu.metaDescription,
+    ...(detailed?.overviewParas ?? []),
+    ...(detailed?.popularParas ?? []),
+    ...(detailed?.tipsParas ?? []),
+    ...menu.faqs.map((f) => f.q + " " + f.a),
+    ...(detailed?.extraFaqs ?? []).map((f) => f.q + " " + f.a),
+    ...menu.categories.flatMap((c) =>
+      c.items.map((i) => i.name + " " + (i.desc ?? ""))
+    ),
+  ].join(" ");
+  const words = text.split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 200));
+}
+
 /** Split a long intro into short 2-3 sentence paragraphs. */
 export function shortParas(text: string): string[] {
   const sentences = text

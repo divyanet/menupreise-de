@@ -1,12 +1,8 @@
-import { getCategory, getPillarSlug, getImage, type MenuPage } from "@/lib/menus";
+import { getCategory, getPillarSlug, getImage, getReadingTime, type MenuPage } from "@/lib/menus";
 
 export function readingTime(text: string): number {
   const words = text.split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 200));
-}
-
-export function pageText(m: MenuPage): string {
-  return [m.intro, m.h1, m.metaDescription].join(" ");
 }
 
 export default function PostCard({
@@ -19,7 +15,7 @@ export default function PostCard({
   const img = getImage(menu.slug);
   const category = getCategory(menu.slug);
   const pillarSlug = getPillarSlug(category);
-  const mins = readingTime(pageText(menu));
+  const mins = getReadingTime(menu.slug);
   return (
     <article className={`post-card${featured ? " featured" : ""}`}>
       <a

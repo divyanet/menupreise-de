@@ -13,7 +13,8 @@ import {
   shortParas,
   type MenuPage,
 } from "@/lib/menus";
-import PostCard, { readingTime } from "@/components/post-card";
+import PostCard from "@/components/post-card";
+import { getReadingTime } from "@/lib/menus";
 
 export const dynamicParams = false;
 
@@ -149,14 +150,7 @@ export default async function MenuPageRoute({
 
   const midIndex = Math.ceil(menu.categories.length / 2);
 
-  const fullText = [
-    menu.intro,
-    ...overviewParas,
-    ...popularParas,
-    ...tipsParas,
-    ...allFaqs.map((f) => f.q + " " + f.a),
-  ].join(" ");
-  const mins = readingTime(fullText);
+  const mins = getReadingTime(slug);
 
   const faqJsonLd = {
     "@context": "https://schema.org",
