@@ -1,0 +1,178 @@
+[
+ {
+  "slug": "starbucks-preise",
+  "featured": {
+   "url": "https://images.pexels.com/photos/30446269/pexels-photo-30446269.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Barista gießt Latte Art in eine Kaffeetasse"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/12703064/pexels-photo-12703064.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Tasse Kaffee mit Latte-Art-Herz"
+  }
+ },
+ {
+  "slug": "pizza-hut-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Peperoni-Pizza auf weißem Keramikteller"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/13730501/pexels-photo-13730501.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Peperoni-Pizza mit geschmolzenem Käse und knusprigem Rand"
+  }
+ },
+ {
+  "slug": "nordsee-speisekarte-preise",
+  "featured": {
+   "url": "https://images.pexels.com/photos/19034916/pexels-photo-19034916.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Knuspriger Backfisch mit Pommes frites auf weißem Teller"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/1123250/pexels-photo-1123250.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Fish and Chips mit Remoulade und Limettenscheibe"
+  }
+ },
+ {
+  "slug": "vapiano-speisekarte-preise",
+  "featured": {
+   "url": "https://images.pexels.com/photos/9678254/pexels-photo-9678254.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Spaghetti mit Tomatensauce auf weißem Teller, Nahaufnahme"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/4518891/pexels-photo-4518891.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Spaghetti mit Cherrytomaten und Käse"
+  }
+ },
+ {
+  "slug": "l-osteria-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/29336179/pexels-photo-29336179.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Peperoni-Pizza auf Holztheke in der Pizzeria"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/35017349/pexels-photo-35017349.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Pizzastück mit laufendem geschmolzenem Käse"
+  }
+ },
+ {
+  "slug": "dean-david-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/793759/pexels-photo-793759.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Bunte Salat-Bowl mit Avocado, Ei und Tomaten"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/7660437/pexels-photo-7660437.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Drei gesunde Salat-Bowls mit frischem Gemüse von oben"
+  }
+ },
+ {
+  "slug": "dominos-pizza-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/4109077/pexels-photo-4109077.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Frisch gebackene Peperoni-Pizza in der Pizzabox"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/12989249/pexels-photo-12989249.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Frau hält Pizzabox mit frischer Pizza"
+  }
+ },
+ {
+  "slug": "sausalitos-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/33013718/pexels-photo-33013718.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Bunte Cocktails elegant an der Bar arrangiert"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/8864541/pexels-photo-8864541.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Farbige Cocktails auf einer Holztheke in moderner Bar"
+  }
+ },
+ {
+  "slug": "coffee-fellows-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/17467111/pexels-photo-17467111.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Tasse Kaffee mit Latte Art"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/6412950/pexels-photo-6412950.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Buntes Bagel-Frühstück mit Frischkäse"
+  }
+ },
+ {
+  "slug": "backwerk-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/30853710/pexels-photo-30853710.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Frische Croissants in einer Berliner Bäckerei"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/15738013/pexels-photo-15738013.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Frisch gebackene Croissants auf einem Teller"
+  }
+ },
+ {
+  "slug": "yormas-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/18529797/pexels-photo-18529797.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Laugenbrezel in Nahaufnahme"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/4651969/pexels-photo-4651969.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Frische Brezeln am Streetfood-Stand"
+  }
+ },
+ {
+  "slug": "call-a-pizza-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/6068712/pexels-photo-6068712.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Pizzastück wird von frischer Pizza serviert"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/4004463/pexels-photo-4004463.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Hand hält ein Peperoni-Pizzastück"
+  }
+ },
+ {
+  "slug": "ditsch-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/18671427/pexels-photo-18671427.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Stapel handwerklicher Brezeln in der Bäckerei-Auslage"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/26268379/pexels-photo-26268379.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Haufen frisch gebackener Brezeln mit Salz"
+  }
+ },
+ {
+  "slug": "frittenwerk-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/17035135/pexels-photo-17035135.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Loaded Fries mit geschmolzenem Käse, Bacon und BBQ-Sauce"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/12946720/pexels-photo-12946720.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Pommes frites mit cremiger Käsesauce"
+  }
+ },
+ {
+  "slug": "haus-des-doners-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/34474847/pexels-photo-34474847.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Koch steht am rotierenden Döner-Spieß"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/19565703/pexels-photo-19565703.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Hand hält Döner am Streetfood-Stand"
+  }
+ },
+ {
+  "slug": "cafe-del-sol-speisekarte",
+  "featured": {
+   "url": "https://images.pexels.com/photos/33089291/pexels-photo-33089291.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Stilvoller Brunch mit Kaffee, Gebäck und Blumen"
+  },
+  "supporting": {
+   "url": "https://images.pexels.com/photos/8230026/pexels-photo-8230026.jpeg?auto=compress&cs=tinysrgb&w=1200",
+   "alt": "Bunter Brunch-Spread mit Sandwiches und Säften von oben"
+  }
+ }
+]

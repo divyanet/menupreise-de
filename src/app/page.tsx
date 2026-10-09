@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
-import { getMenusByCategory, getCategory, getAllMenus } from "@/lib/menus";
+import {
+  getMenusByCategory,
+  getCategory,
+  getAllMenus,
+  getImage,
+  getPillarSlug,
+} from "@/lib/menus";
 
 export const metadata: Metadata = {
   title: `${SITE_NAME} – Speisekarten & Preise in Deutschland 2026`,
@@ -28,25 +34,48 @@ export default function Home() {
 
       <div className="wrap" id="restaurants">
         <div id="kategorien">
-          {groups.map((g) => (
-            <section key={g.category}>
-              <h2 className="section-title">{g.category}</h2>
-              <p className="section-sub">
-                {g.menus.length}{" "}
-                {g.menus.length === 1 ? "Restaurant" : "Restaurants"} mit
-                aktueller Speisekarte und Preisliste.
-              </p>
-              <div className="grid">
-                {g.menus.map((m) => (
-                  <a className="card" key={m.slug} href={`/${m.slug}/`}>
-                    <span className="cat">{getCategory(m.slug)}</span>
-                    <h3>{m.h1}</h3>
-                    <p>{m.metaDescription}</p>
-                  </a>
-                ))}
-              </div>
-            </section>
-          ))}
+          {groups.map((g) => {
+            const pillarSlug = getPillarSlug(g.category);
+            return (
+              <section key={g.category}>
+                <h2 className="section-title">
+                  {pillarSlug ? (
+                    <a href={`/kategorie/${pillarSlug}/`}>{g.category}</a>
+                  ) : (
+                    g.category
+                  )}
+                </h2>
+                <p className="section-sub">
+                  {g.menus.length}{" "}
+                  {g.menus.length === 1 ? "Restaurant" : "Restaurants"} mit
+                  aktueller Speisekarte und Preisliste.
+                </p>
+                <div className="grid">
+                  {g.menus.map((m) => {
+                    const ri = getImage(m.slug);
+                    return (
+                      <a className="card" key={m.slug} href={`/${m.slug}/`}>
+                        {ri && (
+                          <span className="card-img">
+                            <img
+                              src={ri.featured.url}
+                              alt={ri.featured.alt}
+                              loading="lazy"
+                            />
+                          </span>
+                        )}
+                        <span className="card-body">
+                          <span className="cat">{getCategory(m.slug)}</span>
+                          <h3>{m.h1}</h3>
+                          <p>{m.metaDescription}</p>
+                        </span>
+                      </a>
+                    );
+                  })}
+                </div>
+              </section>
+            );
+          })}
         </div>
 
         <section>
@@ -55,10 +84,13 @@ export default function Home() {
             Restaurantpreise ändern sich ständig – und sie unterscheiden sich
             von Stadt zu Stadt. Wir sammeln die aktuellen Speisekarten und
             Preislisten der bekanntesten Ketten und Restaurants in Deutschland
-            an einem Ort. Jede Seite enthält eine übersichtliche Preistabelle,
-            häufige Fragen und wird regelmäßig aktualisiert. Preise, die wir
-            nicht offiziell bestätigen konnten, kennzeichnen wir ehrlich mit
-            „ca.“.
+            an einem Ort.
+          </p>
+          <p>
+            Jede Seite enthält eine übersichtliche Preistabelle mit den
+            beliebtesten Gerichten, kurze Infos zur Karte und Antworten auf
+            häufige Fragen. So findest du schnell heraus, was dein
+            Lieblingsessen aktuell kostet – vor deinem nächsten Besuch.
           </p>
         </section>
       </div>

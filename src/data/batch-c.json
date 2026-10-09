@@ -2213,23 +2213,6 @@
         "items": [
           {
             "approx": false,
-            "desc": "Curry mit Gemüse und Basmatireis, vegan",
-            "name": "Gemüsecurry mit Basmatireis",
-            "price": "10,90 €"
-          },
-          {
-            "approx": false,
-            "desc": "Hähnchen-Alternative mit Teriyaki-Sauce und Basmatireis, vegan",
-            "name": "Planted Chicken Teriyaki mit Basmatireis",
-            "price": "11,90 €"
-          }
-        ],
-        "name": "Bordrestaurant – Warme Gerichte"
-      },
-      {
-        "items": [
-          {
-            "approx": false,
             "desc": "Warmes Hafer-Porridge mit Apfel und Zimt, vegan",
             "name": "Veganes Porridge",
             "price": "3,90 €"
@@ -2263,6 +2246,18 @@
       },
       {
         "items": [
+          {
+            "approx": false,
+            "desc": "Curry mit Gemüse und Basmatireis, vegan",
+            "name": "Gemüsecurry mit Basmatireis",
+            "price": "10,90 €"
+          },
+          {
+            "approx": false,
+            "desc": "Hähnchen-Alternative mit Teriyaki-Sauce und Basmatireis, vegan",
+            "name": "Planted Chicken Teriyaki mit Basmatireis",
+            "price": "11,90 €"
+          },
           {
             "approx": false,
             "desc": "Warme Tomatensuppe mit Brötchen",
@@ -2306,7 +2301,7 @@
             "price": "8,90 €"
           }
         ],
-        "name": "Bordbistro – Snacks"
+        "name": "Speisen & Snacks"
       },
       {
         "items": [
@@ -2493,6 +2488,12 @@
             "desc": "Neukunden-Rabatt über die ersten Boxen",
             "name": "Neukunden-Gutschein",
             "price": "bis zu 120 € Rabatt"
+          },
+          {
+            "name": "Welcome Kit (Neukunden)",
+            "price": "gratis",
+            "approx": true,
+            "desc": "Gewürz, Rezeptfolder und Schürze für die ersten Boxen"
           }
         ],
         "name": "Portionspreise & Versand"

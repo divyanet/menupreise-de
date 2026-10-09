@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "gosch-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/8964280/pexels-photo-8964280.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gegrilltes Lachsfilet mit Limette auf einem Keramikteller serviert"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/28446446/pexels-photo-28446446.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gegrillter ganzer Fisch mit Gemüse auf einer Servierplatte"
+    }
+  },
+  {
+    "slug": "alex-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/10720381/pexels-photo-10720381.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Frühstücksteller mit Spiegelei, Salat und Toast auf einem Restauranttisch"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/29000019/pexels-photo-29000019.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Edles Frühstücksbuffet mit Brot und Gebäck in einem Restaurant"
+    }
+  },
+  {
+    "slug": "cafe-buur-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/31321859/pexels-photo-31321859.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gemütlicher Cafétisch von oben mit Kuchenstück, Kaffee und Saft"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/16552555/pexels-photo-16552555.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Schokoladenkuchen mit Cappuccino in gemütlicher Café-Atmosphäre"
+    }
+  },
+  {
+    "slug": "brauhaus-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/309427/pexels-photo-309427.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Schnitzel mit Bier und Salat auf einem Teller serviert"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/17988432/pexels-photo-17988432.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Knuspriges Schnitzel in der Pfanne in Butter gebraten"
+    }
+  },
+  {
+    "slug": "borchardt-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/3655916/pexels-photo-3655916.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Fein angerichtetes Lachsgericht mit Quinoa und Kräutern"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/33432663/pexels-photo-33432663.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gourmet-Ceviche mit Avocado, Kaviar und Microgreens"
+    }
+  },
+  {
+    "slug": "hofmanns-menu",
+    "featured": {
+      "url": "https://images.pexels.com/photos/36115189/pexels-photo-36115189.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Bunte Meal-Prep-Schalen mit Pasta, Brokkoli und Hähnchen"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/30635720/pexels-photo-30635720.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gesunde Meal-Prep-Boxen mit Reis und Gemüse"
+    }
+  },
+  {
+    "slug": "db-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/6640257/pexels-photo-6640257.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Coffee-to-go in der Hand vor einem beschlagenen Fenster"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/29784887/pexels-photo-29784887.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Warme Kaffeetasse auf einer Decke am Fenster im Winter"
+    }
+  },
+  {
+    "slug": "hello-fresh-preise",
+    "featured": {
+      "url": "https://images.pexels.com/photos/4569050/pexels-photo-4569050.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Frische Gemüsepfanne wird auf dem Herd geschwenkt"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/34429558/pexels-photo-34429558.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Rinderpfanne mit Paprika und Karotten in der Edelstahlpfanne"
+    }
+  },
+  {
+    "slug": "poseidon-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/9765354/pexels-photo-9765354.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gegrillter Calamari mit Salat und Pommes, griechisches Gericht"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/34293330/pexels-photo-34293330.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Frischer griechischer Salat mit Feta, Oliven und Tomaten"
+    }
+  },
+  {
+    "slug": "deutsches-haus-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/28996262/pexels-photo-28996262.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Herzhaftes Schweinegericht mit Kartoffeln und Rotwein"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/19503823/pexels-photo-19503823.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Zartes Fleisch mit Sauerkraut in cremiger Sauce"
+    }
+  },
+  {
+    "slug": "buddha-lounge-flensburg-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/20157987/pexels-photo-20157987.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Sushi-Platte mit verschiedenen Rollen und Lachs-Nigiri"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/10295768/pexels-photo-10295768.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Bunte Sushi-Rollen auf einem dekorativen Teller"
+    }
+  },
+  {
+    "slug": "landgasthof-adler-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/29353004/pexels-photo-29353004.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Deftige Wurstplatte mit Sauerkraut und Senf"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/8321980/pexels-photo-8321980.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Herzhafter Fleischeintopf in einer Schüssel"
+    }
+  },
+  {
+    "slug": "gasthof-zur-post-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/17411258/pexels-photo-17411258.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Frische Brezeln in Nahaufnahme"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/10952402/pexels-photo-10952402.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Eingeschenktes Weißbier mit Schaumkrone"
+    }
+  },
+  {
+    "slug": "akropolis-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/29535638/pexels-photo-29535638.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Hausgemachte Moussaka mit Auberginen auf einem Teller"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/5191827/pexels-photo-5191827.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Tzatziki-Dip mit Oliven und Minze in einer Keramikschale"
+    }
+  },
+  {
+    "slug": "edmondo-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/5807018/pexels-photo-5807018.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Spaghetti Bolognese auf einem Teller serviert"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/11262120/pexels-photo-11262120.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Spaghetti mit Tomatensauce und Basilikum auf weißem Teller"
+    }
+  },
+  {
+    "slug": "block-house-speisekarte",
+    "featured": {
+      "url": "https://images.pexels.com/photos/27305265/pexels-photo-27305265.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Gegrilltes Rindersteak mit Sauce und Zitrone"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/1352262/pexels-photo-1352262.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Saftiges Steak mit Kirschtomaten, Pommes und Sauce"
+    }
+  }
+]

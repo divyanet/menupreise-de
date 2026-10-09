@@ -1,0 +1,189 @@
+[
+  {
+    "slug": "mc-donalds-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Saftiger Cheeseburger mit geschmolzenem Cheddar, Salat und Tomate"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Burger mit knusprigen Pommes frites serviert"
+    }
+  },
+  {
+    "slug": "mc-donalds-fruhstuck",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Frühstücksteller mit Spiegelei, Toast und Beilagen"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=1200&q=70",
+      "alt": "French Toast mit frischen Beeren zum Frühstück"
+    }
+  },
+  {
+    "slug": "mcdonalds-getranke-menu",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Cremiger Schokoladen-Milkshake mit Sahnehaube und Keks"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1554866585-cd94860890b7?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Eiskalte Coca-Cola Dose vor rotem Hintergrund"
+    }
+  },
+  {
+    "slug": "mc-donalds-happy-meal",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Kindermenü mit saftigem Burger und Pommes frites"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprige goldene Pommes frites"
+    }
+  },
+  {
+    "slug": "burger-king-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Flammgegrillter Burger auf Holzbrett serviert"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Burger mit Pommes auf rustikalem Holzbrett"
+    }
+  },
+  {
+    "slug": "burger-king-fruhstuck",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Frühstück mit Spiegelei und Toast"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/5848086/pexels-photo-5848086.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Frühstücks-Sandwiches mit Schinken, Käse und Ei"
+    }
+  },
+  {
+    "slug": "burger-king-cheeseburger-preis",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Cheeseburger mit geschmolzenem Käse in Nahaufnahme"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Doppel-Cheeseburger mit zwei Beef-Patties"
+    }
+  },
+  {
+    "slug": "burger-king-spielzeug",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Frischer Burger mit Salat, Tomate und Käse"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Burger-Menü für Kinder mit knusprigen Pommes"
+    }
+  },
+  {
+    "slug": "kfc-speisekarte-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprige Hähnchenteile in würziger Panade"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprig panierte Hähnchenstücke mit Dip"
+    }
+  },
+  {
+    "slug": "kfc-gutscheine",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprige Hähnchenteile im Korb mit Dip"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Hähnchenstreifen wird in Dip getaucht"
+    }
+  },
+  {
+    "slug": "subway-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Frisch belegtes Sandwich mit Gemüse"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Geröstete Sandwich-Dreiecke mit Dip"
+    }
+  },
+  {
+    "slug": "five-guys-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Zwei Gourmet-Burger auf Holzbrett"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprige Pommes frites als Beilage"
+    }
+  },
+  {
+    "slug": "peter-pane-speisekarte",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Saftiger Gourmet-Burger mit Pommes"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Burger auf Holzbrett mit frischen Zutaten"
+    }
+  },
+  {
+    "slug": "hans-im-gluck-speisekarte",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Gemütliches Burger-Restaurant Interieur"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Modernes Restaurant mit Tischen und Stühlen"
+    }
+  },
+  {
+    "slug": "timberjacks-speisekarte",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Saftiges Steak mit Beilagen angerichtet"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Gegrilltes Steak mit Rosmarin"
+    }
+  },
+  {
+    "slug": "dunkin-donuts-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Bunte Donuts mit Zuckerguss"
+    },
+    "supporting": {
+      "url": "https://images.pexels.com/photos/6940978/pexels-photo-6940978.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Donut mit Schokoladenglasur auf einer Gabel"
+    }
+  },
+  {
+    "slug": "fast-food-preise",
+    "featured": {
+      "url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Fast Food: Burger und Pommes frites"
+    },
+    "supporting": {
+      "url": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=1200&q=70",
+      "alt": "Knusprige Pommes frites in der Schale"
+    }
+  }
+]
