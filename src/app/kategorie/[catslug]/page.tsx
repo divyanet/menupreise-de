@@ -5,10 +5,9 @@ import {
   getAllPillars,
   getPillar,
   getMenusByCategory,
-  getCategory,
-  getImage,
   type PillarPage,
 } from "@/lib/menus";
+import PostCard from "@/components/post-card";
 
 export const dynamicParams = false;
 
@@ -63,7 +62,6 @@ export default async function PillarRoute({
     (g) => g.category === pillar.category
   );
   const menus = group?.menus ?? [];
-  const heroImg = menus.length ? getImage(menus[0].slug) : undefined;
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
@@ -90,57 +88,43 @@ export default async function PillarRoute({
 
   return (
     <>
-      <div className="hero slim">
-        <div className="wrap">
-          <nav className="crumbs light" aria-label="Brotkrumen">
-            <a href="/">Startseite</a> &rsaquo; <span>{pillar.category}</span>
-          </nav>
-          <h1 className="page-h1">{pillar.h1}</h1>
-          <p className="meta-line light">
-            Aktualisiert: {formatDate(pillar.updated)} · {menus.length}{" "}
-            Restaurants
-          </p>
-        </div>
+      <div className="narrow">
+        <nav className="breadcrumb" aria-label="Brotkrumen">
+          <a href="/">Startseite</a>
+          <span className="sep">/</span>
+          <span>{pillar.category}</span>
+        </nav>
       </div>
 
-      <div className="wrap">
-        <article className="article">
+      <header className="tag-header">
+        <span className="tag-count">
+          Kategorie · {menus.length} Guides · {formatDate(pillar.updated)}
+        </span>
+        <h1>
+          {pillar.category}
+        </h1>
+        <p>{pillar.metaDescription}</p>
+      </header>
+
+      <div className="inner">
+        <div className="post-full-content" style={{ paddingTop: 32 }}>
           {pillar.introParas.map((p, i) => (
             <p key={i}>{p}</p>
           ))}
-        </article>
-
-        <h2 className="section-title">
-          Alle {pillar.category}-Restaurants im Überblick
-        </h2>
-        <div className="grid">
-          {menus.map((m) => {
-            const ri = getImage(m.slug);
-            return (
-              <a className="card" key={m.slug} href={`/${m.slug}/`}>
-                {ri && (
-                  <span className="card-img">
-                    <img src={ri.featured.url} alt={ri.featured.alt} loading="lazy" />
-                  </span>
-                )}
-                <span className="card-body">
-                  <span className="cat">{getCategory(m.slug)}</span>
-                  <h3>{m.h1}</h3>
-                  <p>{m.metaDescription}</p>
-                </span>
-              </a>
-            );
-          })}
         </div>
 
-        <article className="article">
+        <h2 className="feed-section-title">
+          Alle {pillar.category}-Guides
+        </h2>
+        <div className="post-feed">
+          {menus.map((m) => (
+            <PostCard key={m.slug} menu={m} />
+          ))}
+        </div>
+
+        <div className="post-full-content" style={{ paddingTop: 8 }}>
           <p>{pillar.outro}</p>
-          {heroImg && (
-            <figure className="inline-img">
-              <img src={heroImg.supporting.url} alt={heroImg.supporting.alt} loading="lazy" />
-            </figure>
-          )}
-        </article>
+        </div>
 
         <script
           type="application/ld+json"

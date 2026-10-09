@@ -13,6 +13,7 @@ import {
   shortParas,
   type MenuPage,
 } from "@/lib/menus";
+import PostCard, { readingTime } from "@/components/post-card";
 
 export const dynamicParams = false;
 
@@ -121,7 +122,10 @@ export default async function MenuPageRoute({
       ? detailed.overviewParas
       : [fallbackOverview];
 
-  const popular = menu.categories.slice(0, 3).map((c) => c.items[0]?.name).filter(Boolean) as string[];
+  const popular = menu.categories
+    .slice(0, 3)
+    .map((c) => c.items[0]?.name)
+    .filter(Boolean) as string[];
   const fallbackPopular =
     popular.length >= 2
       ? `Zu den beliebtesten Gerichten bei ${brand} gehören ${popular
@@ -141,9 +145,18 @@ export default async function MenuPageRoute({
 
   const related = getAllMenus()
     .filter((m) => m.slug !== slug && getCategory(m.slug) === category)
-    .slice(0, 6);
+    .slice(0, 3);
 
   const midIndex = Math.ceil(menu.categories.length / 2);
+
+  const fullText = [
+    menu.intro,
+    ...overviewParas,
+    ...popularParas,
+    ...tipsParas,
+    ...allFaqs.map((f) => f.q + " " + f.a),
+  ].join(" ");
+  const mins = readingTime(fullText);
 
   const faqJsonLd = {
     "@context": "https://schema.org",
@@ -164,7 +177,9 @@ export default async function MenuPageRoute({
         "@type": "ListItem",
         position: 2,
         name: category,
-        item: pillarSlug ? `${SITE_URL}/kategorie/${pillarSlug}/` : `${SITE_URL}/#kategorien`,
+        item: pillarSlug
+          ? `${SITE_URL}/kategorie/${pillarSlug}/`
+          : `${SITE_URL}/#kategorien`,
       },
       { "@type": "ListItem", position: 3, name: menu.h1, item: url },
     ],
@@ -196,189 +211,205 @@ export default async function MenuPageRoute({
 
   return (
     <>
-      {img ? (
-        <div className="hero-img">
-          <img src={img.featured.url} alt={img.featured.alt} loading="eager" />
-          <div className="hero-img-overlay">
-            <div className="wrap">
-              <nav className="crumbs light" aria-label="Brotkrumen">
-                <a href="/">Startseite</a> &rsaquo;{" "}
-                {pillarSlug ? (
-                  <a href={`/kategorie/${pillarSlug}/`}>{category}</a>
-                ) : (
-                  <span>{category}</span>
-                )}{" "}
-                &rsaquo; <span>{menu.h1}</span>
-              </nav>
-              <h1 className="page-h1">{menu.h1}</h1>
-              <p className="meta-line light">
-                Aktualisiert: {formatDate(menu.updated)}
-              </p>
-            </div>
-          </div>
+      <div className="narrow">
+        <nav className="breadcrumb" aria-label="Brotkrumen">
+          <a href="/">Startseite</a>
+          <span className="sep">/</span>
+          {pillarSlug ? (
+            <a href={`/kategorie/${pillarSlug}/`}>{category}</a>
+          ) : (
+            <span>{category}</span>
+          )}
+          <span className="sep">/</span>
+          <span>{menu.h1}</span>
+        </nav>
+      </div>
+
+      <header className="post-full-header">
+        {pillarSlug ? (
+          <a className="post-full-tag" href={`/kategorie/${pillarSlug}/`}>
+            {category}
+          </a>
+        ) : (
+          <span className="post-full-tag">{category}</span>
+        )}
+        <h1 className="post-full-title">{menu.h1}</h1>
+        <p className="post-full-excerpt">{menu.metaDescription}</p>
+        <div className="byline">
+          <span className="avatar" aria-hidden="true">
+            M
+          </span>
+          <span style={{ textAlign: "left" }}>
+            <strong>MenüPreise Redaktion</strong>
+            {formatDate(menu.updated)} · {mins} Min. Lesezeit
+          </span>
         </div>
-      ) : (
-        <div className="wrap">
-          <nav className="crumbs" aria-label="Brotkrumen">
-            <a href="/">Startseite</a> &rsaquo; <span>{category}</span> &rsaquo;{" "}
-            <span>{menu.h1}</span>
-          </nav>
-          <h1 className="page-h1">{menu.h1}</h1>
-          <p className="meta-line">Aktualisiert: {formatDate(menu.updated)}</p>
-        </div>
+      </header>
+
+      {img && (
+        <figure className="post-full-image">
+          <img src={img.featured.url} alt={img.featured.alt} />
+          <figcaption>{img.featured.alt}</figcaption>
+        </figure>
       )}
 
-      <div className="wrap">
-        <article className="article">
-          {introParas.slice(0, 2).map((p, i) => (
-            <p key={i}>{p}</p>
-          ))}
+      <article className="post-full-content">
+        {introParas.slice(0, 2).map((p, i) => (
+          <p key={i}>{p}</p>
+        ))}
 
-          <nav className="toc" aria-label="Inhaltsverzeichnis">
-            <strong>Inhaltsverzeichnis</strong>
-            <ul>
-              <li>
-                <a href="#ueberblick">{brand} Preise im Überblick</a>
+        <nav className="toc" aria-label="Inhaltsverzeichnis">
+          <strong>Inhaltsverzeichnis</strong>
+          <ol>
+            <li>
+              <a href="#ueberblick">{brand} Preise im Überblick</a>
+            </li>
+            {menu.categories.map((c) => (
+              <li key={c.name}>
+                <a href={`#${slugify(c.name)}`}>{c.name}</a>
               </li>
-              {menu.categories.map((c) => (
-                <li key={c.name}>
-                  <a href={`#${slugify(c.name)}`}>{c.name}</a>
-                </li>
-              ))}
+            ))}
+            <li>
+              <a href="#beliebte-gerichte">Beliebte Gerichte</a>
+            </li>
+            {tipsParas.length > 0 && (
               <li>
-                <a href="#beliebte-gerichte">Beliebte Gerichte</a>
+                <a href="#spartipps">Spartipps</a>
               </li>
-              {tipsParas.length > 0 && (
-                <li>
-                  <a href="#spartipps">Spartipps</a>
-                </li>
-              )}
-              <li>
-                <a href="#faq">Häufige Fragen</a>
-              </li>
-            </ul>
-          </nav>
+            )}
+            <li>
+              <a href="#faq">Häufige Fragen</a>
+            </li>
+          </ol>
+        </nav>
 
-          {introParas.slice(2).map((p, i) => (
-            <p key={`r${i}`}>{p}</p>
-          ))}
+        {introParas.slice(2).map((p, i) => (
+          <p key={`r${i}`}>{p}</p>
+        ))}
 
-          <h2 id="ueberblick">{brand} Speisekarte &amp; Preise 2026 im Überblick</h2>
-          {overviewParas.map((p, i) => (
-            <p key={i}>{p}</p>
-          ))}
+        <h2 id="ueberblick">
+          {brand} Speisekarte &amp; Preise 2026 im Überblick
+        </h2>
+        {overviewParas.map((p, i) => (
+          <p key={i}>{p}</p>
+        ))}
 
-          {menu.categories.map((c, ci) => (
-            <div key={c.name}>
-              <h3 id={slugify(c.name)}>
-                {c.name} bei {brand}
-              </h3>
-              {detailed?.categoryIntros?.[c.name] ? (
-                <p>{detailed.categoryIntros[c.name]}</p>
-              ) : (
-                <p>
-                  Die Kategorie „{c.name}“ bei {brand} umfasst {c.items.length}{" "}
-                  {c.items.length === 1 ? "Position" : "Positionen"}.
-                </p>
-              )}
-              <table className="price-table">
-                <thead>
-                  <tr>
-                    <th>Produkt</th>
-                    <th style={{ textAlign: "right" }}>Preis</th>
+        {menu.categories.map((c, ci) => (
+          <div key={c.name}>
+            <h3 id={slugify(c.name)}>
+              {c.name} bei {brand}
+            </h3>
+            {detailed?.categoryIntros?.[c.name] ? (
+              <p>{detailed.categoryIntros[c.name]}</p>
+            ) : (
+              <p>
+                Die Kategorie „{c.name}“ bei {brand} umfasst {c.items.length}{" "}
+                {c.items.length === 1 ? "Position" : "Positionen"}.
+              </p>
+            )}
+            <table className="price-table">
+              <thead>
+                <tr>
+                  <th>Produkt</th>
+                  <th style={{ textAlign: "right" }}>Preis</th>
+                </tr>
+              </thead>
+              <tbody>
+                {c.items.map((item) => (
+                  <tr key={item.name}>
+                    <td>
+                      {item.name}
+                      {item.desc && (
+                        <span className="item-desc">{item.desc}</span>
+                      )}
+                    </td>
+                    <td className="price">{displayPrice(item.price)}</td>
                   </tr>
-                </thead>
-                <tbody>
-                  {c.items.map((item) => (
-                    <tr key={item.name}>
-                      <td>
-                        {item.name}
-                        {item.desc && (
-                          <span className="item-desc">{item.desc}</span>
-                        )}
-                      </td>
-                      <td className="price">{displayPrice(item.price)}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-              {img && ci === midIndex - 1 && (
-                <figure className="inline-img">
-                  <img src={img.supporting.url} alt={img.supporting.alt} loading="lazy" />
-                </figure>
-              )}
-            </div>
-          ))}
+                ))}
+              </tbody>
+            </table>
+            {img && ci === midIndex - 1 && (
+              <figure className="inline-image">
+                <img
+                  src={img.supporting.url}
+                  alt={img.supporting.alt}
+                  loading="lazy"
+                />
+                <figcaption>{img.supporting.alt}</figcaption>
+              </figure>
+            )}
+          </div>
+        ))}
 
-          {popularParas.length > 0 && (
-            <>
-              <h2 id="beliebte-gerichte">Beliebte Gerichte bei {brand}</h2>
-              {popularParas.map((p, i) => (
-                <p key={i}>{p}</p>
-              ))}
-            </>
-          )}
+        {popularParas.length > 0 && (
+          <>
+            <h2 id="beliebte-gerichte">Beliebte Gerichte bei {brand}</h2>
+            {popularParas.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </>
+        )}
 
-          {tipsParas.length > 0 && (
-            <>
-              <h2 id="spartipps">{brand} Spartipps: So zahlst du weniger</h2>
-              {tipsParas.map((p, i) => (
-                <p key={i}>{p}</p>
-              ))}
-            </>
-          )}
+        {tipsParas.length > 0 && (
+          <>
+            <h2 id="spartipps">{brand} Spartipps: So zahlst du weniger</h2>
+            {tipsParas.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </>
+        )}
 
-          {allFaqs.length > 0 && (
-            <section className="faq" id="faq">
-              <h2>Häufige Fragen</h2>
+        {allFaqs.length > 0 && (
+          <section id="faq">
+            <h2>Häufige Fragen</h2>
+            <div className="faq-list">
               {allFaqs.map((f) => (
                 <details key={f.q}>
                   <summary>{f.q}</summary>
                   <p>{f.a}</p>
                 </details>
               ))}
-            </section>
-          )}
-        </article>
-
-        {related.length > 0 && (
-          <section className="related">
-            <h2 className="section-title">Ähnliche Restaurants</h2>
-            <div className="grid">
-              {related.map((m) => {
-                const ri = getImage(m.slug);
-                return (
-                  <a className="card" key={m.slug} href={`/${m.slug}/`}>
-                    {ri && (
-                      <span className="card-img">
-                        <img src={ri.featured.url} alt={ri.featured.alt} loading="lazy" />
-                      </span>
-                    )}
-                    <span className="card-body">
-                      <span className="cat">{getCategory(m.slug)}</span>
-                      <h3>{m.h1}</h3>
-                      <p>{m.metaDescription}</p>
-                    </span>
-                  </a>
-                );
-              })}
             </div>
           </section>
         )}
+      </article>
 
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(menuJsonLd) }}
-        />
+      <div className="post-full-footer">
+        <div className="post-tags">
+          {pillarSlug && (
+            <a className="tag-pill" href={`/kategorie/${pillarSlug}/`}>
+              {category}
+            </a>
+          )}
+          <a className="tag-pill" href="/#kategorien">
+            Alle Kategorien
+          </a>
+        </div>
+
+        {related.length > 0 && (
+          <section className="read-next">
+            <h2>Weiterlesen</h2>
+            <div className="post-feed">
+              {related.map((m) => (
+                <PostCard key={m.slug} menu={m} />
+              ))}
+            </div>
+          </section>
+        )}
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(menuJsonLd) }}
+      />
     </>
   );
 }

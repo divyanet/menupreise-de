@@ -1,114 +1,72 @@
 import type { Metadata } from "next";
-import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { SITE_NAME, SITE_URL, SITE_TAGLINE } from "@/lib/site";
 import {
-  getMenusByCategory,
-  getCategory,
   getAllMenus,
-  getImage,
+  getMenusByCategory,
   getPillarSlug,
 } from "@/lib/menus";
+import PostCard from "@/components/post-card";
 
 export const metadata: Metadata = {
   title: `${SITE_NAME} – Speisekarten & Preise in Deutschland 2026`,
-  description:
-    "Aktuelle Speisekarten und Preise von McDonald's, Burger King, KFC, Subway, Starbucks, Nordsee, Vapiano und vielen mehr – alle Restaurants in Deutschland im Überblick.",
+  description: SITE_TAGLINE,
   alternates: { canonical: SITE_URL },
 };
 
 export default function Home() {
+  const menus = getAllMenus();
+  const [featured, ...rest] = menus;
+  const latest = rest.slice(0, 8);
   const groups = getMenusByCategory();
-  const total = getAllMenus().length;
   return (
     <>
-      <section className="hero">
-        <div className="wrap">
-          <h1>Speisekarten &amp; Preise in Deutschland 2026</h1>
-          <p>
-            Finde aktuelle Menüs und Preise von {total} beliebten Restaurants –
-            von McDonald&apos;s und Burger King bis zu Nordsee, Vapiano und
-            Hans im Glück. Alle Angaben auf Deutsch, übersichtlich und aktuell.
-          </p>
-          <span className="updated">Stand: Oktober 2026</span>
-        </div>
-      </section>
-
-      <div className="wrap" id="restaurants">
-        <div id="kategorien">
-          {groups.map((g) => {
-            const pillarSlug = getPillarSlug(g.category);
-            return (
-              <section key={g.category}>
-                <h2 className="section-title">
-                  {pillarSlug ? (
-                    <a href={`/kategorie/${pillarSlug}/`}>{g.category}</a>
-                  ) : (
-                    g.category
-                  )}
-                </h2>
-                <p className="section-sub">
-                  {g.menus.length}{" "}
-                  {g.menus.length === 1 ? "Restaurant" : "Restaurants"} mit
-                  aktueller Speisekarte und Preisliste.
-                </p>
-                <div className="grid">
-                  {g.menus.map((m) => {
-                    const ri = getImage(m.slug);
-                    return (
-                      <a className="card" key={m.slug} href={`/${m.slug}/`}>
-                        {ri && (
-                          <span className="card-img">
-                            <img
-                              src={ri.featured.url}
-                              alt={ri.featured.alt}
-                              loading="lazy"
-                            />
-                          </span>
-                        )}
-                        <span className="card-body">
-                          <span className="cat">{getCategory(m.slug)}</span>
-                          <h3>{m.h1}</h3>
-                          <p>{m.metaDescription}</p>
-                        </span>
-                      </a>
-                    );
-                  })}
-                </div>
-              </section>
-            );
-          })}
-        </div>
-
-        <section>
-          <h2 className="section-title">Warum {SITE_NAME}?</h2>
-          <p>
-            Restaurantpreise ändern sich ständig – und sie unterscheiden sich
-            von Stadt zu Stadt. Wir sammeln die aktuellen Speisekarten und
-            Preislisten der bekanntesten Ketten und Restaurants in Deutschland
-            an einem Ort.
-          </p>
-          <p>
-            Jede Seite enthält eine übersichtliche Preistabelle mit den
-            beliebtesten Gerichten, kurze Infos zur Karte und Antworten auf
-            häufige Fragen. So findest du schnell heraus, was dein
-            Lieblingsessen aktuell kostet – vor deinem nächsten Besuch.
-          </p>
-        </section>
+      <div className="site-hero">
+        <h1>
+          Menü<em>Preise</em>
+        </h1>
+        <p>{SITE_TAGLINE} – ausführliche Guides mit Preistabellen, Spartipps und FAQs.</p>
       </div>
 
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "WebSite",
-            name: SITE_NAME,
-            url: SITE_URL,
-            inLanguage: "de",
-            description:
-              "Aktuelle Speisekarten und Preise der beliebtesten Restaurants in Deutschland.",
-          }),
-        }}
-      />
+      <div className="inner" id="neueste">
+        <h2 className="feed-section-title">Empfohlener Guide</h2>
+        <div className="post-feed">
+          <PostCard menu={featured} featured />
+        </div>
+
+        <h2 className="feed-section-title">Neueste Guides</h2>
+        <div className="post-feed">
+          {latest.map((m) => (
+            <PostCard key={m.slug} menu={m} />
+          ))}
+        </div>
+
+        <h2 className="feed-section-title" id="kategorien">
+          Kategorien
+        </h2>
+        <div className="tag-cloud">
+          {groups.map((g) => (
+            <a
+              key={g.category}
+              className="tag-pill"
+              href={`/kategorie/${getPillarSlug(g.category)}/`}
+            >
+              {g.category}
+              <small>{g.menus.length}</small>
+            </a>
+          ))}
+        </div>
+
+        {groups.map((g) => (
+          <div key={g.category}>
+            <h2 className="feed-section-title">{g.category}</h2>
+            <div className="post-feed">
+              {g.menus.slice(0, 3).map((m) => (
+                <PostCard key={m.slug} menu={m} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
     </>
   );
 }

@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
-import { getAllMenus, getCategory } from "@/lib/menus";
+import {
+  getAllMenus,
+  getCategory,
+  getPillarSlug,
+  CATEGORY_ORDER,
+} from "@/lib/menus";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -27,34 +32,42 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   const menus = getAllMenus();
-  const featured = menus.slice(0, 8);
+  const popular = menus.slice(0, 6);
+  const cats = CATEGORY_ORDER.filter((c) =>
+    menus.some((m) => getCategory(m.slug) === c)
+  );
   return (
     <html lang="de">
       <body>
-        <header className="site-header">
-          <div className="wrap">
+        <header className="site-head">
+          <div className="inner">
             <a className="brand" href="/">
-              Menü<span>Preise</span>
+              Menü<em>Preise</em>
             </a>
-            <nav className="site-nav">
-              <a href="/">Startseite</a>
-              <a href="/#restaurants">Restaurants</a>
+            <nav className="site-nav" aria-label="Hauptnavigation">
+              <a href="/">Start</a>
               <a href="/#kategorien">Kategorien</a>
+              <a href="/#neueste">Neueste</a>
+              <a className="nav-cta" href="/#kategorien">
+                Alle Restaurants
+              </a>
             </nav>
           </div>
         </header>
         <main>{children}</main>
-        <footer className="site-footer">
-          <div className="wrap">
-            <div className="footer-grid">
+        <footer className="site-foot">
+          <div className="inner">
+            <div className="foot-grid">
               <div>
-                <h4>{SITE_NAME}</h4>
+                <a className="foot-brand" href="/">
+                  Menü<em>Preise</em>
+                </a>
                 <p>{SITE_TAGLINE}.</p>
               </div>
               <div>
-                <h4>Beliebt</h4>
+                <h4>Beliebte Guides</h4>
                 <ul>
-                  {featured.map((m) => (
+                  {popular.map((m) => (
                     <li key={m.slug}>
                       <a href={`/${m.slug}/`}>{m.h1}</a>
                     </li>
@@ -64,20 +77,19 @@ export default function RootLayout({
               <div>
                 <h4>Kategorien</h4>
                 <ul>
-                  {Array.from(new Set(menus.map((m) => getCategory(m.slug)))).map(
-                    (c) => (
-                      <li key={c}>
-                        <a href={`/#kategorien`}>{c}</a>
-                      </li>
-                    )
-                  )}
+                  {cats.map((c) => (
+                    <li key={c}>
+                      <a href={`/kategorie/${getPillarSlug(c)}/`}>{c}</a>
+                    </li>
+                  ))}
                 </ul>
               </div>
             </div>
             <p className="disclaimer">
               Hinweis: Alle Preise sind unverbindliche Richtwerte in Euro,
               Stand Oktober 2026. Die tatsächlichen Preise können je nach
-              Standort und Filiale abweichen. Alle Angaben ohne Gewähr.
+              Standort und Filiale abweichen. Alle Angaben ohne Gewähr. ©
+              2026 {SITE_NAME}.
             </p>
           </div>
         </footer>
